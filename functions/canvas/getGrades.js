@@ -28,27 +28,75 @@ module.exports = async(config, classId) =>{
                 scores.push(score)
             })
             console.table(scores)
-            let gradingSystemString = document.querySelector("#assignments-not-weighted > div:nth-child(1) > table > tbody").textContent
-            let gradingSystemMatches = [...gradingSystemString.toString().matchAll(/(?<group>\w[A-Za-z /-]+)\s+(?<percent>[\d\.]+)/g)]
             let gradingSystem = {}
-            gradingSystemMatches.forEach(assignmentType => {
-                gradingSystem[assignmentType.groups.group] = {
-                    percentageWeight: assignmentType.groups.percent,
+            try{
+                let gradingSystemString = document.querySelector("#assignments-not-weighted > div:nth-child(1) > table > tbody").textContent
+                let gradingSystemMatches = [...gradingSystemString.toString().matchAll(/(?<group>\w[A-Za-z /-]+)\s+(?<percent>[\d\.]+)/g)]
+                // gradingSystem.weighted = true
+                gradingSystemMatches.forEach(assignmentType => {
+                    gradingSystem[assignmentType.groups.group] = {
+                        percentageWeight: assignmentType.groups.percent,
+                        myPoints: 0,
+                        maxPoints: 0,
+                    }
+                })
+                scores.forEach( (eachAssignment) => {
+                    gradingSystem[eachAssignment.assignmentType]["maxPoints"] += parseInt(eachAssignment.maxPoints)
+                    gradingSystem[eachAssignment.assignmentType]["myPoints"] += parseInt(eachAssignment.myScore)
+                })
+                gradingSystem.Total.percentageOfGrade = 0
+                Object.entries(gradingSystem).forEach( ([key, value]) => {
+                    if(key !== "Total"){
+                        gradingSystem.Total.maxPoints += parseInt(value.maxPoints)
+                        gradingSystem.Total.myPoints += parseInt(value.myPoints)
+                    }
+                    value.percentage = Math.round(value.myPoints / value.maxPoints * 100 * 100) / 100
+                    if(key !== "Total"){
+                        value.percentageOfGrade = Math.round(value.percentage * parseInt(value.percentageWeight) / 100 * 100) / 100
+                        gradingSystem.Total.percentageOfGrade += value.percentageOfGrade
+
+                    }
+                })
+                
+            }catch{
+                // gradingSystem.weighted = false
+                scores.forEach( (eachAssignment) => {
+                    gradingSystem[eachAssignment.assignmentType] = {
+                        percentageWeight: "Unweighted",
+                        myPoints: 0,
+                        maxPoints: 0,
+                        percentage: 0
+                    }
+                })
+                gradingSystem["Total"] = {
+                    percentageWeight: "Unweighted",
                     myPoints: 0,
                     maxPoints: 0,
                 }
-            })
+                scores.forEach( (eachAssignment) => {
+                    gradingSystem[eachAssignment.assignmentType]["maxPoints"] += parseInt(eachAssignment.maxPoints)
+                    gradingSystem[eachAssignment.assignmentType]["myPoints"] += parseInt(eachAssignment.myScore)
+                })
+                Object.entries(gradingSystem).forEach( ([key, value]) => {
+                    if(key !== "Total"){
+                        gradingSystem.Total.maxPoints += parseInt(value.maxPoints)
+                        gradingSystem.Total.myPoints += parseInt(value.myPoints)
+                    }
+                    value["percentage"] = Math.round(value["myPoints"]/value["maxPoints"] * 10000)/100
+                    
+                    if(value.maxPoints === 0){
+                        value["percentage"] = 0
+                    }
+                })
+                Object.entries(gradingSystem).forEach( ([key, value]) => {
+                    if(key !== "Total"){
+                        value["percentageOfGrade"] = Math.round( value["percentage"] * value["maxPoints"] / gradingSystem["Total"]["maxPoints"] * 100)/100
+                    }
+                })
 
-            scores.forEach( (eachAssignment) => {
-                gradingSystem[eachAssignment.assignmentType]["maxPoints"] += parseInt(eachAssignment.maxPoints)
-                gradingSystem[eachAssignment.assignmentType]["myPoints"] += parseInt(eachAssignment.myScore)
-            })
-            Object.entries(gradingSystem).forEach( ([key, value]) => {
-                if(key !== "Total"){
-                    gradingSystem.Total.maxPoints += parseInt(value.maxPoints)
-                    gradingSystem.Total.myPoints += parseInt(value.myPoints)
-                }
-            })
+                gradingSystem["Total"]["percentage"] = Math.round(gradingSystem["Total"]["myPoints"]/gradingSystem["Total"]["maxPoints"] * 10000)/100
+                gradingSystem["Total"]["percentageOfGrade"] = 100
+            }
             // console.table(gradingSystem);
             canvasResolve({
                 assignments: scores,
