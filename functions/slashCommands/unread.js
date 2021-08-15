@@ -1,6 +1,7 @@
 module.exports = async (interaction, config) => {
     let getData = require('./../canvas/getCanvasDataFromUrl')
-    let unreadUrl = "https://canvas.biola.edu/api/v1/conversations?scope=inbox&filter_mode=and&include_private_conversation_enrollments=false"
+    let unreadUrl = "https://canvas.biola.edu/api/v1/conversations?scope=inbox&filter_mode=and&include_private_conversation_enrollments=false&per_page=10"
+    //i can set any number of pages i want lol, even 100 they dont do api checks xd
     //maybe remove filter
     let data = await getData(config, unreadUrl)
     console.log(data);
@@ -11,7 +12,34 @@ module.exports = async (interaction, config) => {
     if(data.length === 0){
         embed.setDescription("You currently have no Unread Messages!")
     }
+    data.forEach( (eachMessage, c) => {
+        let messageDate = new Date(eachMessage.last_message_at).toLocaleString()
+        let unreadEmoji = "🔖"
+        if(eachMessage.workflow_state === "read"){
+            unreadEmoji = "📖"
+        }
+        embed.addField(
+            `${unreadEmoji}${eachMessage.subject} - ${eachMessage.context_name}`,
+            `${eachMessage.last_message} [${messageDate}]`,
+            false
+        )
+    })
+    let inboxUrl = "https://canvas.biola.edu/conversations#filter=type=inbox"
+    let components = [
 
-    interaction.reply({embeds: [embed]})
+        {
+            "type": 1,
+            "components": [
+                {
+                    "type": 2,
+                    "label": "Go to Inbox!",
+                    "style": 5,
+                    "url": inboxUrl
+                }
+            ]
+        }
+    ]
+
+    interaction.reply({embeds: [embed], components: components})
 }
 
