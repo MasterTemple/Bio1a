@@ -27,8 +27,34 @@ module.exports = async(config, classId) =>{
                 let score = get_data(document, each_assignment_id)
                 scores.push(score)
             })
-            canvasResolve(scores)
             console.table(scores)
+            let gradingSystemString = document.querySelector("#assignments-not-weighted > div:nth-child(1) > table > tbody").textContent
+            let gradingSystemMatches = [...gradingSystemString.toString().matchAll(/(?<group>\w[A-Za-z /-]+)\s+(?<percent>[\d\.]+)/g)]
+            let gradingSystem = {}
+            gradingSystemMatches.forEach(assignmentType => {
+                gradingSystem[assignmentType.groups.group] = {
+                    percentageWeight: assignmentType.groups.percent,
+                    myPoints: 0,
+                    maxPoints: 0,
+                }
+            })
+
+            scores.forEach( (eachAssignment) => {
+                gradingSystem[eachAssignment.assignmentType]["maxPoints"] += parseInt(eachAssignment.maxPoints)
+                gradingSystem[eachAssignment.assignmentType]["myPoints"] += parseInt(eachAssignment.myScore)
+            })
+            Object.entries(gradingSystem).forEach( ([key, value]) => {
+                if(key !== "Total"){
+                    gradingSystem.Total.maxPoints += parseInt(value.maxPoints)
+                    gradingSystem.Total.myPoints += parseInt(value.myPoints)
+                }
+            })
+            // console.table(gradingSystem);
+            canvasResolve({
+                assignments: scores,
+                gradeSummary: gradingSystem
+            })
+
         }).catch(e => console.log(e))
 
 
@@ -36,7 +62,7 @@ module.exports = async(config, classId) =>{
             let assignment = {}
 
             assignment.assignmentName = document.querySelector(`#submission_${assignmentId} > th > a`).textContent
-            assignment.assignmentType = document.querySelector(`#submission_${assignmentId} > th > div`).textContent
+            assignment.assignmentType = document.querySelector(`#submission_${assignmentId} > th > div`).textContent.replace(/^ /g, "")
             try{assignment.myScore = document.querySelector(`#submission_${assignmentId} > td.assignment_score > div > span.tooltip > span`).textContent.match(/[\d\.]+/g)[0]}catch{assignment.myScore = "0"}
             assignment.maxPoints = document.querySelector(`#submission_${assignmentId} > td.possible.points_possible`).textContent.match(/[\d\.]+/g)[0]
             try{assignment.averageScore = document.querySelector(`#score_details_${assignmentId} > tbody > tr > td:nth-child(1)`).textContent.match(/[\d\.]+/g)[0]}catch{assignment.averageScore = "0"}
