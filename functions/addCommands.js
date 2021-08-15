@@ -18,6 +18,11 @@ module.exports = async(client, config) => {
                 default_permission: true,
             },
             {
+                name: 'unread',
+                description: 'View Unread Messages!',
+                default_permission: true,
+            },
+            {
                 name: 'course',
                 description: 'View Course Information!',
                 default_permission: true,

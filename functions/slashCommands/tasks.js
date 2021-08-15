@@ -8,7 +8,7 @@ module.exports = async (interaction, config) => {
     let embed = new Discord.MessageEmbed().setColor(config.bot.color).setTitle(title)
     // embed.setAuthor(config.bot.name, config.bot.iconUrl)
     embed.setThumbnail(config.bot.iconUrl)
-    console.log(data);
+    // console.log(data);
     data.forEach( (eachTask, c) => {
         let dueDate = new Date(eachTask.plannable.due_at).toLocaleString()
         let taskType = eachTask.plannable_type
