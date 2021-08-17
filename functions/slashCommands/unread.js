@@ -5,9 +5,9 @@ module.exports = async (interaction, config) => {
     //maybe remove filter
     let data = await getData(config, unreadUrl)
     console.log(data);
-    let Discord = require('discord.js')
+    let { MessageEmbed } = require('discord.js')
     let title = `Unread Messages [${data.length}]`
-    let embed = new Discord.MessageEmbed().setColor(config.bot.color).setTitle(title)
+    let embed = new MessageEmbed().setColor(config.bot.color).setTitle(title)
     embed.setThumbnail(config.bot.iconUrl)
     if(data.length === 0){
         embed.setDescription("You currently have no Unread Messages!")
@@ -26,7 +26,6 @@ module.exports = async (interaction, config) => {
     })
     let inboxUrl = "https://canvas.biola.edu/conversations#filter=type=inbox"
     let components = [
-
         {
             "type": 1,
             "components": [

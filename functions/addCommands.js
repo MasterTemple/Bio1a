@@ -13,6 +13,11 @@ module.exports = async(client, config) => {
                 default_permission: true,
             },
             {
+                name: 'invite',
+                description: `Invite ${config.bot.name} to your server!`,
+                default_permission: true,
+            },
+            {
                 name: 'tasks',
                 description: 'View Upcoming Tasks!',
                 default_permission: true,
@@ -38,6 +43,7 @@ module.exports = async(client, config) => {
             }
         ]
         await client.guilds.cache.get("614237075889324032").commands.set(cmds)
+        await client.guilds.cache.get("877296015781298188").commands.set(cmds)
         // await client.application.commands.set(cmds)
         // for (const cmd of cmds) {
             
