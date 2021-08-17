@@ -1,7 +1,7 @@
 module.exports = async (config) => {
     return new Promise( (canvas_resolve, reject) => {
         const axios = require('axios')
-        const url = "https://canvas.biola.edu/api/v1/dashboard/dashboard_cards"
+        const url = `https://${config.canvasDomain}/api/v1/dashboard/dashboard_cards`
         axios({
             url: url,
             method: "GET",

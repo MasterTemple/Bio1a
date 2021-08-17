@@ -1,7 +1,7 @@
 module.exports = async(config, classId) =>{
     return new Promise( (canvasResolve, canvasReject) => {
         const axios = require('axios')
-        const url = `https://canvas.biola.edu/courses/${classId}/grades`
+        const url = `https://${config.canvasDomain}/courses/${classId}/grades`
 
         axios({
             url: url,
@@ -41,18 +41,18 @@ module.exports = async(config, classId) =>{
                     }
                 })
                 scores.forEach( (eachAssignment) => {
-                    gradingSystem[eachAssignment.assignmentType]["maxPoints"] += parseInt(eachAssignment.maxPoints)
-                    gradingSystem[eachAssignment.assignmentType]["myPoints"] += parseInt(eachAssignment.myScore)
+                    gradingSystem[eachAssignment.assignmentType]["maxPoints"] += parseFloat(eachAssignment.maxPoints)
+                    gradingSystem[eachAssignment.assignmentType]["myPoints"] += parseFloat(eachAssignment.myScore)
                 })
                 gradingSystem.Total.percentageOfGrade = 0
                 Object.entries(gradingSystem).forEach( ([key, value]) => {
                     if(key !== "Total"){
-                        gradingSystem.Total.maxPoints += parseInt(value.maxPoints)
-                        gradingSystem.Total.myPoints += parseInt(value.myPoints)
+                        gradingSystem.Total.maxPoints += parseFloat(value.maxPoints)
+                        gradingSystem.Total.myPoints += parseFloat(value.myPoints)
                     }
                     value.percentage = Math.round(value.myPoints / value.maxPoints * 100 * 100) / 100
                     if(key !== "Total"){
-                        value.percentageOfGrade = Math.round(value.percentage * parseInt(value.percentageWeight) / 100 * 100) / 100
+                        value.percentageOfGrade = Math.round(value.percentage * parseFloat(value.percentageWeight) / 100 * 100) / 100
                         gradingSystem.Total.percentageOfGrade += value.percentageOfGrade
 
                     }
@@ -74,13 +74,13 @@ module.exports = async(config, classId) =>{
                     maxPoints: 0,
                 }
                 scores.forEach( (eachAssignment) => {
-                    gradingSystem[eachAssignment.assignmentType]["maxPoints"] += parseInt(eachAssignment.maxPoints)
-                    gradingSystem[eachAssignment.assignmentType]["myPoints"] += parseInt(eachAssignment.myScore)
+                    gradingSystem[eachAssignment.assignmentType]["maxPoints"] += parseFloat(eachAssignment.maxPoints)
+                    gradingSystem[eachAssignment.assignmentType]["myPoints"] += parseFloat(eachAssignment.myScore)
                 })
                 Object.entries(gradingSystem).forEach( ([key, value]) => {
                     if(key !== "Total"){
-                        gradingSystem.Total.maxPoints += parseInt(value.maxPoints)
-                        gradingSystem.Total.myPoints += parseInt(value.myPoints)
+                        gradingSystem.Total.maxPoints += parseFloat(value.maxPoints)
+                        gradingSystem.Total.myPoints += parseFloat(value.myPoints)
                     }
                     value["percentage"] = Math.round(value["myPoints"]/value["maxPoints"] * 10000)/100
                     

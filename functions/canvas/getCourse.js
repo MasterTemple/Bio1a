@@ -1,7 +1,7 @@
 module.exports = async (config, courseId) => {
     return new Promise( (canvas_resolve, reject) => {
         const axios = require('axios')
-        const url = `https://canvas.biola.edu/api/v1/courses/${courseId}/modules?per_page=100`
+        const url = `https://${config.canvasDomain}/api/v1/courses/${courseId}/modules?per_page=100`
         axios({
             url: url,
             method: "GET",
