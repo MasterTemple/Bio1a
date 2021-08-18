@@ -74,20 +74,20 @@ module.exports = async (interaction, config) => {
     }
  
     let lessonHtmlUrl = lessonData.html_url
-        let components = [
+    let components = [
 
-            {
-                "type": 1,
-                "components": [
-                    {
-                        "type": 2,
-                        "label": "Go To Lesson!",
-                        "style": 5,
-                        "url": lessonHtmlUrl
-                    }
-                ]
-            }
-        ]
+        {
+            "type": 1,
+            "components": [
+                {
+                    "type": 2,
+                    "label": "Go To Lesson!",
+                    "style": 5,
+                    "url": lessonHtmlUrl
+                }
+            ]
+        }
+    ]
 
     interaction.update({embeds: [embed], components: components})
 }

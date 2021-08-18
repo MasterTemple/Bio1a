@@ -18,6 +18,11 @@ module.exports = async(client, config) => {
                 default_permission: true,
             },
             {
+                name: 'events',
+                description: `View Upcoming Events at Biola!`,
+                default_permission: true,
+            },
+            {
                 name: 'tasks',
                 description: 'View Upcoming Tasks!',
                 default_permission: true,
