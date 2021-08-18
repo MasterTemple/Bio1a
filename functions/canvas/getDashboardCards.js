@@ -1,4 +1,4 @@
-module.exports = async (config) => {
+module.exports = async (config, accessToken) => {
     return new Promise( (canvas_resolve, reject) => {
         const axios = require('axios')
         const url = `https://${config.canvasDomain}/api/v1/dashboard/dashboard_cards`
@@ -6,7 +6,7 @@ module.exports = async (config) => {
             url: url,
             method: "GET",
             headers: {
-                Authorization: `Bearer ${config.canvasToken}`
+                Authorization: `Bearer ${accessToken}`
             }
         }).then( (response) => {
             canvas_resolve(response.data);

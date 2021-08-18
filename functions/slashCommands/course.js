@@ -1,10 +1,10 @@
-module.exports = async (interaction, config) => {
+module.exports = async (interaction, config, accessToken) => {
     return new Promise( async(resolve_command, reject) => {
 
         let getCourseInfo = require('./../canvas/getCourse')
         let courseName = interaction.options.get('course').value.replace(/\[[^\]]+\]/g, '')
         let courseId = interaction.options.get('course').value.match(/(?<=\[)[^\]]+(?=\])/g)[0]
-        let data = await getCourseInfo(config, courseId)
+        let data = await getCourseInfo(config, courseId, accessToken)
         // console.log(data);
         // console.log(interaction);
 

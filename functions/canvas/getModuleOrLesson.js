@@ -1,4 +1,4 @@
-module.exports = async (config, url) => {
+module.exports = async (config, url, accessToken) => {
     //this can be used to get a module or lesson
     return new Promise( (canvas_resolve, reject) => {
         const axios = require('axios')
@@ -6,7 +6,7 @@ module.exports = async (config, url) => {
             url: url,
             method: "GET",
             headers: {
-                Authorization: `Bearer ${config.canvasToken}`
+                Authorization: `Bearer ${accessToken}`
             }
         }).then( (response) => {
             canvas_resolve(response.data);

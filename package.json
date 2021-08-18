@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
+    "cryptr": "^6.0.2",
     "discord.js": "^13.0.1",
     "github-base": "^1.0.0",
     "jsdom": "^17.0.0"

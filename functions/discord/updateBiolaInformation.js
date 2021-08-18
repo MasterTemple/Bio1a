@@ -1,4 +1,4 @@
-module.exports = async (client, config) => {
+module.exports = async (client, config, accessToken) => {
     return new Promise(async(resolveUpdate, reject) => {
 
         let {MessageEmbed} = require('discord.js')

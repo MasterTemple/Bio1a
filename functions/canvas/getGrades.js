@@ -1,4 +1,4 @@
-module.exports = async(config, classId) =>{
+module.exports = async(config, classId, accessToken) =>{
     return new Promise( (canvasResolve, canvasReject) => {
         const axios = require('axios')
         const url = `https://${config.canvasDomain}/courses/${classId}/grades`
@@ -7,7 +7,7 @@ module.exports = async(config, classId) =>{
             url: url,
             method: "GET",
             headers: {
-                Authorization: `Bearer ${config.canvasToken}`
+                Authorization: `Bearer ${accessToken}`
             }
         }).then( (response) => {
             const jsdom = require('jsdom')

@@ -1,7 +1,7 @@
-module.exports = async (interaction, config) => {
+module.exports = async (interaction, config, accessToken) => {
     let moduleUrl = interaction.values[0]
     let getModule = require('./../canvas/getCanvasDataFromUrl')
-    let moduleData = await getModule(config, moduleUrl)
+    let moduleData = await getModule(config, moduleUrl, accessToken)
     // console.log(moduleData);
     let title = interaction.message.components[0].components[0].options.find( o => o.value === moduleUrl).label
 

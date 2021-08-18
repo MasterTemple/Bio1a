@@ -1,8 +1,8 @@
-module.exports = async (interaction, config) => {
+module.exports = async (interaction, config, accessToken) => {
         return new Promise( async(resolve_command, reject) => {
 
             let getCards = require('./../canvas/getDashboardCards')
-            let data = await getCards(config)
+            let data = await getCards(config, accessToken)
             let title = `${data[0].shortName.match(/\w+ \d+/g)[0]} Classes`
 
             let Discord = require('discord.js')

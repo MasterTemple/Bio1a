@@ -1,8 +1,8 @@
-module.exports = async (interaction, config) => {
+module.exports = async (interaction, config, accessToken) => {
     let getData = require('./../canvas/getCanvasDataFromUrl')
     let date = new Date().toISOString()
     let url = `https://${config.canvasDomain}/api/v1/planner/items?start_date=${date}&order=asc`
-    let data = await getData(config, url)
+    let data = await getData(config, url, accessToken)
     let Discord = require('discord.js')
     let title = "Upcoming Tasks"
     let embed = new Discord.MessageEmbed().setColor(config.bot.color).setTitle(title)

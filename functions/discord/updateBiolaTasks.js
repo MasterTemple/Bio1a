@@ -1,4 +1,4 @@
-module.exports = async (client, config) => {
+module.exports = async (client, config, accessToken) => {
     return new Promise(async(resolveUpdate, reject) => {
 
         let { MessageEmbed } = require('discord.js')
@@ -10,7 +10,7 @@ module.exports = async (client, config) => {
         let urgentTimePeriod = 86400 //one day
 
         let url = `https://canvas.biola.edu/api/v1/planner/items?start_date=${date}&order=asc`
-        let data = await getData(config, url)
+        let data = await getData(config, url, accessToken)
 
         let title = "Upcoming Tasks"
         let embed = new MessageEmbed().setColor(config.bot.color).setTitle(title)

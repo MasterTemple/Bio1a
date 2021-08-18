@@ -1,9 +1,9 @@
-module.exports = async (interaction, config) => {
+module.exports = async (interaction, config, accessToken) => {
     let getData = require('./../canvas/getCanvasDataFromUrl')
     let unreadUrl = `https://${config.canvasDomain}/api/v1/conversations?scope=inbox&filter_mode=and&include_private_conversation_enrollments=false&per_page=10`
     //i can set any number of pages i want lol, even 100 they dont do api checks xd
     //maybe remove filter
-    let data = await getData(config, unreadUrl)
+    let data = await getData(config, unreadUrl, accessToken)
     console.log(data);
     let { MessageEmbed } = require('discord.js')
     let title = `Unread Messages [${data.length}]`

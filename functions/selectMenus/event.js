@@ -1,7 +1,7 @@
-module.exports = async (interaction, config) => {
+module.exports = async (interaction, config, accessToken) => {
     let getEvent = require('./../biolaWebsites/getSingleEvent')
     let eventUrl = interaction.values[0]
-    let event = await getEvent(eventUrl)
+    let event = await getEvent(eventUrl, accessToken)
     // console.log(event);
     let Discord = require('discord.js')
     let embed = new Discord.MessageEmbed().setColor(config.bot.color).setTitle(event.title).setDescription(event.description).setThumbnail(config.bot.iconUrl)

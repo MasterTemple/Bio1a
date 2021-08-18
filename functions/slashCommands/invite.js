@@ -1,4 +1,4 @@
-module.exports = async (interaction, config) => {
+module.exports = async (interaction, config, accessToken) => {
     let {MessageEmbed} = require('discord.js')
     let embed = new MessageEmbed().setColor(config.bot.color).setTitle(`Invite ${config.bot.name} to your server!`).setThumbnail(config.bot.iconUrl)
     .setDescription("Click the Button Below to Add Me To Your Server!")

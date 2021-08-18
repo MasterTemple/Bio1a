@@ -1,12 +1,26 @@
 module.exports = async(client, config) => {
     return new Promise( async (resolve_commands, reject) => {
         let getCards = require('./canvas/getDashboardCards')
-        let data = await getCards(config)
+        let data = await getCards(config, config.canvasToken)
         let courseChoices = []
         data.forEach(course => {
             courseChoices.push({name: course.shortName, value: `${course.shortName}[${course.id}]`})
         })
         const cmds = [
+            {
+                name: 'register',
+                description: 'Register Your Canvas Account!',
+                default_permission: true,
+                options: [
+                    {
+                        "name": "token",
+                        "description": "Enter Your Access Token!",
+                        "type": "STRING",
+                        "required": true,
+                    
+                    },
+                ]
+            },
             {
                 name: 'dashboard',
                 description: 'View Your Classes For The Current Semester!',
