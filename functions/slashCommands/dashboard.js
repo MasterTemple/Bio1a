@@ -15,7 +15,7 @@ module.exports = async (interaction, config) => {
             })
     
             let dashboardUrl = "https://canvas.biola.edu/dashboard?dashboard_view=cards"
-            let coursesUrl = "https://biola.instructure.com/courses/"
+            let coursesUrl = "https://canvas.biola.edu/courses/"
             let components = [
                     {
                         "type": 1,
