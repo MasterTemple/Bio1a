@@ -19,7 +19,7 @@ module.exports = async (interaction, config) => {
 
 
         let upcomingEventsUrl = "https://www.biola.edu/news-events"
-        let eventsCalendarUrl = "https://canvas.biola.edu/courses/"
+        let eventsCalendarUrl = "https://www.biola.edu/events"
         let components = [
             {
                 "type": 1,

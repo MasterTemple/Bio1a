@@ -6,7 +6,7 @@ module.exports = async (config, url) => {
             url: url,
             method: "GET",
             headers: {
-                cookie: `canvas_session=${config.canvasSession};`,
+                Authorization: `Bearer ${config.canvasToken}`
             }
         }).then( (response) => {
             canvas_resolve(response.data);

@@ -14,8 +14,8 @@ module.exports = async (interaction, config) => {
                 embed.addField(`${c+1}. ${eachClass.shortName.replace(/\w+ \d+:/g, "")}`, `${eachClass.frontPageTitle} - ${eachClass.courseCode}`, false)
             })
     
-            let dashboardUrl = "https://canvas.biola.edu/dashboard?dashboard_view=cards"
-            let coursesUrl = "https://canvas.biola.edu/courses/"
+            let dashboardUrl = `https://${config.canvasDomain}/dashboard?dashboard_view=cards`
+            let coursesUrl = `https://${config.canvasDomain}/courses/`
             let components = [
                     {
                         "type": 1,

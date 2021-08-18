@@ -1,7 +1,7 @@
 module.exports = async (interaction, config) => {
     let getData = require('./../canvas/getCanvasDataFromUrl')
     let date = new Date().toISOString()
-    let url = `https://canvas.biola.edu/api/v1/planner/items?start_date=${date}&order=asc`
+    let url = `https://${config.canvasDomain}/api/v1/planner/items?start_date=${date}&order=asc`
     let data = await getData(config, url)
     let Discord = require('discord.js')
     let title = "Upcoming Tasks"
@@ -24,7 +24,7 @@ module.exports = async (interaction, config) => {
         )
     })
 
-    let taskUrl = "https://canvas.biola.edu/"
+    let taskUrl = `https://${config.canvasDomain}`
     let components = [
 
         {

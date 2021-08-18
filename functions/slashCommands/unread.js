@@ -1,6 +1,6 @@
 module.exports = async (interaction, config) => {
     let getData = require('./../canvas/getCanvasDataFromUrl')
-    let unreadUrl = "https://canvas.biola.edu/api/v1/conversations?scope=inbox&filter_mode=and&include_private_conversation_enrollments=false&per_page=10"
+    let unreadUrl = `https://${config.canvasDomain}/api/v1/conversations?scope=inbox&filter_mode=and&include_private_conversation_enrollments=false&per_page=10`
     //i can set any number of pages i want lol, even 100 they dont do api checks xd
     //maybe remove filter
     let data = await getData(config, unreadUrl)
@@ -24,7 +24,7 @@ module.exports = async (interaction, config) => {
             false
         )
     })
-    let inboxUrl = "https://canvas.biola.edu/conversations#filter=type=inbox"
+    let inboxUrl = `https://${config.canvasDomain}/conversations#filter=type=inbox`
     let components = [
         {
             "type": 1,
