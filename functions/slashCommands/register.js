@@ -13,7 +13,7 @@ module.exports = async (interaction, config, accessToken) => {
         let embed = new MessageEmbed().setColor(config.bot.color).setTitle("Invalid API Key!").setThumbnail(config.bot.iconUrl).setImage("https://cdn.discordapp.com/attachments/877643936733216788/877672323522654298/createToken.gif")
         let settingsUrl = "https://canvas.biola.edu/profile/settings"
 
-        embed.setDescription(`To Create an API Key, go [here](${settingsUrl}) or click the button below.\nOnce you are at the settings page scroll down to **Approved Integrations** and click **+ New Access Token**.\nIn the **Purpose:** field put something like \`Canvas Discord Bot\` then click **Generate Token**.\nYour token should look something like this: \`1872~3W72HdKuFbgs77kSISduWgsCwWDX4035A0ETGtC9Bef0MtY3z06GAZEpf71wu6B7\``)
+        embed.setDescription(`To create an API Token, go [here](${settingsUrl}) or click the button below.\n\nOnce you are at the settings page scroll down to **Approved Integrations** and click **+ New Access Token**.\n\nIn the **Purpose:** field put something like \`Canvas Discord Bot\` then click **Generate Token**.\n\nYour token should look something like this: \`1872~3W72HdKuFbgs77kSISduWgsCwWDX4035A0ETGtC9Bef0MtY3z06GAZEpf71wu6B7\``)
         let components = [
             {
                 "type": 1,
@@ -36,7 +36,7 @@ module.exports = async (interaction, config, accessToken) => {
         await fs.writeFileSync("./data/discordIdToApiKey.json", JSON.stringify(userKeys, null, 2))
 
         let embed = new MessageEmbed().setColor(config.bot.color).setTitle("Success!").setThumbnail(userInfo.avatar_url)
-        .setDescription(`You have been successfully registered as ${userInfo.name}!`)
+        .setDescription(`You have been successfully registered as **${userInfo.name}**!`)
         
         interaction.reply({embeds: [embed], ephemeral: true})
     }
