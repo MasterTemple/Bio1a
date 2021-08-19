@@ -23,7 +23,7 @@ client.once('ready', async () => {
     // await startupScripts(client, config)
     await client.application.commands.set([])
     // await client.guilds.cache.get("614237075889324032").commands.set([])
-    await addCommands(client, config)
+    // await addCommands(client, config)
     console.log(`${client.user.username}#${client.user.discriminator} is online.`);
 })
 

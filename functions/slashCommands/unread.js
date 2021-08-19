@@ -4,14 +4,17 @@ module.exports = async (interaction, config, accessToken) => {
     //i can set any number of pages i want lol, even 100 they dont do api checks xd
     //maybe remove filter
     let data = await getData(config, unreadUrl, accessToken)
-    console.log(data);
+    // console.log(data);
     let { MessageEmbed } = require('discord.js')
+    data = data.filter( m => m.workflow_state === "unread")
     let title = `Unread Messages [${data.length}]`
     let embed = new MessageEmbed().setColor(config.bot.color).setTitle(title)
     embed.setThumbnail(config.bot.iconUrl)
     if(data.length === 0){
         embed.setDescription("You currently have no Unread Messages!")
     }
+
+
     data.forEach( (eachMessage, c) => {
         let messageDate = new Date(eachMessage.last_message_at).toLocaleString()
         let unreadEmoji = "🔖"
