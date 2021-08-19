@@ -7,7 +7,7 @@ let addCommands = require('./functions/addCommands')
 let getApiKeyForUser = require('./functions/getUserApiKey')
 
 let checkTasksAndDmUsers = require('./functions/discord/checkTasksAndDmUsers')
-
+let checkUnreadAndDmUsers = require('./functions/discord/checkUnreadAndDmUsers')
 const client = new Discord.Client({
     presence: {
         status: 'online',
@@ -26,12 +26,11 @@ const client = new Discord.Client({
 cron.schedule('0 0 */3 * * *', async() => {
     //every 3 hours
     await checkTasksAndDmUsers(client, config)
-
 })
 
 cron.schedule('*/30 * * * *', async() => {
     //every 30 minutes
-
+    await checkUnreadAndDmUsers(client, config)
 
 })
 
@@ -39,7 +38,10 @@ cron.schedule('*/30 * * * *', async() => {
 client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
-    await checkTasksAndDmUsers(client, config)
+
+    // await checkTasksAndDmUsers(client, config)
+    await checkUnreadAndDmUsers(client, config)
+    
     // await startupScripts(client, config)
     // await client.application.commands.set([])
     // await client.guilds.cache.get("614237075889324032").commands.set([])
