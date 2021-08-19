@@ -11,7 +11,7 @@ module.exports = async (interaction, config, accessToken) => {
     let userInfo = await getUserInfo(config, apiKey)
     if(userInfo === undefined){
         let embed = new MessageEmbed().setColor(config.bot.color).setTitle("Invalid API Key!").setThumbnail(config.bot.iconUrl).setImage("https://cdn.discordapp.com/attachments/877643936733216788/877672323522654298/createToken.gif")
-        let settingsUrl = "https://canvas.biola.edu/profile/settings"
+        let settingsUrl = `https://${config.canvasDomain}/profile/settings`
 
         embed.setDescription(`To create an API Token, go [here](${settingsUrl}) or click the button below.\n\nOnce you are at the settings page scroll down to **Approved Integrations** and click **+ New Access Token**.\n\nIn the **Purpose:** field put something like \`Canvas Discord Bot\` then click **Generate Token**.\n\nYour token should look something like this: \`1872~3W72HdKuFbgs77kSISduWgsCwWDX4035A0ETGtC9Bef0MtY3z06GAZEpf71wu6B7\``)
         let components = [

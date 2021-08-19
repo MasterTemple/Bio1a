@@ -9,7 +9,7 @@ module.exports = async (client, config, accessToken) => {
         let assignmentsDueSoon = false
         let urgentTimePeriod = 86400 //one day
 
-        let url = `https://canvas.biola.edu/api/v1/planner/items?start_date=${date}&order=asc`
+        let url = `https://${config.canvasDomain}/api/v1/planner/items?start_date=${date}&order=asc`
         let data = await getData(config, url, accessToken)
 
         let title = "Upcoming Tasks"
@@ -36,7 +36,7 @@ module.exports = async (client, config, accessToken) => {
             )
         })
 
-        let taskUrl = "https://canvas.biola.edu/"
+        let taskUrl = `https://${config.canvasDomain}/`
         let components = [
 
             {

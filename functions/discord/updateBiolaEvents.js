@@ -13,7 +13,7 @@ module.exports = async (client, config, accessToken) => {
 
 
         let upcomingEventsUrl = "https://www.biola.edu/news-events"
-        let eventsCalendarUrl = "https://canvas.biola.edu/courses/"
+        let eventsCalendarUrl = `https://${config.canvasDomain}/courses/`
         let components = [
                 {
                     "type": 1,

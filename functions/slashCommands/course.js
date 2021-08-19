@@ -48,7 +48,7 @@ module.exports = async (interaction, config, accessToken) => {
             })
         })
 
-        let courseUrl = `https://canvas.biola.edu/courses/${courseId}`
+        let courseUrl = `https://${config.canvasDomain}/courses/${courseId}`
         let components = [
             {
                 "type": 1,

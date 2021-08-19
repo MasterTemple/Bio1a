@@ -44,7 +44,7 @@ module.exports = async (interaction, config, accessToken) => {
     })
 
     let courseUrl = interaction.message.components[1].components[0].url
-    //`https://canvas.biola.edu/courses/${courseId}`
+    //`https://${config.canvasDomain}/courses/${courseId}`
         let components = [
             {
                 "type": 1,

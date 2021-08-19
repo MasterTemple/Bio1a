@@ -3,7 +3,7 @@ module.exports = async (client, config, accessToken) => {
 
         let { MessageEmbed } = require('discord.js')
         let getData = require('./../canvas/getCanvasDataFromUrl')
-        let unreadUrl = "https://canvas.biola.edu/api/v1/conversations?scope=inbox&filter_mode=and&include_private_conversation_enrollments=false&per_page=10"
+        let unreadUrl = `https://${config.canvasDomain}/api/v1/conversations?scope=inbox&filter_mode=and&include_private_conversation_enrollments=false&per_page=10`
 
         let data = await getData(config, unreadUrl, accessToken)
 
@@ -27,7 +27,7 @@ module.exports = async (client, config, accessToken) => {
             )
         })
 
-        let inboxUrl = "https://canvas.biola.edu/conversations#filter=type=inbox"
+        let inboxUrl = `https://${config.canvasDomain}/conversations#filter=type=inbox`
         let components = [
             {
                 "type": 1,
