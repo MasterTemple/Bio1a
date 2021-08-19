@@ -12,13 +12,14 @@ module.exports = async (interaction, config, accessToken) => {
     data.forEach( (eachTask, c) => {
         let dueDate = new Date(eachTask.plannable.due_at).toLocaleString()
         let taskType = eachTask.plannable_type
+        let dueDateUnix = Math.floor(new Date(eachTask.plannable.due_at) / 1000)
         taskType = taskType.charAt(0).toUpperCase() + taskType.slice(1)
         let title = `${c+1}. ${eachTask.plannable.title}`
         if(eachTask.plannable.points_possible !== null){
             title = `${title} - ${eachTask.plannable.points_possible} Points`
         }
         embed.addField(
-            title,
+            `${title} - Due <t:${dueDateUnix}:R>!`,
             `Class: ${eachTask.context_name.replace(/\w+ \d+:/g, "")}\nDue: **${dueDate.replace(",", "**,")}\nAssignment Type: **${taskType}**`,
             false
         )

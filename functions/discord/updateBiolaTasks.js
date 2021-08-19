@@ -17,7 +17,7 @@ module.exports = async (client, config, accessToken) => {
         embed.setThumbnail(config.bot.iconUrl)
         data.forEach( (eachTask, c) => {
             let dueDate = new Date(eachTask.plannable.due_at).toLocaleString()
-            let dueDateUnix = Math.floor(new Date("2021-08-24T06:59:00Z") / 1000)
+            let dueDateUnix = Math.floor(new Date(eachTask.plannable.due_at) / 1000)
         
             if(rightNowUnix + urgentTimePeriod > dueDateUnix){
                 assignmentsDueSoon = true
@@ -30,7 +30,7 @@ module.exports = async (client, config, accessToken) => {
                 title = `${title} - ${eachTask.plannable.points_possible} Points`
             }
             embed.addField(
-                title,
+                `${title} - Due <t:${dueDateUnix}:R>!`,
                 `Class: ${eachTask.context_name.replace(/\w+ \d+:/g, "")}\nDue: **${dueDate.replace(",", "**,")}\nAssignment Type: **${taskType}**`,
                 false
             )

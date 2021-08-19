@@ -1,15 +1,20 @@
 let Discord = require('discord.js')
+let cron = require('node-cron');
+
 let config = require('./data/config.json')
 let startupScripts = require('./functions/startupScripts')
 let addCommands = require('./functions/addCommands')
 let getApiKeyForUser = require('./functions/getUserApiKey')
+
+let checkTasksAndDmUsers = require('./functions/discord/checkTasksAndDmUsers')
+
 const client = new Discord.Client({
     presence: {
         status: 'online',
         activities: [
             {
                 name: config.bot.status,
-                type: 'Playing',
+                type: 'LISTENING',
                 // url: 'https://www.twitch.tv/directory/game/Star%20Wars%20Battlefront'
             }
         ],
@@ -17,11 +22,26 @@ const client = new Discord.Client({
     intents: ['GUILD_MESSAGES', 'DIRECT_MESSAGES', 'GUILDS', 'GUILD_MEMBERS']
 })
 
+
+cron.schedule('0 0 */3 * * *', async() => {
+    //every 3 hours
+    await checkTasksAndDmUsers(client, config)
+
+})
+
+cron.schedule('*/30 * * * *', async() => {
+    //every 30 minutes
+
+
+})
+
+
 client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
+    await checkTasksAndDmUsers(client, config)
     // await startupScripts(client, config)
-    await client.application.commands.set([])
+    // await client.application.commands.set([])
     // await client.guilds.cache.get("614237075889324032").commands.set([])
     // await addCommands(client, config)
     console.log(`${client.user.username}#${client.user.discriminator} is online.`);
