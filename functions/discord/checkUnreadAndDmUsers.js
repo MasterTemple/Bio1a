@@ -26,7 +26,7 @@ module.exports = async (client, config) => {
                     // let messageDate = new Date(eachMessage.last_message_at).toLocaleString()
                     let messageDateUnix = Math.floor(new Date(eachTask.plannable.due_at) / 1000)
 
-                    if(rightNowUnix - newMessageTimePeriod > messageDateUnix && eachMessage.workflow_state === "unread"){                    
+                    if(rightNowUnix - newMessageTimePeriod < messageDateUnix && eachMessage.workflow_state === "unread"){                    
 
                         let unreadEmoji = "🔖"
                         
