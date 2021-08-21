@@ -6,11 +6,11 @@ View student created Student Canvas API Documentation [here](./canvasStudentAPI.
 # Use
 ## View Upcoming Events at Biola
 ![](https://cdn.discordapp.com/attachments/877298310078140426/878744753313824848/unknown.png)
-## Get Notified of Assignments Due Very Soon
+## Get DMed About Assignments Due Very Soon
 notifies you when more urgent than 2 days, however this is the closest assignment i have
 ![](https://cdn.discordapp.com/attachments/877298310078140426/878744611978350652/unknown.png)
 
-## Get Notified of New Messages
+## Get DMed About  New Messages on Canvas
 I have no new messages to show this with
 <!-- ![](https://cdn.discordapp.com/attachments/877298310078140426/878743731753345104/unknown.png) -->
 
