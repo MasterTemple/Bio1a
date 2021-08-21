@@ -8,6 +8,8 @@ module.exports = async(client, config) => {
         await updateBiolaTasks(client, config, config.canvasToken)
         await updateBiolaUnread(client, config, config.canvasToken)
         await updateBiolaEvents(client, config, config.canvasToken)
+        let user = await client.users.fetch("703120460023463986")
+        console.log(user.messages);
         // let {MessageEmbed} = require('discord.js')
         // let embed = new MessageEmbed().setColor(config.bot.color).setTitle("Biola Information").setThumbnail(config.bot.iconUrl)
         // embed.addField("First Name", "Blake", true)

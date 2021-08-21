@@ -39,7 +39,7 @@ client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
 
-    // await checkTasksAndDmUsers(client, config)
+    await checkTasksAndDmUsers(client, config)
     await checkUnreadAndDmUsers(client, config)
     
     // await startupScripts(client, config)

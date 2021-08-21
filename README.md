@@ -1,8 +1,23 @@
 # Biola Discord Bot
 I made this because I was bored.
 
+View student created Student Canvas API Documentation [here](./canvasStudentAPI.md)
+
+# Use
+## View Upcoming Events at Biola
+![](https://cdn.discordapp.com/attachments/877298310078140426/878744753313824848/unknown.png)
+## Get Notified of Assignments Due Very Soon
+notifies you when more urgent than 2 days, however this is the closest assignment i have
+![](https://cdn.discordapp.com/attachments/877298310078140426/878744611978350652/unknown.png)
+
+## Get Notified of New Messages
+I have no new messages to show this with
+<!-- ![](https://cdn.discordapp.com/attachments/877298310078140426/878743731753345104/unknown.png) -->
+
 # Some Screenshots 
 > ## These were just seeing if i could do it, it is a pretty bad navigating this way. I will only be using it to view tasks and unread canvas messages through discord.
+
+> ## In other words: This bot can do many things that are pointless, see below
 
 ![Slash Commands](https://media.discordapp.net/attachments/725055794755665930/876335138605236235/unknown.png)
 ![Classes](https://cdn.discordapp.com/attachments/725055794755665930/876335199745634364/unknown.png)
