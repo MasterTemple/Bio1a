@@ -9,21 +9,21 @@ Get your token from `https://${domain}/profile/settings`
 
 ## Pagination
 Use `?per_page=100` or any number between 1 and 100 to get a certain number of courses, modules, lessons, assignments, messages, and so forth. Default is 10.
-> `https://${domain}/api/v1/courses/${courseId}/modules?per_page=100`
+`https://${domain}/api/v1/courses/${courseId}/modules?per_page=100`
 
 the several links are returned under the response header titled link. to get the next link use:
 ```js
-const nextLink = response.headers.link.match(/(?<=\<)[^>]+(?=\>; rel="next")/g)[0]
+const nextLink = response.headers.link.match(/(?<=\<)[^   +(?=\    rel="next")/g)[0]
 ```
 this is necessary because you cannot just do `&page=2`
 
 ## User (Self)
 ### User Info
-> `https://${domain}/api/v1/users/self`
+`https://${domain}/api/v1/users/self`
 
 Returns [User Object](#user-object)
 ### DashBoard
-> `https://${domain}/api/v1/dashboard/dashboard_cards`
+`https://${domain}/api/v1/dashboard/dashboard_cards`
 
 Returns an array of [Card Objects](#card-object)
 ### Tasks
@@ -33,65 +33,65 @@ const localeDate = new Date().toISOString()
 localeDate looks like: `2021-08-21T20:02:51.501Z`
 
 order `asc` has newest on top, order `desc` has oldest on top
-> `https://${domain}/api/v1/planner/items?start_date=${localeDate}&order=asc`
+`https://${domain}/api/v1/planner/items?start_date=${localeDate}&order=asc`
 
 Returns an array of [Task Objects](#task-object)
 ### Recent Conversations
-> `https://${domain}/api/v1/conversations?scope=inbox&filter_mode=and&include_private_conversation_enrollments=false`
+`https://${domain}/api/v1/conversations?scope=inbox&filter_mode=and&include_private_conversation_enrollments=false`
 
 Returns array of [Conversation Preview Objects](#conversation-preview-object)
 ### Single Conversations
-> `https://${domain}/api/v1/conversations${conversationId}`
+`https://${domain}/api/v1/conversations${conversationId}`
 
 Returns 1 [Conversation Object](#conversation-object)
 ## Courses
 
 ### All User Courses
-> `https://${domain}/api/v1/courses`
+`https://${domain}/api/v1/courses`
 
 Returns an array of [Course Objects](#course-object)
 ### Specific Course
-> `https://${domain}/api/v1/courses/${courseId}`
+`https://${domain}/api/v1/courses/${courseId}`
 
 Returns one [Course Object](#course-object)
 
 ### Course Modules
-> `https://${domain}/api/v1/courses/${courseId}/modules`
+`https://${domain}/api/v1/courses/${courseId}/modules`
 
 Returns array of [Module Objects](#module-object)
 
 ### Specific Modules
-> `https://${domain}/api/v1/courses/${courseId}/modules/${moduleId}`
+`https://${domain}/api/v1/courses/${courseId}/modules/${moduleId}`
 
 Returns 1 [Module Object](#module-object)
 
 ### Module Lessons (Submodule, items, tasks, assignments)
-> `https://${domain}/api/v1/courses/${courseId}/modules/${moduleId}/items`
+`https://${domain}/api/v1/courses/${courseId}/modules/${moduleId}/items`
 
 Returns array of [Lesson Objects](#lesson-object)
 
 ### Specific Lesson
-> `https://${domain}/api/v1/courses/${courseId}/modules/${moduleId}/items/${itemId}`
+`https://${domain}/api/v1/courses/${courseId}/modules/${moduleId}/items/${itemId}`
 
 Returns 1 [Lesson Object](#lesson-object)
 
 ### Course Assignments
-> `https://${domain}/api/v1/courses/${courseId}/assignments/`
+`https://${domain}/api/v1/courses/${courseId}/assignments/`
 
 Returns an array of [Assignment Objects](#assignment-object)
 ### Specific Assignment
-> `https://${domain}/api/v1/courses/${courseId}/assignments/${assignmentId}`
+`https://${domain}/api/v1/courses/${courseId}/assignments/${assignmentId}`
 
 Returns 1 [Assignment Object](#assignment-object)
 
 **Note: Assignment ID is the same as Item ID**
 
 ### Course Quizzes
-> `https://${domain}/api/v1/courses/${courseId}/quizzes/`
+`https://${domain}/api/v1/courses/${courseId}/quizzes/`
 
 Returns array of [Quiz Objects](#quiz-object) (not available in every course)
 ### Specific Quiz
-> `https://${domain}/api/v1/courses/${courseId}/quizzes/${quizId}`
+`https://${domain}/api/v1/courses/${courseId}/quizzes/${quizId}`
 
 Returns a [Quiz Object](#quiz-object)
 
@@ -403,9 +403,9 @@ Returns a [Quiz Object](#quiz-object)
 ```js
 {
   id: 995162,
-  description: '<hr style="border: 0; border-top: 5px double #ED6E00;">\n' +
-    "<h2>Upload your lab report for this week's lab!</h2>\n" +
-    '<hr style="border: 0; border-top: 5px double #ED6E00;">',
+description: '<hr style="border: 0; border-top: 5px double #ED6E00;"    n' +
+"<h2    pload your lab report for this week's lab!</h2    n" +
+'<hr style="border: 0; border-top: 5px double #ED6E00;"   ,
   due_at: '2021-03-08T07:59:59Z',
   unlock_at: null,
   lock_at: '2021-03-15T06:59:59Z',
@@ -473,7 +473,7 @@ Returns a [Quiz Object](#quiz-object)
   title: '8.9 Enzyme Metabolism End of Lab Quiz',
   html_url: 'https://vcccd.instructure.com/courses/34793/quizzes/283972',
   mobile_url: 'https://vcccd.instructure.com/courses/34793/quizzes/283972?force_user=1&persist_headless=1',
-  description: '<p>Take some time to study before you take assess what you have learned this week. You have one attempt and ten minutes. Make sure you are ready to go before you begin.</p>',
+description: '<p    ake some time to study before you take assess what you have learned this week. You have one attempt and ten minutes. Make sure you are ready to go before you begin.</p   ,
   quiz_type: 'assignment',
   time_limit: 10,
   timer_autosubmit_disabled: false,
