@@ -13,7 +13,7 @@ Use `?per_page=100` or any number between 1 and 100 to get a certain number of c
 
 the several links are returned under the response header titled link. to get the next link use:
 ```js
-const nextLink = response.headers.link.match(/(?<=\<)[^   +(?=\    rel="next")/g)[0]
+const nextLink = response.headers.link.match(/(?<=\<)[^>]+(?=\>; rel="next")/g)[0]
 ```
 this is necessary because you cannot just do `&page=2`
 
@@ -403,9 +403,9 @@ Returns a [Quiz Object](#quiz-object)
 ```js
 {
   id: 995162,
-description: '<hr style="border: 0; border-top: 5px double #ED6E00;"    n' +
-"<h2    pload your lab report for this week's lab!</h2    n" +
-'<hr style="border: 0; border-top: 5px double #ED6E00;"   ,
+  description: '<hr style="border: 0; border-top: 5px double #ED6E00;">\n' +
+    "<h2>Upload your lab report for this week's lab!</h2>\n" +
+    '<hr style="border: 0; border-top: 5px double #ED6E00;">',
   due_at: '2021-03-08T07:59:59Z',
   unlock_at: null,
   lock_at: '2021-03-15T06:59:59Z',
@@ -473,7 +473,7 @@ description: '<hr style="border: 0; border-top: 5px double #ED6E00;"    n' +
   title: '8.9 Enzyme Metabolism End of Lab Quiz',
   html_url: 'https://vcccd.instructure.com/courses/34793/quizzes/283972',
   mobile_url: 'https://vcccd.instructure.com/courses/34793/quizzes/283972?force_user=1&persist_headless=1',
-description: '<p    ake some time to study before you take assess what you have learned this week. You have one attempt and ten minutes. Make sure you are ready to go before you begin.</p   ,
+  description: '<p>Take some time to study before you take assess what you have learned this week. You have one attempt and ten minutes. Make sure you are ready to go before you begin.</p>',
   quiz_type: 'assignment',
   time_limit: 10,
   timer_autosubmit_disabled: false,
