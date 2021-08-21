@@ -44,6 +44,10 @@ Returns array of [Conversation Preview Objects](#conversation-preview-object)
 `https://${domain}/api/v1/conversations${conversationId}`
 
 Returns 1 [Conversation Object](#conversation-object)
+### Graded Assignments
+`https://${config.canvasDomain}/api/v1/users/self/graded_submissions`
+
+Returns array of [Graded Objects](#graded-object)
 ## Courses
 
 ### All User Courses
@@ -297,6 +301,38 @@ Returns a [Quiz Object](#quiz-object)
     common_courses: [Object],
     common_groups: {},
     avatar_url: 'https://vcccd.instructure.com/images/messages/avatar-50.png'
+}
+```
+## Graded Object
+```js
+{
+    id: 42597180,
+    body: 'user: 69380, quiz: 322736, score: 88.0, time: 2021-05-14 17:47:21 +0000',
+    url: null,
+    grade: '88',
+    score: 88,
+    submitted_at: '2021-05-14T17:47:21Z',
+    assignment_id: 1122304,
+    user_id: 69380,
+    submission_type: 'online_quiz',
+    workflow_state: 'graded',
+    grade_matches_current_submission: true,
+    graded_at: '2021-05-14T17:47:21Z',
+    grader_id: -322736,
+    attempt: 1,
+    cached_due_date: '2021-05-17T19:15:00Z',
+    excused: null,
+    late_policy_status: null,
+    points_deducted: null,
+    grading_period_id: null,
+    extra_attempts: null,
+    posted_at: '2021-05-14T17:47:21Z',
+    late: false,
+    missing: false,
+    seconds_late: 0,
+    entered_grade: '88',
+    entered_score: 88,
+    preview_url: 'https://vcccd.instructure.com/courses/33795/assignments/1122304/submissions/69380?preview=1&version=1'
 }
 ```
 ## Course Object

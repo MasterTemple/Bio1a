@@ -8,6 +8,7 @@ let getApiKeyForUser = require('./functions/getUserApiKey')
 
 let checkTasksAndDmUsers = require('./functions/discord/checkTasksAndDmUsers')
 let checkUnreadAndDmUsers = require('./functions/discord/checkUnreadAndDmUsers')
+let checkGradesAndDmUsers = require('./functions/discord/checkGradesAndDmUsers')
 const client = new Discord.Client({
     presence: {
         status: 'online',
@@ -31,6 +32,7 @@ cron.schedule('0 0 */3 * * *', async() => {
 cron.schedule('*/30 * * * *', async() => {
     //every 30 minutes
     await checkUnreadAndDmUsers(client, config)
+    await checkGradesAndDmUsers(client, config)
 
 })
 
@@ -39,8 +41,9 @@ client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
 
-    await checkTasksAndDmUsers(client, config)
-    await checkUnreadAndDmUsers(client, config)
+    // await checkTasksAndDmUsers(client, config)
+    // await checkUnreadAndDmUsers(client, config)
+    await checkGradesAndDmUsers(client, config)
     
     // await startupScripts(client, config)
     // await client.application.commands.set([])
