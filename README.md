@@ -15,7 +15,52 @@ notifies you when more urgent than 2 days, however this is the closest assignmen
 
 ![](https://cdn.discordapp.com/attachments/877298310078140426/878862655828410398/unknown.png)
 
-# Some Screenshots 
+# Setup
+### Please Note
+- This bot will work for any Canvas domain. However you will need to change some data such as the domain, the profile picture, the name, the color, and other bot related data to customize it to your school.
+- This bot also contains features specific to Biola University such as Community Events which are taken from Biola's website, not Canvas, so it is not automatically applied to other schools when the domain name is changed.
+### Required files
+1. This project
+2. Node Packages
+3. Config files
+### Guide
+1. In terminal run `git clone https://github.com/MasterTemple/Bio1a`
+2. Type `cd Bio1a` to move into the proper directory
+3. Run `npm install`
+4. To create the directory for the config files type `mkdir data`
+5. Add 3 files named `channels.json`, `config.json`, and `discordIdToApiKey.json`
+6. Fill the config files with the corresponding data. For very in depth explanation of setting up the config files adn what to put in them, please click [here](./configSetup.md).
+### `channels.json`
+```json
+{
+    "eventChannels": []
+}
+```
+### `discordIdToApiKey.json`
+```json
+{}
+```
+### `config.json`
+```json
+{
+    "bot":{
+        "ownerId": "ENTER_YOUR_DISCORD_ID_HERE",
+        "discordAuthToken": "ENTER_YOU_KEY_HERE",
+        "color" : "ENTER_SCHOOL_HEX_COLOR_HERE",
+        "version": 1.0,
+        "footer": "This application is not affiliated with or endorsed by either Canvas or YOUR_UNIVERSITY.",
+        "status": "Christ!",
+        "inviteUrl": "URL_TO_INVITE_YOUR_DISCORD_BOT_TO_SERVERS"
+    },
+    "encryption": "YOUR_ENCRYPTION_KEY_HERE",
+    "githubAuthToken": "YOUR_GITHUB_AUTH_TOKEN_HERE",
+    "canvasDomain": "YOUR_CANVAS_DOMAIN_HERE",
+    "canvasToken": "YOUR_CANVAS_API_TOKEN_HERE"
+}
+```
+7. Run `node .` or `node index.js`.
+
+# USLESS FEATURES
 > ## These were just seeing if i could do it, it is a pretty bad navigating this way. I will only be using it to view tasks and unread canvas messages through discord.
 
 > ## In other words: This bot can do many things that are pointless, see below
