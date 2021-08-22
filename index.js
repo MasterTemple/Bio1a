@@ -9,6 +9,8 @@ let getApiKeyForUser = require('./functions/getUserApiKey')
 let checkTasksAndDmUsers = require('./functions/discord/checkTasksAndDmUsers')
 let checkUnreadAndDmUsers = require('./functions/discord/checkUnreadAndDmUsers')
 let checkGradesAndDmUsers = require('./functions/discord/checkGradesAndDmUsers')
+let updateBiolaEvents = require('./functions/discord/updateBiolaEvents')
+
 const client = new Discord.Client({
     presence: {
         status: 'online',
@@ -27,6 +29,7 @@ const client = new Discord.Client({
 cron.schedule('0 0 */3 * * *', async() => {
     //every 3 hours
     await checkTasksAndDmUsers(client, config)
+    await updateBiolaEvents(client, config)
 })
 
 cron.schedule('*/30 * * * *', async() => {
@@ -38,9 +41,10 @@ cron.schedule('*/30 * * * *', async() => {
 
 async function onStartUp(client, config) {
     return new Promise( async(resolveStartUp, reject) => {
-        await checkTasksAndDmUsers(client, config)
-        await checkUnreadAndDmUsers(client, config)
-        await checkGradesAndDmUsers(client, config)
+        // await checkTasksAndDmUsers(client, config)
+        // await checkUnreadAndDmUsers(client, config)
+        // await checkGradesAndDmUsers(client, config)
+        // await updateBiolaEvents(client, config)
         resolveStartUp()
     })
 }

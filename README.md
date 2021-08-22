@@ -11,8 +11,9 @@ notifies you when more urgent than 2 days, however this is the closest assignmen
 ![](https://cdn.discordapp.com/attachments/877298310078140426/878744611978350652/unknown.png)
 
 ## Get DMed About  New Messages on Canvas
-I have no new messages to show this with
-<!-- ![](https://cdn.discordapp.com/attachments/877298310078140426/878743731753345104/unknown.png) -->
+(In my defense, the **Knowledge Check: IT and ID Cards** was 3 questions, and the two I got right were worth 0 points)
+
+![](https://cdn.discordapp.com/attachments/877298310078140426/878862655828410398/unknown.png)
 
 # Some Screenshots 
 > ## These were just seeing if i could do it, it is a pretty bad navigating this way. I will only be using it to view tasks and unread canvas messages through discord.

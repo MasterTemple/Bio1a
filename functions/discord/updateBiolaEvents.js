@@ -1,4 +1,4 @@
-module.exports = async (client, config, accessToken) => {
+module.exports = async (client, config) => {
     return new Promise(async(resolveUpdate, reject) => {
 
         let {MessageEmbed} = require('discord.js')
@@ -33,23 +33,25 @@ module.exports = async (client, config, accessToken) => {
                     ]
                 }
         ]
-
-        let channel = client.channels.cache.get(config.channels.eventChannel)
-        channel.messages.fetch().then(async (messages) => {
-            if (messages.size === 0) {
-                await channel.send({
-                    content: `Last Updated: <t:${Math.floor(new Date() / 1000)}:R>`,
-                    embeds: [embed],
-                    components: components
-                })
-            } else {
-                await messages.first().edit({
-                    content: `Last Updated: <t:${Math.floor(new Date() / 1000)}:R>`,
-                    embeds: [embed],
-                    components: components
-                })
-            }
-        })
+        let {eventChannels} = require('./../../data/channels.json')
+        for( let discordChannel of eventChannels){
+            let channel = client.channels.cache.get(discordChannel)
+            channel.messages.fetch().then(async (messages) => {
+                if (messages.size === 0) {
+                    await channel.send({
+                        content: `Last Updated: <t:${Math.floor(new Date() / 1000)}:R>`,
+                        embeds: [embed],
+                        components: components
+                    })
+                } else {
+                    await messages.first().edit({
+                        content: `Last Updated: <t:${Math.floor(new Date() / 1000)}:R>`,
+                        embeds: [embed],
+                        components: components
+                    })
+                }
+            })
+        }
         resolveUpdate()
     })
 }

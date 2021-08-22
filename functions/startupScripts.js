@@ -7,7 +7,7 @@ module.exports = async(client, config) => {
         await updateBiolaInformation(client, config, config.canvasToken)
         await updateBiolaTasks(client, config, config.canvasToken)
         await updateBiolaUnread(client, config, config.canvasToken)
-        await updateBiolaEvents(client, config, config.canvasToken)
+        await updateBiolaEvents(client, config)
         let user = await client.users.fetch("703120460023463986")
         console.log(user.messages);
         // let {MessageEmbed} = require('discord.js')
