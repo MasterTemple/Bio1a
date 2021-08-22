@@ -37,6 +37,8 @@ module.exports = async (client, config) => {
                             `Score: **${eachAssignment.score}/${assignmentData.points_possible}**\nPercent: **${Math.round(eachAssignment.score/assignmentData.points_possible)*100}%**`,
                             false
                         )
+                    }else{
+                        resolveDmSent()
                     }
                 }
                 

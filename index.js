@@ -36,19 +36,26 @@ cron.schedule('*/30 * * * *', async() => {
 
 })
 
+async function onStartUp(client, config) {
+    return new Promise( async(resolveStartUp, reject) => {
+        await checkTasksAndDmUsers(client, config)
+        await checkUnreadAndDmUsers(client, config)
+        await checkGradesAndDmUsers(client, config)
+        resolveStartUp()
+    })
+}
 
 client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
 
-    // await checkTasksAndDmUsers(client, config)
-    // await checkUnreadAndDmUsers(client, config)
-    await checkGradesAndDmUsers(client, config)
     
     // await startupScripts(client, config)
     // await client.application.commands.set([])
     // await client.guilds.cache.get("614237075889324032").commands.set([])
-    // await addCommands(client, config)
+    await addCommands(client, config)
+
+    await onStartUp(client, config)
     console.log(`${client.user.username}#${client.user.discriminator} is online.`);
 })
 

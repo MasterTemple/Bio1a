@@ -21,11 +21,11 @@ module.exports = async(client, config) => {
                     },
                 ]
             },
-            {
-                name: 'dashboard',
-                description: 'View Your Classes For The Current Semester!',
-                default_permission: true,
-            },
+            // {
+            //     name: 'dashboard',
+            //     description: 'View Your Classes For The Current Semester!',
+            //     default_permission: true,
+            // },
             {
                 name: 'invite',
                 description: `Invite ${config.bot.name} to your server!`,
@@ -46,24 +46,27 @@ module.exports = async(client, config) => {
                 description: 'View Unread Messages!',
                 default_permission: true,
             },
-            {
-                name: 'course',
-                description: 'View Course Information!',
-                default_permission: true,
-                options: [
-                    {
-                        "name": "course",
-                        "description": "Select A Course!",
-                        "type": 3,
-                        "required": true,
-                        "choices": courseChoices
-                    },
-                ]
-            }
+            // {
+            //     name: 'course',
+            //     description: 'View Course Information!',
+            //     default_permission: true,
+            //     options: [
+            //         {
+            //             "name": "course",
+            //             "description": "Select A Course!",
+            //             "type": 3,
+            //             "required": true,
+            //             "choices": courseChoices
+            //         },
+            //     ]
+            // }
         ]
-        await client.guilds.cache.get("614237075889324032").commands.set(cmds)
-        await client.guilds.cache.get("877296015781298188").commands.set(cmds)
-        // await client.application.commands.set(cmds)
+        // await client.guilds.cache.get("614237075889324032").commands.set(cmds)
+        // await client.guilds.cache.get("877296015781298188").commands.set(cmds)
+        // await client.guilds.cache.get("614237075889324032").commands.set([])
+        // await client.guilds.cache.get("877296015781298188").commands.set([])
+        await client.application.commands.set(cmds)
+        // // await client.application.commands.set(cmds)
         // for (const cmd of cmds) {
             
         // }
