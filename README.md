@@ -32,7 +32,7 @@ No one has sent me any messages yet so I can't screenshot :(
 3. Run `npm install`
 4. To create the directory for the config files type `mkdir data`
 5. Add 3 files named `channels.json`, `config.json`, and `discordIdToApiKey.json`
-6. Fill the config files with the corresponding data. For very in depth explanation of setting up the config files adn what to put in them, please click [here](./configSetup.md).
+6. Fill the config files with the corresponding data. For very in depth explanation of setting up the config files, what to put in them, and examples, please click [here](./configSetup.md).
 ### `channels.json`
 ```json
 {
@@ -62,6 +62,10 @@ No one has sent me any messages yet so I can't screenshot :(
 }
 ```
 7. Run `node .` or `node index.js`.
+
+# Contact Me
+Discord `blake#3656` (Discord ID is `703120460023463986` just in case I change my name. Look up my username from my ID [here](https://discord.id/).)
+
 
 # USLESS FEATURES
 > ## These were just seeing if i could do it, it is a pretty bad navigating this way. I will only be using it to view tasks and unread canvas messages through discord.
