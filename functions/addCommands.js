@@ -45,53 +45,60 @@ module.exports = async(client, config) => {
                 description: 'View Unread Messages!',
                 default_permission: true,
             },
+            // {
+            //     name: 'parallels',
+            //     description: 'View Corresponding Gospel Stories!',
+            //     default_permission: true,
+            //     options: [
+            //         {
+            //             "name": "book",
+            //             "description": "Select A Gospel!",
+            //             "type": 3,
+            //             "required": true,
+            //             "choices": [
+            //                 {
+            //                     name: "Matthew", 
+            //                     value: "Matthew"
+            //                 },
+            //                 {
+            //                     name: "Mark", 
+            //                     value: "Mark"
+            //                 },
+            //                 {
+            //                     name: "Luke", 
+            //                     value: "Luke"
+            //                 },
+            //                 {
+            //                     name: "John", 
+            //                     value: "John"
+            //                 }
+            //             ]
+            //         },
+            //         {
+            //             "name": "chapter",
+            //             "description": "Enter The Chapter!",
+            //             "type": "INTEGER",
+            //             "required": true
+            //         },
+            //         {
+            //             "name": "verse",
+            //             "description": "Enter The Verse!",
+            //             "type": "INTEGER",
+            //             "required": true
+            //         }
+            //     ]
+            // },
             {
-                name: 'parallels',
+                name: 'gospelparallels',
                 description: 'View Corresponding Gospel Stories!',
                 default_permission: true,
                 options: [
                     {
-                        "name": "book",
-                        "description": "Select A Gospel!",
-                        "type": 3,
+                        "name": "passage",
+                        "description": "Enter a Passage!",
+                        "type": "STRING",
                         "required": true,
-                        "choices": [
-                            {
-                                name: "Matthew", 
-                                value: "Matthew"
-                            },
-                            {
-                                name: "Mark", 
-                                value: "Mark"
-                            },
-                            {
-                                name: "Luke", 
-                                value: "Luke"
-                            },
-                            {
-                                name: "John", 
-                                value: "John"
-                            }
-                        ]
                     },
-                    {
-                        "name": "chapter",
-                        "description": "Enter The Chapter!",
-                        "type": "INTEGER",
-                        "required": true
-                    },
-                    {
-                        "name": "verse",
-                        "description": "Enter The Verse!",
-                        "type": "INTEGER",
-                        "required": true
-                    }
-                    // {
-                    //     "name": "verse",
-                    //     "description": "Enter The Verse!",
-                    //     "type": "STRING",
-                    //     "required": true
-                    // }
                 ]
             }
             // {
