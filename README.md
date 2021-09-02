@@ -18,6 +18,9 @@ No one has sent me any messages yet so I can't screenshot :(
 
 ![](https://cdn.discordapp.com/attachments/877298310078140426/878862655828410398/unknown.png)
 
+## Get Harmonized Gospel Events (unrelated to Biola but i thought it was cool to add)
+![](https://media.discordapp.net/attachments/704211849230549012/880330653147754506/unknown.png)
+
 # Setup
 ### Please Note
 - This bot will work for any Canvas domain. However you will need to change some data such as the domain, the profile picture, the name, the color, and other bot related data to customize it to your school.
