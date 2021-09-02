@@ -25,6 +25,8 @@ module.exports = async () => {
                 eventData.push(thisEvent)
             }
             resolve_events(eventData);
+        }).catch(e => {
+            console.log(e);
         })
     })
 }
