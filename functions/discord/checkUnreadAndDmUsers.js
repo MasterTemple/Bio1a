@@ -24,7 +24,8 @@ module.exports = async (client, config) => {
                 // console.log(data);
                 data.forEach( (eachMessage) => {
                     // let messageDate = new Date(eachMessage.last_message_at).toLocaleString()
-                    let messageDateUnix = Math.floor(new Date(eachMessage.plannable.due_at) / 1000)
+                    // console.log(eachMessage)
+                    let messageDateUnix = Math.floor(new Date(eachMessage.last_message_at) / 1000)
 
                     if(rightNowUnix - newMessageTimePeriod < messageDateUnix && eachMessage.workflow_state === "unread"){                    
 

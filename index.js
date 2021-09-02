@@ -41,10 +41,10 @@ cron.schedule('*/30 * * * *', async() => {
 
 async function onStartUp(client, config) {
     return new Promise( async(resolveStartUp, reject) => {
-        // await checkTasksAndDmUsers(client, config)
-        // await checkUnreadAndDmUsers(client, config)
-        // await checkGradesAndDmUsers(client, config)
-        // await updateBiolaEvents(client, config)
+        await checkTasksAndDmUsers(client, config)
+        await checkUnreadAndDmUsers(client, config)
+        await checkGradesAndDmUsers(client, config)
+        await updateBiolaEvents(client, config)
         resolveStartUp()
     })
 }
