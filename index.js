@@ -84,8 +84,8 @@ client.on('interactionCreate', async (interaction) => {
     // console.log(interaction);
 
     let apiKey = await getApiKeyForUser(config, interaction.user.id)
-    let allowedCommands = ["register", "help", "games", "addrole"]
-    if(apiKey === undefined && !allowedCommands.includes(interaction.commandName)){
+    let allowedCommands = ["register", "help", "games", "addrole", "addMajorRole", "addYearRole"]
+    if(apiKey === undefined && (!allowedCommands.includes(interaction.commandName) && !allowedCommands.includes(interaction.customId.replace(/\[[^\]]]/g, "")))){
         interaction.reply({content: "You are not registered! Please try the `/help </register>` command to register yourself", ephemeral: true})
         return
     }
