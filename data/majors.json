@@ -1,12 +1,137 @@
 [
-    {
-        "name": "Computer Science",
-        "roleId": "886142814201720854",
-        "emoji": "👨‍💻"
-    },
-    {
-        "name": "CMA",
-        "roleId": "886144053186543616",
-        "emoji": "🎬"
-    }
+  {
+    "name": "Biochemistry",
+    "roleId": "783445877184004117",
+    "emoji": "🧪"
+  },
+  {
+    "name": "Biology",
+    "roleId": "778831465583607828",
+    "emoji": "🌱"
+  },
+  {
+    "name": "Business",
+    "roleId": "778831474958139402",
+    "emoji": "📈"
+  },
+  {
+    "name": "CMA",
+    "roleId": "778831444810137601",
+    "emoji": "🎬"
+  },
+  {
+    "name": "Chemistry",
+    "roleId": "778831482319536149",
+    "emoji": "👩‍🔬"
+  },
+  {
+    "name": "Comm Sciences and Disorders",
+    "roleId": "778870187638259742",
+    "emoji": "🗣"
+  },
+  {
+    "name": "Communication",
+    "roleId": "778833932111446046",
+    "emoji": "🗣"
+  },
+  {
+    "name": "Computer Science",
+    "roleId": "886017456483741726",
+    "emoji": "👩‍💻"
+  },
+  {
+    "name": "Education",
+    "roleId": "778831489416429588",
+    "emoji": "👩‍🏫"
+  },
+  {
+    "name": "Engineering Physics",
+    "roleId": "778831495744716801",
+    "emoji": "🛠"
+  },
+  {
+    "name": "English",
+    "roleId": "778831502677901333",
+    "emoji": "🎼"
+  },
+  {
+    "name": "Intercultural Studies",
+    "roleId": "801036075878842379",
+    "emoji": "🗺"
+  },
+  {
+    "name": "Interdisciplinary Studies",
+    "roleId": "778838694601031731",
+    "emoji": "❓"
+  },
+  {
+    "name": "Islamic Studies",
+    "roleId": "778840354861350923",
+    "emoji": "📖"
+  },
+  {
+    "name": "Journalism",
+    "roleId": "778834857023111229",
+    "emoji": "📝"
+  },
+  {
+    "name": "Kinesiology",
+    "roleId": "778831513747324928",
+    "emoji": "🏃‍♀️"
+  },
+  {
+    "name": "Liberal Studies",
+    "roleId": "778832831484002324",
+    "emoji": "❓"
+  },
+  {
+    "name": "Mathematics",
+    "roleId": "778832931795894323",
+    "emoji": "🧮"
+  },
+  {
+    "name": "Messianic Jewish Studies",
+    "roleId": "779574216508964935",
+    "emoji": "✡"
+  },
+  {
+    "name": "Music",
+    "roleId": "778838169269305375",
+    "emoji": "🎼"
+  },
+  {
+    "name": "Nursing",
+    "roleId": "778833047885447169",
+    "emoji": "👩‍⚕️"
+  },
+  {
+    "name": "Philosophy",
+    "roleId": "778833186230501388",
+    "emoji": "🤔"
+  },
+  {
+    "name": "Political Science",
+    "roleId": "778833272821645332",
+    "emoji": "🇺🇸"
+  },
+  {
+    "name": "Psychology",
+    "roleId": "778831422966202399",
+    "emoji": "🧠"
+  },
+  {
+    "name": "Spiritual Formation",
+    "roleId": "778841037283524638",
+    "emoji": "🙏"
+  },
+  {
+    "name": "Theology",
+    "roleId": "778831455409012766",
+    "emoji": "⛪"
+  },
+  {
+    "name": "Undecided",
+    "roleId": "778834237079683092",
+    "emoji": "🤷‍♀️"
+  }
 ]

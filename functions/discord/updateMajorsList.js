@@ -6,7 +6,8 @@ module.exports = async (client, config) => {
         embed.setDescription("Select Your Major For A Special Role!")
         let options = []
         let majors = require("./../../data/majors.json")
-        majors.forEach( eachMajor => {
+        majors.forEach( (eachMajor, c) => {
+            if(c < 25){
             options.push({
                 "label": eachMajor.name,
                 "value": eachMajor.roleId,
@@ -17,9 +18,10 @@ module.exports = async (client, config) => {
                     id: null,
                     name: eachMajor.emoji
                 }
-            })
-            eachMajor
+            })}
+            
         })
+        
         let components = [
             {
                 "type": 1,
@@ -36,9 +38,10 @@ module.exports = async (client, config) => {
             },
         ]
         
-            let channel = client.channels.cache.get("886138383007621201")
+            let channel = client.channels.cache.get("778836697831571507")
             channel.messages.fetch().then(async (messages) => {
-                if (messages.size === 0) {
+                // if (messages.size === 0) {
+                if(messages.first().author.id !== "876215060110917692"){
                     await channel.send({
                         // content: `Last Updated: <t:${Math.floor(new Date() / 1000)}:R>`,
                         embeds: [embed],

@@ -53,13 +53,23 @@ async function onStartUp(client, config) {
 client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
-    await updateMajorsList(client, config)
+    // await updateMajorsList(client, config)
 
-    
+    // let channel = client.channels.cache.get("778836697831571507")
+    // channel.messages.fetch().then(async (messages) => {
+    //     // if (messages.size === 0) {
+    //         messages.forEach(m => {
+    //             if(m.author.id === "876215060110917692"){
+    //                 m.delete()
+    //             }
+    //         })
+        
+    // })
+
     // await startupScripts(client, config)
     // await client.application.commands.set([])
     // await client.guilds.cache.get("614237075889324032").commands.set([])
-    await addCommands(client, config)
+    // await addCommands(client, config)
 
     // await onStartUp(client, config)
     // await startupScripts(client, config)
