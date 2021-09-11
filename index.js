@@ -11,7 +11,7 @@ let checkUnreadAndDmUsers = require('./functions/discord/checkUnreadAndDmUsers')
 let checkGradesAndDmUsers = require('./functions/discord/checkGradesAndDmUsers')
 let updateBiolaEvents = require('./functions/discord/updateBiolaEvents')
 let updateMajorsList = require('./functions/discord/updateMajorsList')
-
+let updateRoleChannel = require('./functions/discord/updateRoleChannel')
 const client = new Discord.Client({
     presence: {
         status: 'online',
@@ -53,8 +53,12 @@ async function onStartUp(client, config) {
 client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
-    await updateMajorsList(client, config)
-
+    // await updateMajorsList(client, config)
+    await updateRoleChannel(client, config)
+    // let guild = await client.guilds.cache.get("777396979004342292")
+    // let role = await guild.roles.fetch("886318493367152730")
+    // await role.delete()
+    // console.log(role);
     // let channel = client.channels.cache.get("778836697831571507")
     // channel.messages.fetch().then(async (messages) => {
     //     // if (messages.size === 0) {

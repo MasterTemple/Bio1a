@@ -42,7 +42,7 @@ module.exports = async (client, config) => {
                 "components": [
                     {
                         "type": 3,
-                        "custom_id": "addrole[1]",
+                        "custom_id": "addMajorRole[1]",
                         "options": options,
                         // "placeholder": `Select Your Major! ${options[0].label.match(/\w+/g)[0]} - ${options[options.length-1].label.match(/\w+/g)[0]}`,
                         "placeholder": `Select Your Major! ${options[0].label.substring(0,44)} - ${options[options.length-1].label.substring(0,44)}`,
@@ -56,7 +56,7 @@ module.exports = async (client, config) => {
                 "components": [
                     {
                         "type": 3,
-                        "custom_id": "addrole[2]",
+                        "custom_id": "addMajorRole[2]",
                         "options": options2,
                         // "placeholder": `Select Your Major! ${options2[0].label.match(/\w+/g)[0]} - ${options2[options2.length-1].label.match(/\w+/g)[0]}`,
                         "placeholder": `Select Your Major! ${options2[0].label.substring(0,44)} - ${options2[options2.length-1].label.substring(0,44)}`,
@@ -66,8 +66,8 @@ module.exports = async (client, config) => {
                 ]
             },
         ]
-        
-            let channel = client.channels.cache.get("778836697831571507")
+            let roleChannelId = "778836697831571507"
+            let channel = client.channels.cache.get(roleChannelId)
             channel.messages.fetch().then(async (messages) => {
                 // if (messages.size === 0) {
                 if(messages.first().author.id !== "876215060110917692"){
