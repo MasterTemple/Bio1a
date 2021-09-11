@@ -5,14 +5,16 @@ module.exports = async (interaction, config, accessToken) => {
     let member = interaction.member
     // console.log(roleToAdd);
     try{
-    await member.roles.add(roleToAdd)
     let userRoles = [...member.roles.cache.keys()]
     let majorRoles = majors.map(r => r.roleId)
-    majorRoles.forEach( eachMajorRole => {
+    //majorRoles.forEach( eachMajorRole => {
+	for(let eachMajorRole of majorRoles){
         if(userRoles.includes(eachMajorRole)){
-            member.roles.remove(eachMajorRole)
+            await member.roles.remove(eachMajorRole)
         }
-    })
+    }
+	await member.roles.add(roleToAdd)
+
     // console.log( );
     // majors.forEach(m => {
     //     member.roles.add(roleToAdd)
