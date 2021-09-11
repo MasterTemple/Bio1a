@@ -10,6 +10,7 @@ let checkTasksAndDmUsers = require('./functions/discord/checkTasksAndDmUsers')
 let checkUnreadAndDmUsers = require('./functions/discord/checkUnreadAndDmUsers')
 let checkGradesAndDmUsers = require('./functions/discord/checkGradesAndDmUsers')
 let updateBiolaEvents = require('./functions/discord/updateBiolaEvents')
+let updateMajorsList = require('./functions/discord/updateMajorsList')
 
 const client = new Discord.Client({
     presence: {
@@ -52,14 +53,16 @@ async function onStartUp(client, config) {
 client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
+    await updateMajorsList(client, config)
 
     
     // await startupScripts(client, config)
     // await client.application.commands.set([])
     // await client.guilds.cache.get("614237075889324032").commands.set([])
-    // await addCommands(client, config)
+    await addCommands(client, config)
 
-    await onStartUp(client, config)
+    // await onStartUp(client, config)
+    // await startupScripts(client, config)
     console.log(`${client.user.username}#${client.user.discriminator} is online.`);
 })
 
@@ -67,8 +70,9 @@ client.on('interactionCreate', async (interaction) => {
     // console.log(interaction);
 
     let apiKey = await getApiKeyForUser(config, interaction.user.id)
-    if(apiKey === undefined && interaction.commandName != "register"){
-        interaction.reply({content: "You are not registered! Please try the `/register` command", ephemeral: true})
+    let allowedCommands = ["register", "help", "games", "addrole"]
+    if(apiKey === undefined && !allowedCommands.includes(interaction.commandName)){
+        interaction.reply({content: "You are not registered! Please try the `/help </register>` command to register yourself", ephemeral: true})
         return
     }
     

@@ -6,6 +6,11 @@ module.exports = async(client, config) => {
         // data.forEach(course => {
         //     courseChoices.push({name: course.shortName, value: `${course.shortName}[${course.id}]`})
         // })
+        let sportsChoices = []
+        let sportsData = require('./../data/sportsOverview.json')
+        sportsData.forEach(sport => {
+            sportsChoices.push({name: sport.sportInfo.sport_title, value: sport.sport})
+            })
         const cmds = [
             {
                 name: 'register',
@@ -100,7 +105,59 @@ module.exports = async(client, config) => {
                         "required": true,
                     },
                 ]
-            }
+            },
+            {
+                name: 'games',
+                description: 'View games for any Biola Sports Team!',
+                default_permission: true,
+                options: [
+                    {
+                        "name": "sport",
+                        "description": "Select A Sport!",
+                        "type": 3,
+                        "required": true,
+                        "choices": sportsChoices
+                    },
+                    {
+                        "name": "games",
+                        "description": "Recent or Upcoming Games?",
+                        "type": 3,
+                        "required": true,
+                        "choices": [
+                            {
+                                name: "Recent Games",
+                                value: "recent"
+                            },
+                            {
+                                name: "Upcoming Games",
+                                value: "upcoming"
+                            }
+                            
+                        ]
+                    },
+
+                ]
+            },
+            {
+                name: 'help',
+                description: 'Learn how to use Bio1a!',
+                default_permission: true,
+                options: [
+                    {
+                        "name": "command",
+                        "description": "Choose a command to learn about.",
+                        "type": 3,
+                        "required": false,
+                        "choices": [
+                            {
+                                name: "/register",
+                                value: "register"
+                            }                            
+                        ]
+                    },
+
+                ]
+            },
             // {
             //     name: 'course',
             //     description: 'View Course Information!',

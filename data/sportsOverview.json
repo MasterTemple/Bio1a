@@ -1,0 +1,322 @@
+[
+  {
+    "sport": "2",
+    "sportInfo": {
+      "sport_title": "Baseball",
+      "sport_abbrev": "BB",
+      "sport_shortname": "baseball",
+      "season_id": "44",
+      "conference_id": "2",
+      "roster_id": "1277",
+      "schedule_id": "1516",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "1",
+      "global_sport_name": "baseball"
+    }
+  },
+  {
+    "sport": "14",
+    "sportInfo": {
+      "sport_title": "General",
+      "sport_abbrev": "GEN",
+      "sport_shortname": "gen",
+      "season_id": "",
+      "conference_id": "1",
+      "roster_id": "",
+      "schedule_id": "",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "37",
+      "global_sport_name": "general"
+    }
+  },
+  {
+    "sport": "3",
+    "sportInfo": {
+      "sport_title": "Men's Basketball",
+      "sport_abbrev": "MBB",
+      "sport_shortname": "mbball",
+      "season_id": "43",
+      "conference_id": "2",
+      "roster_id": "1269",
+      "schedule_id": "1523",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "3",
+      "global_sport_name": "mbball"
+    }
+  },
+  {
+    "sport": "5",
+    "sportInfo": {
+      "sport_title": "Men's Cross Country",
+      "sport_abbrev": "XC",
+      "sport_shortname": "cross",
+      "season_id": "28",
+      "conference_id": "1",
+      "roster_id": "1276",
+      "schedule_id": "1515",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "29",
+      "global_sport_name": "cross"
+    }
+  },
+  {
+    "sport": "15",
+    "sportInfo": {
+      "sport_title": "Men's Golf",
+      "sport_abbrev": "MGOLF",
+      "sport_shortname": "mgolf",
+      "season_id": "27",
+      "conference_id": "",
+      "roster_id": "1224",
+      "schedule_id": "216",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "9",
+      "global_sport_name": "mgolf"
+    }
+  },
+  {
+    "sport": "6",
+    "sportInfo": {
+      "sport_title": "Men's Soccer",
+      "sport_abbrev": "MSOC",
+      "sport_shortname": "msoc",
+      "season_id": "28",
+      "conference_id": "2",
+      "roster_id": "1270",
+      "schedule_id": "1518",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "7",
+      "global_sport_name": "msoc"
+    }
+  },
+  {
+    "sport": "9",
+    "sportInfo": {
+      "sport_title": "Men's Swimming & Diving",
+      "sport_abbrev": "SWIM",
+      "sport_shortname": "swim",
+      "season_id": "27",
+      "conference_id": "1",
+      "roster_id": "1260",
+      "schedule_id": "1506",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "28",
+      "global_sport_name": "swim"
+    }
+  },
+  {
+    "sport": "10",
+    "sportInfo": {
+      "sport_title": "Men's Tennis",
+      "sport_abbrev": "MTEN",
+      "sport_shortname": "mten",
+      "season_id": "44",
+      "conference_id": "2",
+      "roster_id": "1257",
+      "schedule_id": "1508",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "19",
+      "global_sport_name": "mten"
+    }
+  },
+  {
+    "sport": "12",
+    "sportInfo": {
+      "sport_title": "Men's Track & Field",
+      "sport_abbrev": "MTRACK",
+      "sport_shortname": "track",
+      "season_id": "44",
+      "conference_id": "2",
+      "roster_id": "1267",
+      "schedule_id": "1512",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "27",
+      "global_sport_name": "track"
+    }
+  },
+  {
+    "sport": "25",
+    "sportInfo": {
+      "sport_title": "Men's Water Polo",
+      "sport_abbrev": "MWP",
+      "sport_shortname": "mwp",
+      "season_id": "",
+      "conference_id": "3",
+      "roster_id": "1246",
+      "schedule_id": "318",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "0",
+      "global_sport_name": ""
+    }
+  },
+  {
+    "sport": "8",
+    "sportInfo": {
+      "sport_title": "Softball",
+      "sport_abbrev": "SB",
+      "sport_shortname": "softball",
+      "season_id": "28",
+      "conference_id": "2",
+      "roster_id": "1263",
+      "schedule_id": "1511",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "2",
+      "global_sport_name": "softball"
+    }
+  },
+  {
+    "sport": "13",
+    "sportInfo": {
+      "sport_title": "Volleyball",
+      "sport_abbrev": "WVB",
+      "sport_shortname": "vball",
+      "season_id": "28",
+      "conference_id": "2",
+      "roster_id": "1268",
+      "schedule_id": "1517",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "22",
+      "global_sport_name": "wvball"
+    }
+  },
+  {
+    "sport": "4",
+    "sportInfo": {
+      "sport_title": "Women's Basketball",
+      "sport_abbrev": "WBB",
+      "sport_shortname": "wbball",
+      "season_id": "43",
+      "conference_id": "2",
+      "roster_id": "1272",
+      "schedule_id": "1521",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "4",
+      "global_sport_name": "wbball"
+    }
+  },
+  {
+    "sport": "18",
+    "sportInfo": {
+      "sport_title": "Women's Cross Country",
+      "sport_abbrev": "WXC",
+      "sport_shortname": "wcross",
+      "season_id": "28",
+      "conference_id": "1",
+      "roster_id": "1274",
+      "schedule_id": "1520",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "12",
+      "global_sport_name": "wcross"
+    }
+  },
+  {
+    "sport": "16",
+    "sportInfo": {
+      "sport_title": "Women's Golf",
+      "sport_abbrev": "WGOLF",
+      "sport_shortname": "wgolf",
+      "season_id": "27",
+      "conference_id": "1",
+      "roster_id": "1283",
+      "schedule_id": "1524",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "10",
+      "global_sport_name": "wgolf"
+    }
+  },
+  {
+    "sport": "7",
+    "sportInfo": {
+      "sport_title": "Women's Soccer",
+      "sport_abbrev": "WSOC",
+      "sport_shortname": "wsoc",
+      "season_id": "28",
+      "conference_id": "2",
+      "roster_id": "1271",
+      "schedule_id": "1519",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "8",
+      "global_sport_name": "wsoc"
+    }
+  },
+  {
+    "sport": "19",
+    "sportInfo": {
+      "sport_title": "Women's Swimming",
+      "sport_abbrev": "WSWIM",
+      "sport_shortname": "wswim",
+      "season_id": "43",
+      "conference_id": "1",
+      "roster_id": "1259",
+      "schedule_id": "1507",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "24",
+      "global_sport_name": "wswim"
+    }
+  },
+  {
+    "sport": "11",
+    "sportInfo": {
+      "sport_title": "Women's Tennis",
+      "sport_abbrev": "WTEN",
+      "sport_shortname": "wten",
+      "season_id": "44",
+      "conference_id": "2",
+      "roster_id": "1256",
+      "schedule_id": "1509",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "20",
+      "global_sport_name": "wten"
+    }
+  },
+  {
+    "sport": "21",
+    "sportInfo": {
+      "sport_title": "Women's Track & Field",
+      "sport_abbrev": "WTRACK",
+      "sport_shortname": "wtrack",
+      "season_id": "44",
+      "conference_id": "2",
+      "roster_id": "1266",
+      "schedule_id": "1513",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "26",
+      "global_sport_name": "wtrack"
+    }
+  },
+  {
+    "sport": "26",
+    "sportInfo": {
+      "sport_title": "Women's Water Polo",
+      "sport_abbrev": "WWP",
+      "sport_shortname": "wwp",
+      "season_id": "",
+      "conference_id": "",
+      "roster_id": "1247",
+      "schedule_id": "319",
+      "is_not_sport": "False",
+      "show_at_vs": "True",
+      "global_sport_id": "0",
+      "global_sport_name": ""
+    }
+  }
+]
