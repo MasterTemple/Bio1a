@@ -49,19 +49,27 @@ module.exports = async (interaction, config, accessToken) => {
           }
         })
 
-        if(gameType === "recent"){  
+        if(gameType === "recent"){  				
             embed.setTitle(`Biola ${games[0].sport.title} Previous Matches`)
-            embed.addField("Opponent", opponents, true)
-            embed.addField("Score", scores, true)
-            embed.addField("Date", schedules, true)
-            embed.setThumbnail("https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/athletics.biola.edu/images/logos/site/site.png?width=96")
+			if(opponents === ""){
+				embed.setDescription("No Games Played")
+			}else{
+				embed.addField("Opponent", opponents, true)
+				embed.addField("Score", scores, true)
+				embed.addField("Date", schedules, true)
+            }
+			embed.setThumbnail("https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/athletics.biola.edu/images/logos/site/site.png?width=96")
         }
         else{
             embed.setTitle(`Biola ${games[0].sport.title} Upcoming Matches`)
-            embed.addField("Opponent", upcomingOpponents, true)
-            embed.addField("Locations", upcomingLocation, true)
-            embed.addField("Date", upcomingSchedules, true)
-            embed.setThumbnail("https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/athletics.biola.edu/images/logos/site/site.png?width=96")
+			if(upcomingOpponents === ""){
+				embed.setDescription("No Schedule Games")
+			}else{	
+				embed.addField("Opponent", upcomingOpponents, true)
+				embed.addField("Locations", upcomingLocation, true)
+				embed.addField("Date", upcomingSchedules, true)
+            }
+			embed.setThumbnail("https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/athletics.biola.edu/images/logos/site/site.png?width=96")
         }
         
         let components = [
