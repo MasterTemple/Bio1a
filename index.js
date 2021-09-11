@@ -85,7 +85,7 @@ client.on('interactionCreate', async (interaction) => {
 
     let apiKey = await getApiKeyForUser(config, interaction.user.id)
     let allowedCommands = ["register", "help", "games", "addrole", "addMajorRole", "addYearRole"]
-    if(apiKey === undefined && (!allowedCommands.includes(interaction.commandName) && !allowedCommands.includes(interaction.customId.replace(/\[[^\]]]/g, "")))){
+    if(apiKey === undefined && (!allowedCommands.includes(interaction?.commandName) && !allowedCommands.includes(interaction?.customId?.replace(/\[[^\]]]/g, "")))){
         // interaction.reply({content: "You are not registered! Please try the `/help </register>` command to register yourself", ephemeral: true})
         
             let embed = new MessageEmbed().setColor(config.bot.color).setTitle("How To Register").setThumbnail(config.bot.iconUrl).setImage("https://cdn.discordapp.com/attachments/877643936733216788/877672323522654298/createToken.gif")
