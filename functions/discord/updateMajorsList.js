@@ -5,9 +5,10 @@ module.exports = async (client, config) => {
         let embed = new MessageEmbed().setColor(config.bot.color).setTitle("Choose Your Major!").setImage("https://lh3.googleusercontent.com/proxy/8GZSskhfpjL5SIIgpoDpFM8LKURuey_yPUCINsjGbejn-ddds1eLGZveLTWbHGkJ2NCtQnE3abs8_R3dasch0zq4EVxclgY2LWeriU-cLYrTFeW5pgayJgCtXnth")
         embed.setDescription("Select Your Major For A Special Role!")
         let options = []
+        let options2 = []
         let majors = require("./../../data/majors.json")
         majors.forEach( (eachMajor, c) => {
-            if(c < 25){
+            if(c < majors.length/2){
             options.push({
                 "label": eachMajor.name,
                 "value": eachMajor.roleId,
@@ -19,6 +20,19 @@ module.exports = async (client, config) => {
                     name: eachMajor.emoji
                 }
             })}
+            else{
+                options2.push({
+                    "label": eachMajor.name,
+                    "value": eachMajor.roleId,
+                    "description": eachMajor.name,
+                    "emoji": {
+                        // "name": flags[country]['emoji'],
+                        // "id": eachMajor.emoji
+                        id: null,
+                        name: eachMajor.emoji
+                    }
+                })}
+            
             
         })
         
@@ -28,9 +42,22 @@ module.exports = async (client, config) => {
                 "components": [
                     {
                         "type": 3,
-                        "custom_id": "addrole",
+                        "custom_id": "addrole[1]",
                         "options": options,
-                        "placeholder": "Select Your Major!",
+                        "placeholder": `Select Your Major! ${options[0].label.match(/\w+/g)[0]} - ${options[options.length-1].label.match(/\w+/g)[0]}`,
+                        "min_values": 1,
+                        "max_values": 1
+                    }
+                ]
+            },
+            {
+                "type": 1,
+                "components": [
+                    {
+                        "type": 3,
+                        "custom_id": "addrole[2]",
+                        "options": options2,
+                        "placeholder": `Select Your Major! ${options2[0].label.match(/\w+/g)[0]} - ${options2[options2.length-1].label.match(/\w+/g)[0]}`,
                         "min_values": 1,
                         "max_values": 1
                     }

@@ -53,7 +53,7 @@ async function onStartUp(client, config) {
 client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
-    // await updateMajorsList(client, config)
+    await updateMajorsList(client, config)
 
     // let channel = client.channels.cache.get("778836697831571507")
     // channel.messages.fetch().then(async (messages) => {
@@ -97,7 +97,7 @@ client.on('interactionCreate', async (interaction) => {
         command(interaction, config, apiKey)
     }
     else if (interaction.componentType === "SELECT_MENU") {
-        let command = require(`./functions/selectMenus/${interaction.customId}`)
+        let command = require(`./functions/selectMenus/${interaction.customId.replace(/\[[^\]]]/g, "")}`)
         command(interaction, config, apiKey)
     }
 
