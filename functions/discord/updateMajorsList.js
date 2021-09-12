@@ -2,7 +2,7 @@ module.exports = async (client, config) => {
     return new Promise(async(resolveUpdate, reject) => {
 
         let {MessageEmbed} = require('discord.js')
-        let embed = new MessageEmbed().setColor(config.bot.color).setTitle("Choose Your Major!").setImage("https://lh3.googleusercontent.com/proxy/8GZSskhfpjL5SIIgpoDpFM8LKURuey_yPUCINsjGbejn-ddds1eLGZveLTWbHGkJ2NCtQnE3abs8_R3dasch0zq4EVxclgY2LWeriU-cLYrTFeW5pgayJgCtXnth")
+        let embed = new MessageEmbed().setColor(config.bot.color).setTitle("Choose Your Major!").setImage("https://cdn.discordapp.com/attachments/877298310078140426/886749137071116318/large_EventsLogo.png")
         embed.setDescription("Select Your Major For A Special Role!")
         let options = []
         let options2 = []
