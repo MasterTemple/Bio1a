@@ -80,6 +80,13 @@ client.once('ready', async () => {
     console.log(`${client.user.username}#${client.user.discriminator} is online.`);
 })
 
+client.on("messageCreate", (message) => {
+    if(message.channel.id === "886079029583691827"){
+        // #welcome-landing
+        message.react("👋")
+    }
+})
+
 client.on('interactionCreate', async (interaction) => {
     // console.log(interaction);
 
