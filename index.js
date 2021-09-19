@@ -85,10 +85,10 @@ client.on("messageCreate", (message) => {
         // #welcome-landing
         message.react("👋")
     }
-    if(message.channel.id === "786715096202215494" && message.content.toLocaleLowerCase() === "aaron"){
+    if(message.channel.id === "786715096202215494" && message.content.toLowerCase().includes("aaron")){
         // #aaron
         let oldCount = message.channel.topic.match(/\d+/g)[0]
-        console.log(oldCount)
+        // console.log(oldCount)
         message.channel.setTopic(`Aaron Count: ${parseInt(oldCount)+1}`)
     }
 })

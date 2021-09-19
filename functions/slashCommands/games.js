@@ -21,6 +21,10 @@ module.exports = async (interaction, config, accessToken) => {
         let scores = ""
         let schedules = ""
 
+        let wins = 0
+        let losses = 0
+        let ties = 0
+
         let upcomingOpponents = ""
         let upcomingLocation = ""
         let upcomingSchedules = ""
@@ -29,6 +33,13 @@ module.exports = async (interaction, config, accessToken) => {
 
             if(g.result.team_score){
               opponents = `${opponents}${g.opponent.title}\n`
+              if(g.result.status === "W"){
+                wins++
+              }else if(g.result.status === "L"){
+                losses++
+              }else{
+                ties++
+              }
               scores = `${scores}**${g.result.status}** ${g.result.team_score}-${g.result.opponent_score}\n`
 
                 // if(g.location === "La Mirada"){
@@ -38,6 +49,7 @@ module.exports = async (interaction, config, accessToken) => {
 
                 // }
               schedules = `${schedules}<t:${Math.floor(new Date(g.date) / 1000)}:R>\n`
+
 
             } 
              
@@ -50,7 +62,7 @@ module.exports = async (interaction, config, accessToken) => {
         })
 
         if(gameType === "recent"){  				
-            embed.setTitle(`Biola ${games[0].sport.title} Previous Matches`)
+            embed.setTitle(`Biola ${games[0].sport.title} Previous Matches **${wins}**-**${losses}**-**${ties}**`)
 			if(opponents === ""){
 				embed.setDescription("No Games Played")
 			}else{
