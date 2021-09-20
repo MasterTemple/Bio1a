@@ -1,214 +1,263 @@
 {
   "Flag Football": {
+    "channelId": "889579669970632774",
     "leagues": {
       "Co-ed League": [],
       "Men's League": [
         {
           "teamName": "Biola Football Team",
-          "captain": "Everett Ayles"
+          "captain": "Everett Ayles",
+          "roleId": "889597901670613002"
         },
         {
           "teamName": "Post Mahomes",
-          "captain": "Andrew Garcia"
+          "captain": "Andrew Garcia",
+          "roleId": "889597903025348668"
         },
         {
           "teamName": "whats an audible",
-          "captain": "Joshua Lawrence"
+          "captain": "Joshua Lawrence",
+          "roleId": "889597903851646997"
         },
         {
           "teamName": "Team Blackstone",
-          "captain": "Jalen Cabrales"
+          "captain": "Jalen Cabrales",
+          "roleId": "889597905315450901"
         }
       ],
       "Women's League": []
     }
   },
   "Soccer": {
+    "channelId": "889579688928903258",
     "leagues": {
       "A League": [
         {
           "teamName": "Oldtimers",
-          "captain": "Atley Shapiro"
+          "captain": "Atley Shapiro",
+          "roleId": "889597906825388042"
         },
         {
           "teamName": "Sled Gang",
-          "captain": "Seth McLaren"
+          "captain": "Seth McLaren",
+          "roleId": "889597907957862411"
         },
         {
           "teamName": "Freshmen United",
-          "captain": "Micah Woodring"
+          "captain": "Micah Woodring",
+          "roleId": "889597909304213555"
         },
         {
           "teamName": "Ronaldo Fanboys",
-          "captain": "Jacob Edwards"
+          "captain": "Jacob Edwards",
+          "roleId": "889597910608654396"
         },
         {
           "teamName": "BU United",
-          "captain": "Fredy Merida De Leon Jr"
+          "captain": "Fredy Merida De Leon Jr",
+          "roleId": "889597911766302750"
         },
         {
           "teamName": "Free Agents FC",
-          "captain": "Alique Malakian"
+          "captain": "Alique Malakian",
+          "roleId": "889597913393676318"
         },
         {
           "teamName": "Chupapi",
-          "captain": "Dylan Greenly"
+          "captain": "Dylan Greenly",
+          "roleId": "889597914492571680"
         }
       ],
       "B League": [
         {
           "teamName": "Big Hustlers",
-          "captain": "Isaiah Roberts"
+          "captain": "Isaiah Roberts",
+          "roleId": "889597915939618867"
         },
         {
           "teamName": "Judge Judy FC",
-          "captain": "Hunter Deverian"
+          "captain": "Hunter Deverian",
+          "roleId": "889597917311172609"
         },
         {
           "teamName": "FC DBC",
-          "captain": "Andrew Garcia"
+          "captain": "Andrew Garcia",
+          "roleId": "889597918821113936"
         },
         {
           "teamName": "BUST",
-          "captain": "Hudson Young"
+          "captain": "Hudson Young",
+          "roleId": "889597920003895386"
         }
       ]
     }
   },
   "Spikeball": {
+    "channelId": "889579704342949908",
     "leagues": {
       "A League": [
         {
           "teamName": "Voyagers",
-          "captain": "Grant Lawrence"
+          "captain": "Grant Lawrence",
+          "roleId": "889597921434173522"
         },
         {
           "teamName": "Flip",
-          "captain": "John Baldwin"
+          "captain": "John Baldwin",
+          "roleId": "889597923107676180"
         },
         {
           "teamName": "Kingsboys",
-          "captain": "Jonas Huckabay"
+          "captain": "Jonas Huckabay",
+          "roleId": "889597924244357121"
         },
         {
           "teamName": "Sauce Bros",
-          "captain": "Marco Collazo"
+          "captain": "Marco Collazo",
+          "roleId": "889597925984985118"
         },
         {
           "teamName": "Spike Hyzer",
-          "captain": "Philip Craig"
+          "captain": "Philip Craig",
+          "roleId": "889597926970638387"
         },
         {
           "teamName": "Spikeology",
-          "captain": "Hosea Wimer"
+          "captain": "Hosea Wimer",
+          "roleId": "889597928652566528"
         },
         {
           "teamName": "Mini Trampolines",
-          "captain": "Nicolas Sapper"
+          "captain": "Nicolas Sapper",
+          "roleId": "889597930233819186"
         },
         {
           "teamName": "No Problem",
-          "captain": "Nathan Olexer"
+          "captain": "Nathan Olexer",
+          "roleId": "889597931290779649"
         },
         {
           "teamName": "Missionary Boys",
-          "captain": "Cole Gorham"
+          "captain": "Cole Gorham",
+          "roleId": "889597933174022214"
         }
       ],
       "B League": [
         {
           "teamName": "Pilgrims",
-          "captain": "Jordan Greer"
+          "captain": "Jordan Greer",
+          "roleId": "889597934457487442"
         },
         {
           "teamName": "ball busters",
-          "captain": "David Brown"
+          "captain": "David Brown",
+          "roleId": "889597935556382721"
         },
         {
           "teamName": "Mayonnaise",
-          "captain": "Caleb Villa"
+          "captain": "Caleb Villa",
+          "roleId": "889597937414463538"
         },
         {
           "teamName": "CLAB",
-          "captain": "Chase Edwards"
+          "captain": "Chase Edwards",
+          "roleId": "889597938895056957"
         },
         {
           "teamName": "empire spikes back",
-          "captain": "Kendra Pook"
+          "captain": "Kendra Pook",
+          "roleId": "889597940346261564"
         }
       ]
     }
   },
   "Volleyball": {
+    "channelId": "889579723896782948",
     "leagues": {
       "A League": [
         {
           "teamName": "Ben's Friends",
-          "captain": "Hayden Leever"
+          "captain": "Hayden Leever",
+          "roleId": "889597941545840710"
         },
         {
           "teamName": "PokiBomb",
-          "captain": "Young Song"
+          "captain": "Young Song",
+          "roleId": "889597942778953738"
         },
         {
           "teamName": "Just BU",
-          "captain": "Bridger Schippa"
+          "captain": "Bridger Schippa",
+          "roleId": "889597944335044628"
         },
         {
           "teamName": "21 Jumpserve",
-          "captain": "Abigail Hunter"
+          "captain": "Abigail Hunter",
+          "roleId": "889597945647874058"
         },
         {
           "teamName": "No Dig'gity",
-          "captain": "Andres Meneses Pena"
+          "captain": "Andres Meneses Pena",
+          "roleId": "889597946717429791"
         },
         {
           "teamName": "Sets on the Beach",
-          "captain": "Matthew Martin"
+          "captain": "Matthew Martin",
+          "roleId": "889597948239970344"
         }
       ],
       "B League": [
         {
           "teamName": "i’d hit that",
-          "captain": "Ashley Thomas"
+          "captain": "Ashley Thomas",
+          "roleId": "889597949397565482"
         },
         {
           "teamName": "that's what she set",
-          "captain": "Audrey Park"
+          "captain": "Audrey Park",
+          "roleId": "889597951142395984"
         },
         {
           "teamName": "the elders",
-          "captain": "Samantha Chedester"
+          "captain": "Samantha Chedester",
+          "roleId": "889597952287440927"
         },
         {
           "teamName": "treblemakers",
-          "captain": "Talia Milionis"
+          "captain": "Talia Milionis",
+          "roleId": "889597953487044638"
         },
         {
           "teamName": "Kiss My Ace",
-          "captain": "Alano Fukumoto"
+          "captain": "Alano Fukumoto",
+          "roleId": "889597954745303060"
         },
         {
           "teamName": "russell & his oppas",
-          "captain": "Carissa Choi"
+          "captain": "Carissa Choi",
+          "roleId": "889597956146212934"
         },
         {
           "teamName": "Hot and Setsy",
-          "captain": "Karsten Patzer"
+          "captain": "Karsten Patzer",
+          "roleId": "889597957089947649"
         },
         {
           "teamName": "Block Party",
-          "captain": "Wyatt Carbonneau"
+          "captain": "Wyatt Carbonneau",
+          "roleId": "889597960558637076"
         },
         {
           "teamName": "The Short Giraffes",
-          "captain": "Hannah Edwards"
+          "captain": "Hannah Edwards",
+          "roleId": "889597961812709386"
         }
       ],
       "C League": [
         {
           "teamName": "Breakfast Club",
-          "captain": "Wesley Gates"
+          "captain": "Wesley Gates",
+          "roleId": "889597963163295745"
         }
       ]
     }

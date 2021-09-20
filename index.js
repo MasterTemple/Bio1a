@@ -12,6 +12,7 @@ let checkGradesAndDmUsers = require('./functions/discord/checkGradesAndDmUsers')
 let updateBiolaEvents = require('./functions/discord/updateBiolaEvents')
 let updateMajorsList = require('./functions/discord/updateMajorsList')
 let updateRoleChannel = require('./functions/discord/updateRoleChannel')
+let updateLeagueChannels = require('./functions/discord/updateLeagueChannels')
 let updateSportsRoleChannel= require('./functions/discord/updateSportsRoleChannel')
 const client = new Discord.Client({
     presence: {
@@ -56,7 +57,8 @@ client.once('ready', async () => {
     config.bot.name = client.user.username
     // await updateMajorsList(client, config)
     // await updateRoleChannel(client, config)
-    await updateSportsRoleChannel(client, config)
+    // await updateSportsRoleChannel(client, config)
+    await updateLeagueChannels(client, config)
 
     // let guild = await client.guilds.cache.get("777396979004342292")
     // let role = await guild.roles.fetch("886318493367152730")
