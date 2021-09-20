@@ -24,14 +24,15 @@ module.exports = async (client, config) => {
         })
         let ruleEmbed = new MessageEmbed().setColor(config.bot.color).setTitle("Rules").addField("1. Honor God", "Behave like you would anywhere else on campus.")
         
-        let roleEmbed = new MessageEmbed().setColor(config.bot.color).setTitle("Roles").setDescription(`
-        Navigate to the corresponding channel to select your intramural team.
+        let roleEmbed = new MessageEmbed().setColor(config.bot.color).setTitle("Roles").setDescription(
+`Navigate to the corresponding channel to select your intramural team.
 
-        For **Flag Football** Go To: <#889579669970632774>
-        For **Soccer** Go To: <#889579688928903258>
-        For **Spikeball** Go To: <#889579704342949908>
-        For **Volleyball** Go To: <#889579723896782948>
-        `)
+For **Flag Football** Go To: <#889579669970632774>
+For **Soccer** Go To: <#889579688928903258>
+For **Spikeball** Go To: <#889579704342949908>
+For **Volleyball** Go To: <#889579723896782948>
+`
+)
 
         let components = [
             {
