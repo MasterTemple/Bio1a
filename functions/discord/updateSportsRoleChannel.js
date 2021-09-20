@@ -4,7 +4,7 @@ module.exports = async (client, config) => {
        async function getsportsMessage() {
         let {MessageEmbed} = require('discord.js')
         let embed = new MessageEmbed().setColor(config.bot.color).setTitle("Pick Up Games!")
-        embed.setDescription("Select your sport **only** if you would like to be notified whenever a pick up game is occurring. (A pick up game is just a group of random people playing a game for fun. You will be pinged if they want players.)")
+        embed.setDescription("Select your sport **only if you want to be notified** whenever a pick up game is occurring. (A pick up game is just a group of random people playing a game for fun. You will be pinged if they want players.)")
         let options = []
         let options2 = []
         let majors = require("./../../data/sportsRoles.json")

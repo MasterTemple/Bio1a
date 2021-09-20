@@ -31,9 +31,11 @@ module.exports = async (client, config) => {
 
     for(let [teamName, team] of Object.entries(teams)){
 
-        let embed = new MessageEmbed().setColor(config.bot.color).setTitle(`${teamName} Leagues`).setImage(team.imageUrl)
+        let embed = new MessageEmbed().setColor(config.bot.color).setTitle(`Biola ${teamName} Leagues`)
+        .setThumbnail(team.imageUrl)
+        //.setImage(team.imageUrl)
 
-        embed.setDescription("Select Your Team For Your Team Role!")
+        embed.setDescription("Select Your Intramural Team For Your Team Role!")
         let i = 0
         let components = []
         for(let eachLeague of Object.keys(team.leagues)){

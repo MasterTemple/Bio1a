@@ -1,7 +1,7 @@
 {
   "Flag Football": {
     "channelId": "889579669970632774",
-    "imageUrl": "https://cdn.discordapp.com/attachments/877298310078140426/889572185813975120/20218271437434377ceb5749c806337cd77beec9192aec2f.png",
+    "imageUrl": "https://s3.amazonaws.com/file.imleagues/Images/Sports/DefaultLogo/flag_football_2_128.png",
     "leagues": {
       "Co-ed League": [],
       "Men's League": [
@@ -31,7 +31,7 @@
   },
   "Soccer": {
     "channelId": "889579688928903258",
-    "imageUrl": "https://cdn.discordapp.com/attachments/877298310078140426/889572185813975120/20218271437434377ceb5749c806337cd77beec9192aec2f.png",
+    "imageUrl": "https://s3.amazonaws.com/file.imleagues/Images/Sports/DefaultLogo/soccer_2_128.png",
     "leagues": {
       "A League": [
         {
@@ -96,7 +96,7 @@
   },
   "Spikeball": {
     "channelId": "889579704342949908",
-    "imageUrl": "https://cdn.discordapp.com/attachments/877298310078140426/889572185813975120/20218271437434377ceb5749c806337cd77beec9192aec2f.png",
+    "imageUrl": "https://s3.amazonaws.com/file.imleagues/Images/Sports/DefaultLogo/campus_cup_1_128.png",
     "leagues": {
       "A League": [
         {
@@ -176,7 +176,7 @@
   },
   "Volleyball": {
     "channelId": "889579723896782948",
-    "imageUrl": "https://cdn.discordapp.com/attachments/877298310078140426/889572185813975120/20218271437434377ceb5749c806337cd77beec9192aec2f.png",
+    "imageUrl": "https://s3.amazonaws.com/file.imleagues/Images/Sports/DefaultLogo/voley_1_128.png",
     "leagues": {
       "A League": [
         {
