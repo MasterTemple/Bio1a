@@ -36,6 +36,5 @@ module.exports = async (interaction, config, accessToken) => {
     interaction.reply({ephemeral: true, content: `You Have Successfully Joined **${roleName}**!`})
 }catch(e){
         console.log(e);
-        interaction.reply({ephemeral: true, content: "<@379481689442877440> needs to change this bot's roles position so it can add your roles. This will likely work tomorrow morning when he wakes up."})
     }
 }

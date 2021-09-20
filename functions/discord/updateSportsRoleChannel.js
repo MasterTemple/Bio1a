@@ -3,8 +3,8 @@ module.exports = async (client, config) => {
 
        async function getsportsMessage() {
         let {MessageEmbed} = require('discord.js')
-        let embed = new MessageEmbed().setColor(config.bot.color).setTitle("Choose Your Sport!").setImage("https://cdn.discordapp.com/attachments/877298310078140426/889572185813975120/20218271437434377ceb5749c806337cd77beec9192aec2f.png")
-        embed.setDescription("Select Your Intramural League For A Special Role!")
+        let embed = new MessageEmbed().setColor(config.bot.color).setTitle("Pick Up Games!")
+        embed.setDescription("Select your sport **only** if you would like to be notified whenever a pick up game is occurring. (A pick up game is just a group of random people playing a game for fun. You will be pinged if they want players.)")
         let options = []
         let options2 = []
         let majors = require("./../../data/sportsRoles.json")
@@ -12,7 +12,7 @@ module.exports = async (client, config) => {
             options.push({
                 "label": eachMajor.name,
                 "value": eachMajor.roleId,
-                "description": eachMajor.name,
+                "description": `${eachMajor.name} Pick Up Games`,
                 "emoji": {
                     id: eachMajor.emoji,
                     // name: eachMajor.emoji
@@ -22,7 +22,17 @@ module.exports = async (client, config) => {
             
             
         })
+        let ruleEmbed = new MessageEmbed().setColor(config.bot.color).setTitle("Rules").addField("1. Honor God", "Behave like you would anywhere else on campus.")
         
+        let roleEmbed = new MessageEmbed().setColor(config.bot.color).setTitle("Roles").setDescription(`
+        Navigate to the corresponding channel to select your intramural team.
+
+        For **Flag Football** Go To: <#889579669970632774>
+        For **Soccer** Go To: <#889579688928903258>
+        For **Spikeball** Go To: <#889579704342949908>
+        For **Volleyball** Go To: <#889579723896782948>
+        `)
+
         let components = [
             {
                 "type": 1,
@@ -39,7 +49,7 @@ module.exports = async (client, config) => {
                 ]
             }
         ]
-        return {embeds: [embed], components: components}
+        return {embeds: [ruleEmbed, roleEmbed, embed], components: components}
        }
 
         

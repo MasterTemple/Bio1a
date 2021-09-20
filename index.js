@@ -57,8 +57,8 @@ client.once('ready', async () => {
     config.bot.name = client.user.username
     // await updateMajorsList(client, config)
     // await updateRoleChannel(client, config)
-    // await updateSportsRoleChannel(client, config)
-    // await updateLeagueChannels(client, config)
+    await updateSportsRoleChannel(client, config)
+    await updateLeagueChannels(client, config)
 
     // let guild = await client.guilds.cache.get("777396979004342292")
     // let role = await guild.roles.fetch("886318493367152730")

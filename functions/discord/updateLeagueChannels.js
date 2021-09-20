@@ -31,7 +31,7 @@ module.exports = async (client, config) => {
 
     for(let [teamName, team] of Object.entries(teams)){
 
-        let embed = new MessageEmbed().setColor(config.bot.color).setTitle(`${teamName} Leagues`).setImage("https://cdn.discordapp.com/attachments/877298310078140426/889572185813975120/20218271437434377ceb5749c806337cd77beec9192aec2f.png")
+        let embed = new MessageEmbed().setColor(config.bot.color).setTitle(`${teamName} Leagues`).setImage(team.imageUrl)
 
         embed.setDescription("Select Your Team For Your Team Role!")
         let i = 0
@@ -50,7 +50,8 @@ module.exports = async (client, config) => {
         }
         let channel = await client.channels.cache.get(team.channelId)
         // console.log(JSON.stringify(components[0].components[1], null, 2));
-        await channel.send({embeds: [embed], components: components})
+        let messages = await channel.messages.fetch()
+        messages.first().edit({embeds: [embed], components: components})
 
     }
         
