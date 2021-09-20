@@ -42,7 +42,7 @@ module.exports = async (client, config) => {
                         "custom_id": "addLeagueRole",
                         "options": options,
                         // "placeholder": `Select Your Major! ${options[0].label.match(/\w+/g)[0]} - ${options[options.length-1].label.match(/\w+/g)[0]}`,
-                        "placeholder": `Select Your Intramural League!`,
+                        "placeholder": `Select Pick Up Games You Would Like to Play in!`,
                         "min_values": 1,
                         "max_values": 1
                     }
