@@ -13,15 +13,21 @@ module.exports = async (interaction, config, accessToken) => {
             await member.roles.remove(eachMajorRole)
         }
     }
-	await member.roles.add(roleToAdd)
+    let roleName = interaction.guild.roles.cache.get(roleToAdd)
 
+    if(!userRoles.includes(roleToAdd)){
+	    await member.roles.add(roleToAdd)
+        interaction.reply({ephemeral: true, content: `You Have Been Given the **${roleName}** Role!`})
+    }else{
+        interaction.reply({ephemeral: true, content: `You Have Removed the **${roleName}** Role!`})
+    }
     // console.log( );
     // sports.forEach(m => {
     //     member.roles.add(roleToAdd)
     // })
-    let roleName = sports.find((m) => m.roleId === roleToAdd).name
+    // let roleName = sports.find((m) => m.roleId === roleToAdd).name
 
-    interaction.reply({ephemeral: true, content: `You Have Been Given the **${roleName}** Role!`})
+    
 }catch(e){
         console.log(e);
         interaction.reply({ephemeral: true, content: "<@379481689442877440> needs to change this bot's roles position so it can add your roles. This will likely work tomorrow morning when he wakes up."})
