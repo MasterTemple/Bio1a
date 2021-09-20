@@ -1,0 +1,216 @@
+{
+  "Flag Football": {
+    "leagues": {
+      "Co-ed League": [],
+      "Men's League": [
+        {
+          "teamName": "Biola Football Team",
+          "captain": "Everett Ayles"
+        },
+        {
+          "teamName": "Post Mahomes",
+          "captain": "Andrew Garcia"
+        },
+        {
+          "teamName": "whats an audible",
+          "captain": "Joshua Lawrence"
+        },
+        {
+          "teamName": "Team Blackstone",
+          "captain": "Jalen Cabrales"
+        }
+      ],
+      "Women's League": []
+    }
+  },
+  "Soccer": {
+    "leagues": {
+      "A League": [
+        {
+          "teamName": "Oldtimers",
+          "captain": "Atley Shapiro"
+        },
+        {
+          "teamName": "Sled Gang",
+          "captain": "Seth McLaren"
+        },
+        {
+          "teamName": "Freshmen United",
+          "captain": "Micah Woodring"
+        },
+        {
+          "teamName": "Ronaldo Fanboys",
+          "captain": "Jacob Edwards"
+        },
+        {
+          "teamName": "BU United",
+          "captain": "Fredy Merida De Leon Jr"
+        },
+        {
+          "teamName": "Free Agents FC",
+          "captain": "Alique Malakian"
+        },
+        {
+          "teamName": "Chupapi",
+          "captain": "Dylan Greenly"
+        }
+      ],
+      "B League": [
+        {
+          "teamName": "Big Hustlers",
+          "captain": "Isaiah Roberts"
+        },
+        {
+          "teamName": "Judge Judy FC",
+          "captain": "Hunter Deverian"
+        },
+        {
+          "teamName": "FC DBC",
+          "captain": "Andrew Garcia"
+        },
+        {
+          "teamName": "BUST",
+          "captain": "Hudson Young"
+        }
+      ]
+    }
+  },
+  "Spikeball": {
+    "leagues": {
+      "A League": [
+        {
+          "teamName": "Voyagers",
+          "captain": "Grant Lawrence"
+        },
+        {
+          "teamName": "Flip",
+          "captain": "John Baldwin"
+        },
+        {
+          "teamName": "Kingsboys",
+          "captain": "Jonas Huckabay"
+        },
+        {
+          "teamName": "Sauce Bros",
+          "captain": "Marco Collazo"
+        },
+        {
+          "teamName": "Spike Hyzer",
+          "captain": "Philip Craig"
+        },
+        {
+          "teamName": "Spikeology",
+          "captain": "Hosea Wimer"
+        },
+        {
+          "teamName": "Mini Trampolines",
+          "captain": "Nicolas Sapper"
+        },
+        {
+          "teamName": "No Problem",
+          "captain": "Nathan Olexer"
+        },
+        {
+          "teamName": "Missionary Boys",
+          "captain": "Cole Gorham"
+        }
+      ],
+      "B League": [
+        {
+          "teamName": "Pilgrims",
+          "captain": "Jordan Greer"
+        },
+        {
+          "teamName": "ball busters",
+          "captain": "David Brown"
+        },
+        {
+          "teamName": "Mayonnaise",
+          "captain": "Caleb Villa"
+        },
+        {
+          "teamName": "CLAB",
+          "captain": "Chase Edwards"
+        },
+        {
+          "teamName": "empire spikes back",
+          "captain": "Kendra Pook"
+        }
+      ]
+    }
+  },
+  "Volleyball": {
+    "leagues": {
+      "A League": [
+        {
+          "teamName": "Ben's Friends",
+          "captain": "Hayden Leever"
+        },
+        {
+          "teamName": "PokiBomb",
+          "captain": "Young Song"
+        },
+        {
+          "teamName": "Just BU",
+          "captain": "Bridger Schippa"
+        },
+        {
+          "teamName": "21 Jumpserve",
+          "captain": "Abigail Hunter"
+        },
+        {
+          "teamName": "No Dig'gity",
+          "captain": "Andres Meneses Pena"
+        },
+        {
+          "teamName": "Sets on the Beach",
+          "captain": "Matthew Martin"
+        }
+      ],
+      "B League": [
+        {
+          "teamName": "i’d hit that",
+          "captain": "Ashley Thomas"
+        },
+        {
+          "teamName": "that's what she set",
+          "captain": "Audrey Park"
+        },
+        {
+          "teamName": "the elders",
+          "captain": "Samantha Chedester"
+        },
+        {
+          "teamName": "treblemakers",
+          "captain": "Talia Milionis"
+        },
+        {
+          "teamName": "Kiss My Ace",
+          "captain": "Alano Fukumoto"
+        },
+        {
+          "teamName": "russell & his oppas",
+          "captain": "Carissa Choi"
+        },
+        {
+          "teamName": "Hot and Setsy",
+          "captain": "Karsten Patzer"
+        },
+        {
+          "teamName": "Block Party",
+          "captain": "Wyatt Carbonneau"
+        },
+        {
+          "teamName": "The Short Giraffes",
+          "captain": "Hannah Edwards"
+        }
+      ],
+      "C League": [
+        {
+          "teamName": "Breakfast Club",
+          "captain": "Wesley Gates"
+        }
+      ]
+    }
+  }
+}
