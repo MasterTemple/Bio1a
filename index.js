@@ -58,7 +58,7 @@ client.once('ready', async () => {
     // await updateMajorsList(client, config)
     // await updateRoleChannel(client, config)
     // await updateSportsRoleChannel(client, config)
-    await updateLeagueChannels(client, config)
+    // await updateLeagueChannels(client, config)
 
     // let guild = await client.guilds.cache.get("777396979004342292")
     // let role = await guild.roles.fetch("886318493367152730")
@@ -139,7 +139,9 @@ client.on('interactionCreate', async (interaction) => {
         command(interaction, config, apiKey)
     }
     else if (interaction.componentType === "SELECT_MENU") {
-        let command = require(`./functions/selectMenus/${interaction.customId.replace(/\[[^\]]]/g, "")}`)
+        let commandName = interaction.customId.replace(/\[[^\]]+]/g, "")
+        // console.log(commandName);
+        let command = require(`./functions/selectMenus/${commandName}`)
         command(interaction, config, apiKey)
     }
 
