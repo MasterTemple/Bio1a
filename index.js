@@ -57,6 +57,7 @@ client.once('ready', async () => {
     config.bot.name = client.user.username
     // await updateMajorsList(client, config)
     // await updateRoleChannel(client, config)
+
     await updateSportsRoleChannel(client, config)
     await updateLeagueChannels(client, config)
 

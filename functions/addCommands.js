@@ -25,6 +25,19 @@ module.exports = async(client, config) => {
                     },
                 ]
             },
+            {
+                name: 'team',
+                description: 'View all members of a team!',
+                default_permission: true,
+                options: [
+                    {
+                        "name": "name",
+                        "description": "Enter The Team Name!",
+                        "type": 8,
+                        "required": true
+                    },
+                ]
+            },
             // {
             //     name: 'dashboard',
             //     description: 'View Your Classes For The Current Semester!',
