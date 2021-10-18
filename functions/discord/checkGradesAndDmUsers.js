@@ -12,7 +12,7 @@ module.exports = async (client, config) => {
 
                 // let date = new Date().toISOString()
                 let rightNowUnix = Math.floor(new Date() / 1000)
-                let newMessageTimePeriod = 60 * 31 // 31 minutes
+                let newMessageTimePeriod = 60 * 31 * 100 // 31 minutes
         
 
                 let data = await getData(config, url, accessToken)
@@ -34,7 +34,7 @@ module.exports = async (client, config) => {
                         embed.addField(
                             // `${assignmentData.name}`,
                             assignmentData.name,
-                            `Score: **${eachAssignment.score}/${assignmentData.points_possible}**\nPercent: **${Math.round(eachAssignment.score/assignmentData.points_possible*100)}%**`,
+                            `Score: **${eachAssignment.score}/${assignmentData.points_possible}**\nPercent: **${Math.round(eachAssignment.score/assignmentData.points_possible*10000)/100}%**`,
                             false
                         )
                     }else{
