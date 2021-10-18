@@ -30,11 +30,11 @@ module.exports = async (client, config) => {
                         let courseId = eachAssignment.preview_url.match(/(?<=courses\/)\d+/g)[0]
                         let assignmentUrl = `https://${config.canvasDomain}/api/v1/courses/${courseId}/assignments/${eachAssignment.assignment_id}`
                         let assignmentData = await getData(config, assignmentUrl, accessToken)
-                        
+
                         embed.addField(
                             // `${assignmentData.name}`,
                             assignmentData.name,
-                            `Score: **${eachAssignment.score}/${assignmentData.points_possible}**\nPercent: **${Math.round(eachAssignment.score/assignmentData.points_possible)*100}%**`,
+                            `Score: **${eachAssignment.score}/${assignmentData.points_possible}**\nPercent: **${Math.round(eachAssignment.score/assignmentData.points_possible*100)}%**`,
                             false
                         )
                     }else{
