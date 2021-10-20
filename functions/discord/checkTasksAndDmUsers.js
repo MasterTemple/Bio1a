@@ -14,10 +14,9 @@ module.exports = async (client, config) => {
                 let urgentTimePeriod = 32400 //9 hours
         
                 let url = `https://${config.canvasDomain}/api/v1/planner/items?start_date=${date}&order=asc`
-
+                let count = 0
                 let data = await getData(config, url, accessToken)
-                let title = "URGENT Tasks"
-                let embed = new MessageEmbed().setColor(config.bot.color).setTitle(title)
+                let embed = new MessageEmbed().setColor(config.bot.color)
                 // embed.setAuthor(config.bot.name, config.bot.iconUrl)
                 embed.setThumbnail(config.bot.iconUrl)
                 // console.log(data);
@@ -37,9 +36,14 @@ module.exports = async (client, config) => {
                             //\nThis assignment is due <t:${dueDateUnix}:R>!
                             false
                         )
+                        count++
+
                     }
                 })
+
+                embed.setTitle(`Urgent Tasks [${count}]`)
                 
+
 
                 if(embed.fields.length > 0){
                     let taskUrl = `https://${config.canvasDomain}`
