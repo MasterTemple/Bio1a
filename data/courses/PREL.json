@@ -1,0 +1,610 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6477",
+    "courseNumber": "104",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Media Ecology and Christian Perspective in Public Relations",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366223",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6425",
+    "courseNumber": "107",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Multimedia Channels",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366223",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "04/23/2022",
+      "beginTime": "0900",
+      "endTime": "1000",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1,
+      "room": "103",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5830",
+    "courseNumber": "111",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Public Relations",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366221",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "05A",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5831",
+    "courseNumber": "230",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Writing for Public Relations",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366221",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "203",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5832",
+    "courseNumber": "249",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Media Design Essentials",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366222",
+        "displayName": "Chuang, Rachelle",
+        "emailAddress": "rachelle.chuang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6479",
+    "courseNumber": "267",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Public Relations Career Readiness",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366221",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6480",
+    "courseNumber": "267",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Public Relations Career Readiness",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366221",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6481",
+    "courseNumber": "344",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Public Relations Internship &amp; Applied Experience",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366223",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6482",
+    "courseNumber": "344",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Post Trad Program: Public Relations Internship &amp; Applied Experience",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366223",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5833",
+    "courseNumber": "388",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Public Relations Management, Philosophy and Ethics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366223",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5834",
+    "courseNumber": "392",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Advertising",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366224",
+        "displayName": "Miller, Brian",
+        "emailAddress": "brian.miller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "05A",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6483",
+    "courseNumber": "410",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "PR Principles, Law, &amp; Global Influence",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366221",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "04/23/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6484",
+    "courseNumber": "410",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: PR Principles, Law, &amp; Global Influence",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366221",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "04/23/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6485",
+    "courseNumber": "444",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Advanced Internship and Career Preparation in Public Relations",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366223",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6486",
+    "courseNumber": "444",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Post Trad Program: Advanced Internship and Career Preparation in Public Relations",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366223",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5835",
+    "courseNumber": "458",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Public Relations Research",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366220",
+        "displayName": "Kim, Carolyn",
+        "emailAddress": "carolyn.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "55",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6487",
+    "courseNumber": "490",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Portfolio and Certificate",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366221",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "04/23/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

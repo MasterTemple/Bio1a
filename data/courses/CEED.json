@@ -1,0 +1,605 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5054",
+    "courseNumber": "150",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365990",
+        "displayName": "Tront, Traci",
+        "emailAddress": "traci.tront@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "102",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6519",
+    "courseNumber": "150",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Foundations of Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365990",
+        "displayName": "Tront, Traci",
+        "emailAddress": "traci.tront@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5055",
+    "courseNumber": "242",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology of Learning and Development",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365921",
+        "displayName": "Keehn, David",
+        "emailAddress": "david.s.keehn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5056",
+    "courseNumber": "254",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Leadership Development",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365991",
+        "displayName": "Dill, Dana",
+        "emailAddress": "dana.g.dill@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6520",
+    "courseNumber": "254",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Leadership Development",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365911",
+        "displayName": "Kim, Jonathan",
+        "emailAddress": "jonathan.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "04/23/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6521",
+    "courseNumber": "254",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Leadership Development",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365911",
+        "displayName": "Kim, Jonathan",
+        "emailAddress": "jonathan.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "04/23/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5057",
+    "courseNumber": "260",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Interpersonal and Cross-Cultural Relationships in Christian Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365992",
+        "displayName": "Cunningham, Michelle",
+        "emailAddress": "shelly.cunningham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5058",
+    "courseNumber": "312",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Christian Ministry Skills",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365921",
+        "displayName": "Keehn, David",
+        "emailAddress": "david.s.keehn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6522",
+    "courseNumber": "312",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Christian Ministry Skills",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365995",
+        "displayName": "Eguizabal Escobar, Orbelina",
+        "emailAddress": "orbelina.eguizabal@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6523",
+    "courseNumber": "312",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Christian Ministry Skills",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365995",
+        "displayName": "Eguizabal Escobar, Orbelina",
+        "emailAddress": "orbelina.eguizabal@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5059",
+    "courseNumber": "326",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Counseling Methods",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6524",
+    "courseNumber": "326",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Counseling Methods",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365991",
+        "displayName": "Dill, Dana",
+        "emailAddress": "dana.g.dill@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6525",
+    "courseNumber": "326",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Counseling Methods",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365991",
+        "displayName": "Dill, Dana",
+        "emailAddress": "dana.g.dill@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5060",
+    "courseNumber": "330",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Teaching",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365993",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6526",
+    "courseNumber": "330",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Biblical Interpretation and Teaching",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365993",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "04/23/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6773",
+    "courseNumber": "445",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Ministry Field Work",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365921",
+        "displayName": "Keehn, David",
+        "emailAddress": "david.s.keehn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5062",
+    "courseNumber": "479",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Programming for Christian Ministries",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365994",
+        "displayName": "Hults, Trevor",
+        "emailAddress": "trevor.j.hults@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

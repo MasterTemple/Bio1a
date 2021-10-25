@@ -1,0 +1,557 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6063",
+    "courseNumber": "502",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Greek II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365934",
+        "displayName": "Manning Jr, Gary",
+        "emailAddress": "gary.manning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6066",
+    "courseNumber": "502",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Greek II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "207",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6683",
+    "courseNumber": "502",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Greek II",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1700",
+      "endTime": "1815",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "VIDEOCONF",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6686",
+    "courseNumber": "502",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Greek II",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365934",
+        "displayName": "Manning Jr, Gary",
+        "emailAddress": "gary.manning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1900",
+      "endTime": "2015",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "VIDEOCONF",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5987",
+    "courseNumber": "604",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Exegesis in the Gospels",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365948",
+        "displayName": "Hellerman, Joseph",
+        "emailAddress": "joe.hellerman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "007",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6689",
+    "courseNumber": "605",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Exegesis in the Epistles",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366166",
+        "displayName": "Geringer, Douglas",
+        "emailAddress": "doug.geringer@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366000",
+        "displayName": "Arnold, Clinton",
+        "emailAddress": "clint.arnold@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1900",
+      "endTime": "2020",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.33,
+      "room": "VIDEOCONF",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5988",
+    "courseNumber": "610",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Readings in New Testament Greek",
+    "creditHours": 2,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366091",
+        "displayName": "Hubbard, Moyer",
+        "emailAddress": "moyer.hubbard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1830",
+      "endTime": "2020",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "109",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6690",
+    "courseNumber": "610",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Readings in New Testament Greek",
+    "creditHours": 2,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366091",
+        "displayName": "Hubbard, Moyer",
+        "emailAddress": "moyer.hubbard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1830",
+      "endTime": "2020",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.83,
+      "room": "VIDEOCONF",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6713",
+    "courseNumber": "610",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Readings in New Testament Greek",
+    "creditHours": 3,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366091",
+        "displayName": "Hubbard, Moyer",
+        "emailAddress": "moyer.hubbard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6714",
+    "courseNumber": "610",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Readings in New Testament Greek",
+    "creditHours": 3,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366091",
+        "displayName": "Hubbard, Moyer",
+        "emailAddress": "moyer.hubbard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "VIDEOCONF",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6691",
+    "courseNumber": "701",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The World of the New Testament",
+    "creditHours": 3,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366091",
+        "displayName": "Hubbard, Moyer",
+        "emailAddress": "moyer.hubbard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1700",
+      "endTime": "1820",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.33,
+      "room": "VIDEOCONF",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5990",
+    "courseNumber": "743",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Exegesis of Philippians",
+    "creditHours": 3,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365948",
+        "displayName": "Hellerman, Joseph",
+        "emailAddress": "joe.hellerman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6693",
+    "courseNumber": "743",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Exegesis of Philippians",
+    "creditHours": 3,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365948",
+        "displayName": "Hellerman, Joseph",
+        "emailAddress": "joe.hellerman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "VIDEOCONF",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6695",
+    "courseNumber": "790",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "New Testament Capstone",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366166",
+        "displayName": "Geringer, Douglas",
+        "emailAddress": "doug.geringer@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5992",
+    "courseNumber": "791",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "NT Sem: Topic TBA",
+    "creditHours": 3,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "04A",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  }
+]

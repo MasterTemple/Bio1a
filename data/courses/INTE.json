@@ -1,0 +1,181 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5911",
+    "courseNumber": "421",
+    "subjectDescription": "INTE TESOL",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to TESOL: Adult",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366239",
+        "displayName": "Liang, Jiansong",
+        "emailAddress": "john.liang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "112",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5906",
+    "courseNumber": "427",
+    "subjectDescription": "INTE TESOL",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Materials Evaluation and Preparation",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366239",
+        "displayName": "Liang, Jiansong",
+        "emailAddress": "john.liang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "203",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5900",
+    "courseNumber": "433",
+    "subjectDescription": "INTE TESOL",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ethics, Values, and Intercultural Communication for TESOL Professionals",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366238",
+        "displayName": "Lessard-Clouston, Michael",
+        "emailAddress": "michael.lessard-clouston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6546",
+    "courseNumber": "462",
+    "subjectDescription": "INTE TESOL",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Teaching English to Young Learners",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5902",
+    "courseNumber": "492",
+    "subjectDescription": "INTE TESOL",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum in TESOL I",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366238",
+        "displayName": "Lessard-Clouston, Michael",
+        "emailAddress": "michael.lessard-clouston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "111",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  }
+]

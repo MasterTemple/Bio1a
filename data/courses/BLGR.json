@@ -1,0 +1,188 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5067",
+    "courseNumber": "101",
+    "subjectDescription": "BLGR Greek",
+    "scheduleTypeDescription": "Challenged",
+    "courseTitle": "Elem Greek Gram I - Challenge",
+    "creditHours": null,
+    "maximumEnrollment": 0,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365902",
+        "displayName": "Berding, Kenneth",
+        "emailAddress": "ken.berding@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5066",
+    "courseNumber": "102",
+    "subjectDescription": "BLGR Greek",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Greek Grammar II",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365895",
+        "displayName": "Hanger, Jeannine",
+        "emailAddress": "jeannine.hanger@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "007",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5068",
+    "courseNumber": "102",
+    "subjectDescription": "BLGR Greek",
+    "scheduleTypeDescription": "Challenged",
+    "courseTitle": "Elem Greek Gram II: Challenge",
+    "creditHours": null,
+    "maximumEnrollment": 0,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365902",
+        "displayName": "Berding, Kenneth",
+        "emailAddress": "ken.berding@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5069",
+    "courseNumber": "202",
+    "subjectDescription": "BLGR Greek",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intermediate Greek Grammar and Exegesis II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366091",
+        "displayName": "Hubbard, Moyer",
+        "emailAddress": "moyer.hubbard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "008",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5989",
+    "courseNumber": "304",
+    "subjectDescription": "BLGR Greek",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "ST: Readings in NT Greek",
+    "creditHours": 3,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366091",
+        "displayName": "Hubbard, Moyer",
+        "emailAddress": "moyer.hubbard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1830",
+      "endTime": "2020",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 1.83,
+      "room": "109",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  }
+]

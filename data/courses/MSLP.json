@@ -1,0 +1,321 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5948",
+    "courseNumber": "535",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Motor Speech Disorders",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 2,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5949",
+    "courseNumber": "536",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Speech Sound Disorders",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 2,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366036",
+        "displayName": "Dantuma, Tonya",
+        "emailAddress": "tonya.dantuma@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5950",
+    "courseNumber": "537",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Dysphagia",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 2,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366034",
+        "displayName": "Clemons, Teri",
+        "emailAddress": "teri.a.clemons@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5951",
+    "courseNumber": "538",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cognitive-Communicative Disorders",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 2,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366032",
+        "displayName": "Hultberg, Darcie",
+        "emailAddress": "darcie.hultberg@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "MAYERS",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5952",
+    "courseNumber": "548",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Counseling and Christian Care in Speech-Language Pathology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366030",
+        "displayName": "Welty, Suzanne",
+        "emailAddress": "suzanne.m.welty@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6580",
+    "courseNumber": "550",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Capstone Experience",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366037",
+        "displayName": "McCormick, Alicia",
+        "emailAddress": "alicia.m.mccormick@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5953",
+    "courseNumber": "602",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Clinical Practicum I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 2,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366033",
+        "displayName": "Peirson, Lorelei",
+        "emailAddress": "lori.peirson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5954",
+    "courseNumber": "604",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Adult Externship",
+    "creditHours": 1,
+    "maximumEnrollment": 25,
+    "waitCapacity": 2,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366033",
+        "displayName": "Peirson, Lorelei",
+        "emailAddress": "lori.peirson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5955",
+    "courseNumber": "605",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "School Externship",
+    "creditHours": 1,
+    "maximumEnrollment": 25,
+    "waitCapacity": 2,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366033",
+        "displayName": "Peirson, Lorelei",
+        "emailAddress": "lori.peirson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

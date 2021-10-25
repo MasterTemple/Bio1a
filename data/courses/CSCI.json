@@ -1,0 +1,480 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5257",
+    "courseNumber": "104",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Nature of Computing",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366038",
+        "displayName": "Lin, Shieu-Hong",
+        "emailAddress": "shieu-hong.lin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "141",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5258",
+    "courseNumber": "105",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Computer Science",
+    "creditHours": null,
+    "maximumEnrollment": 28,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366039",
+        "displayName": "Wong, Kong-Cheng",
+        "emailAddress": "k.c.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "209",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5259",
+    "courseNumber": "106",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Data Structures",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366040",
+        "displayName": "Buzi, Gentian",
+        "emailAddress": "genti.buzi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "182",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5260",
+    "courseNumber": "106",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Data Structures",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366040",
+        "displayName": "Buzi, Gentian",
+        "emailAddress": "genti.buzi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/03/2022",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "182",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5262",
+    "courseNumber": "220",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Computer Organization and Assembly Language Programming",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366039",
+        "displayName": "Wong, Kong-Cheng",
+        "emailAddress": "k.c.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "210",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5263",
+    "courseNumber": "220",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Computer Organization and Assembly Language Programming",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366039",
+        "displayName": "Wong, Kong-Cheng",
+        "emailAddress": "k.c.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "210",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5264",
+    "courseNumber": "430",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Computer Communications",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366041",
+        "displayName": "Lew, Grace",
+        "emailAddress": "grace.lew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "182",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5265",
+    "courseNumber": "430",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Computer Communications",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366041",
+        "displayName": "Lew, Grace",
+        "emailAddress": "grace.lew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "182",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5266",
+    "courseNumber": "440",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "TP: Theory of Compilers",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366039",
+        "displayName": "Wong, Kong-Cheng",
+        "emailAddress": "k.c.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "209",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5267",
+    "courseNumber": "440",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "TP: Database Applications with Web &amp; Mobile Interfaces",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366041",
+        "displayName": "Lew, Grace",
+        "emailAddress": "grace.lew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "182",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5268",
+    "courseNumber": "440",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "TP: Robotics I",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366040",
+        "displayName": "Buzi, Gentian",
+        "emailAddress": "genti.buzi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 1.25,
+      "room": "251",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5269",
+    "courseNumber": "450",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Software Engineering",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366041",
+        "displayName": "Lew, Grace",
+        "emailAddress": "grace.lew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "141",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  }
+]

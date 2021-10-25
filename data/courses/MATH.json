@@ -1,0 +1,1176 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5270",
+    "courseNumber": "118",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Fundamentals of Mathematics for Elementary Teachers II",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366057",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5271",
+    "courseNumber": "118",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Fundamentals of Mathematics for Elementary Teachers II",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366057",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5272",
+    "courseNumber": "121",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "QR: Real-World Math Modeling",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366134",
+        "displayName": "Ho, Long",
+        "emailAddress": "long.v.ho@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "1850",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "041",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5273",
+    "courseNumber": "121",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "QR: Real-World Math Modeling",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366134",
+        "displayName": "Ho, Long",
+        "emailAddress": "long.v.ho@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1900",
+      "endTime": "1950",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "041",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5274",
+    "courseNumber": "121",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "QR: Real-World Math Modeling",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366134",
+        "displayName": "Ho, Long",
+        "emailAddress": "long.v.ho@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1700",
+      "endTime": "1750",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "041",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5275",
+    "courseNumber": "122",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "QR: Real-World Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366135",
+        "displayName": "Weathers, Matthew",
+        "emailAddress": "matthew.weathers@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1230",
+      "endTime": "1320",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "041",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5276",
+    "courseNumber": "122",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "QR: Real-World Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366135",
+        "displayName": "Weathers, Matthew",
+        "emailAddress": "matthew.weathers@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1420",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "041",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5277",
+    "courseNumber": "122",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "QR: Real-World Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366135",
+        "displayName": "Weathers, Matthew",
+        "emailAddress": "matthew.weathers@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1430",
+      "endTime": "1520",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "041",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5278",
+    "courseNumber": "123",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Quantitative Reasoning Topics in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366057",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1250",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "041",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5281",
+    "courseNumber": "125",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Precalculus Mathematics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366136",
+        "displayName": "Yan, Yu",
+        "emailAddress": "yu.yan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "220",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5282",
+    "courseNumber": "151",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Calculus II",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366137",
+        "displayName": "DiMuro, Joseph",
+        "emailAddress": "joseph.dimuro@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0800",
+      "endTime": "0910",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 4,
+      "hoursWeek": 3.5,
+      "room": "043",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5283",
+    "courseNumber": "151",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Calculus II",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366137",
+        "displayName": "DiMuro, Joseph",
+        "emailAddress": "joseph.dimuro@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1610",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.5,
+      "room": "206",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5514",
+    "courseNumber": "180",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Topics in Mathematics: QR for All Majors",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366057",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "351",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5284",
+    "courseNumber": "190",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366138",
+        "displayName": "Marks, Justin",
+        "emailAddress": "justin.marks@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5285",
+    "courseNumber": "190",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366138",
+        "displayName": "Marks, Justin",
+        "emailAddress": "justin.marks@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "05A",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6570",
+    "courseNumber": "190",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366138",
+        "displayName": "Marks, Justin",
+        "emailAddress": "justin.marks@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5287",
+    "courseNumber": "203",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Discrete Structures",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366038",
+        "displayName": "Lin, Shieu-Hong",
+        "emailAddress": "shieu-hong.lin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "042",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5288",
+    "courseNumber": "204",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Abstract Math",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366139",
+        "displayName": "Wolfe, David",
+        "emailAddress": "david.wolfe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "220",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5289",
+    "courseNumber": "210",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Probability and Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366136",
+        "displayName": "Yan, Yu",
+        "emailAddress": "yu.yan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5290",
+    "courseNumber": "210",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Probability and Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366136",
+        "displayName": "Yan, Yu",
+        "emailAddress": "yu.yan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "002",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6571",
+    "courseNumber": "210",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Probability and Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366038",
+        "displayName": "Lin, Shieu-Hong",
+        "emailAddress": "shieu-hong.lin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5291",
+    "courseNumber": "315",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Abstract Algebra I",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366137",
+        "displayName": "DiMuro, Joseph",
+        "emailAddress": "joseph.dimuro@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5292",
+    "courseNumber": "318",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biostatistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366140",
+        "displayName": "Nelson, Gregory",
+        "emailAddress": "gregory.d.nelson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "042",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5293",
+    "courseNumber": "332",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Mathematical Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366141",
+        "displayName": "Wilson, Jason",
+        "emailAddress": "jason.wilson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "220",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5294",
+    "courseNumber": "333",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Operations Research",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366038",
+        "displayName": "Lin, Shieu-Hong",
+        "emailAddress": "shieu-hong.lin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "04A",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5295",
+    "courseNumber": "335",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ordinary Differential Equations",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366136",
+        "displayName": "Yan, Yu",
+        "emailAddress": "yu.yan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "220",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5296",
+    "courseNumber": "370",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Readings in Mathematics",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366137",
+        "displayName": "DiMuro, Joseph",
+        "emailAddress": "joseph.dimuro@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1550",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "111",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5297",
+    "courseNumber": "380",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Statistical Consulting Practicum",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 4,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366141",
+        "displayName": "Wilson, Jason",
+        "emailAddress": "jason.wilson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.5,
+      "room": "043",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5299",
+    "courseNumber": "440",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Complex Variables",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366138",
+        "displayName": "Marks, Justin",
+        "emailAddress": "justin.marks@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "04B",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5298",
+    "courseNumber": "470",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Statistics and Data Science Capstone",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 4,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366141",
+        "displayName": "Wilson, Jason",
+        "emailAddress": "jason.wilson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.5,
+      "room": "043",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  }
+]

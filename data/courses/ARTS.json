@@ -1,0 +1,1216 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5836",
+    "courseNumber": "100",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Art Appreciation",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "112",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5837",
+    "courseNumber": "108",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Figure Studies I",
+    "creditHours": null,
+    "maximumEnrollment": 13,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365943",
+        "displayName": "Dunham, Kari",
+        "emailAddress": "kari.dunham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "210",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5840",
+    "courseNumber": "108",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Figure Studies I",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365943",
+        "displayName": "Dunham, Kari",
+        "emailAddress": "kari.dunham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "210",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5841",
+    "courseNumber": "111",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "3-D Design",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "22",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5842",
+    "courseNumber": "111",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "3-D Design",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "22",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5843",
+    "courseNumber": "111",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "3-D Design",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "22",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5844",
+    "courseNumber": "126",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History of Western Art II: Baroque through Modernism",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "112",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5845",
+    "courseNumber": "211",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ceramics I",
+    "creditHours": null,
+    "maximumEnrollment": 13,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "23",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5847",
+    "courseNumber": "211",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ceramics I",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "23",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6826",
+    "courseNumber": "213",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Painting I",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365927",
+        "displayName": "Puls, Jonathan",
+        "emailAddress": "jonathan.puls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "210",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5849",
+    "courseNumber": "221",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Photography I-Introduction to Darkroom and Digital Processes",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "208",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5850",
+    "courseNumber": "221",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Photography I-Introduction to Darkroom and Digital Processes",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "208",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5851",
+    "courseNumber": "221",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Photography I-Introduction to Darkroom and Digital Processes",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "208",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5846",
+    "courseNumber": "304",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ceramics II",
+    "creditHours": null,
+    "maximumEnrollment": 7,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "23",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6827",
+    "courseNumber": "306",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Art Workshop",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365946",
+        "displayName": "Hamby, Dawn",
+        "emailAddress": "dawn.hamby@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "112",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5852",
+    "courseNumber": "307",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Drawing II",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365944",
+        "displayName": "Callis III, Daniel",
+        "emailAddress": "daniel.callis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "210",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5853",
+    "courseNumber": "314",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Integrated Design I",
+    "creditHours": null,
+    "maximumEnrollment": 19,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365945",
+        "displayName": "Chang, Daniel",
+        "emailAddress": "daniel.chang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "211",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5855",
+    "courseNumber": "316",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Photography II-Studies in Color",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "111",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5838",
+    "courseNumber": "319",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Figure Studies II",
+    "creditHours": null,
+    "maximumEnrollment": 7,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365943",
+        "displayName": "Dunham, Kari",
+        "emailAddress": "kari.dunham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "210",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6828",
+    "courseNumber": "328",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Printed Matter",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365945",
+        "displayName": "Chang, Daniel",
+        "emailAddress": "daniel.chang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "112",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5856",
+    "courseNumber": "337",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Typography II",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "111",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5858",
+    "courseNumber": "344",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Contemporary Photographic Practices",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "208",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6829",
+    "courseNumber": "407",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Gallery Practices",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365947",
+        "displayName": "Rau, Jeffrey",
+        "emailAddress": "jeffrey.rau@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "112",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5860",
+    "courseNumber": "408",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Drawing III",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365944",
+        "displayName": "Callis III, Daniel",
+        "emailAddress": "daniel.callis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "210",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5620",
+    "courseNumber": "410",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem in Art: Navigating the Creative Project",
+    "creditHours": 3,
+    "maximumEnrollment": 3,
+    "waitCapacity": 10,
+    "creditHourHigh": 6,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365942",
+        "displayName": "Zalk, Robert",
+        "emailAddress": "bob.zalk@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "220",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5862",
+    "courseNumber": "410",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem: Contemp Art &amp; Theology",
+    "creditHours": 3,
+    "maximumEnrollment": 40,
+    "waitCapacity": 5,
+    "creditHourHigh": 6,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365923",
+        "displayName": "McMartin, Jason",
+        "emailAddress": "jason.mcmartin@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "365927",
+        "displayName": "Puls, Jonathan",
+        "emailAddress": "jonathan.puls@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "112",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5864",
+    "courseNumber": "426",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History and Criticism of Photography",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "112",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5865",
+    "courseNumber": "429",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Integrated Design III",
+    "creditHours": null,
+    "maximumEnrollment": 19,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "111",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5867",
+    "courseNumber": "433",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Global Art Paradigms",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365927",
+        "displayName": "Puls, Jonathan",
+        "emailAddress": "jonathan.puls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "MAYERS",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5868",
+    "courseNumber": "440",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Senior Seminar",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.83,
+      "room": "112",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5869",
+    "courseNumber": "450",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Internship",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5848",
+    "courseNumber": "462",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Advanced Studio Practicum",
+    "creditHours": 3,
+    "maximumEnrollment": 5,
+    "waitCapacity": 3,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "23",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5861",
+    "courseNumber": "462",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Advanced Studio Practicum",
+    "creditHours": 3,
+    "maximumEnrollment": 5,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365944",
+        "displayName": "Callis III, Daniel",
+        "emailAddress": "daniel.callis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "210",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5870",
+    "courseNumber": "475",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Culmination",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "112",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  }
+]

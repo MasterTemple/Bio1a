@@ -63,6 +63,11 @@ module.exports = async(client, config) => {
                 description: 'View Unread Messages!',
                 default_permission: true,
             },
+            {
+                name: 'grades',
+                description: 'View Grades!',
+                default_permission: true,
+            },
             // {
             //     name: 'parallels',
             //     description: 'View Corresponding Gospel Stories!',

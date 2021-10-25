@@ -104,7 +104,7 @@ client.on('interactionCreate', async (interaction) => {
 
     let apiKey = await getApiKeyForUser(config, interaction.user.id)
     // let allowedCommands = ["register", "help", "games", "addrole", "addMajorRole", "addYearRole"]
-    let canvasCommands = ["tasks", "unread"]
+    let canvasCommands = ["tasks", "unread", "grades"]
     // if(apiKey === undefined && (!allowedCommands.includes(interaction?.commandName) && !allowedCommands.includes(interaction?.customId?.replace(/\[[^\]]]/g, "")))){
     if(apiKey === undefined && (canvasCommands.includes(interaction?.commandName) || canvasCommands.includes(interaction?.customId?.replace(/\[[^\]]]/g, "")))){
         

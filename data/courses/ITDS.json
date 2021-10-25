@@ -1,0 +1,70 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6784",
+    "courseNumber": "220",
+    "subjectDescription": "ITDS Interdisciplinary Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Introduction to Interdisciplinary Studies",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366101",
+        "displayName": "Adams, Aaron",
+        "emailAddress": "aaron.adams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6785",
+    "courseNumber": "475",
+    "subjectDescription": "ITDS Interdisciplinary Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Capstone for Interdisciplinary Studies",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366101",
+        "displayName": "Adams, Aaron",
+        "emailAddress": "aaron.adams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "04/23/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

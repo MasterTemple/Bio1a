@@ -1,0 +1,1057 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5147",
+    "courseNumber": "591",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Field Education",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365949",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1800",
+      "endTime": "1850",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "109",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5148",
+    "courseNumber": "592",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Education II",
+    "creditHours": null,
+    "maximumEnrollment": 60,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365949",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5149",
+    "courseNumber": "602",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Pastoral Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365949",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "118",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5150",
+    "courseNumber": "608",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Developing Strategic Church Ministries",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365996",
+        "displayName": "Staffieri, William",
+        "emailAddress": "bill.staffieri@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "365997",
+        "displayName": "McIntosh, Gary",
+        "emailAddress": "gary.mcintosh@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "106",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5151",
+    "courseNumber": "609",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Expository Preaching",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365998",
+        "displayName": "Sunukjian, Donald",
+        "emailAddress": "don.sunukjian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5152",
+    "courseNumber": "609",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Expository Preaching",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365999",
+        "displayName": "Edwards, John",
+        "emailAddress": "kent.edwards@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "113",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5153",
+    "courseNumber": "610",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Contemporary Biblical Preaching",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365940",
+        "displayName": "Cash, Brandon",
+        "emailAddress": "brandon.cash@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5154",
+    "courseNumber": "610",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Contemporary Biblical Preaching",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365999",
+        "displayName": "Edwards, John",
+        "emailAddress": "kent.edwards@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5156",
+    "courseNumber": "623",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Asian Church in the American Society",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365949",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "106",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5157",
+    "courseNumber": "681",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Talbot A.S. Officers Internship",
+    "creditHours": null,
+    "maximumEnrollment": 11,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366000",
+        "displayName": "Arnold, Clinton",
+        "emailAddress": "clint.arnold@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5158",
+    "courseNumber": "691",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Education III",
+    "creditHours": null,
+    "maximumEnrollment": 60,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365949",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5159",
+    "courseNumber": "692",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Education IV",
+    "creditHours": null,
+    "maximumEnrollment": 60,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365949",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6706",
+    "courseNumber": "693",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Pastoral Care and Counseling Internship I",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365877",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366004",
+        "displayName": "Song, Sunny",
+        "emailAddress": "sunny.song@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0830",
+      "endTime": "0920",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0.83,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6707",
+    "courseNumber": "694",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Pastoral Care and Counseling Internship II",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365877",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366004",
+        "displayName": "Song, Sunny",
+        "emailAddress": "sunny.song@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0930",
+      "endTime": "1020",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0.83,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6708",
+    "courseNumber": "695",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Pastoral Care and Counseling Internship III",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 2,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365877",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0930",
+      "endTime": "1020",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0.83,
+      "room": "VIDEOCONF",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5160",
+    "courseNumber": "702",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intermediate Pastoral Counseling",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366001",
+        "displayName": "Bettenhausen Geis, Robyn",
+        "emailAddress": "robyn.bettenhausen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "106",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6709",
+    "courseNumber": "703",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Church and Society",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366005",
+        "displayName": "Price, Robert",
+        "emailAddress": "rob.price@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5161",
+    "courseNumber": "707",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Pastoral Care and Counseling",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365877",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1520",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "042",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6710",
+    "courseNumber": "707",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Pastoral Care and Counseling",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365877",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0900",
+      "endTime": "1100",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "VIDEOCONF",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5162",
+    "courseNumber": "716",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Addressing Common Pastoral Counseling Concerns",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365877",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "203",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6811",
+    "courseNumber": "722",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Small Group Ministries",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "110",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5163",
+    "courseNumber": "725",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Counseling Troubled Families",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366002",
+        "displayName": "TenElshof, Judith",
+        "emailAddress": "judy.tenelshof@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "02",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5165",
+    "courseNumber": "730",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Leadership and Management",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365999",
+        "displayName": "Edwards, John",
+        "emailAddress": "kent.edwards@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/22/2022",
+      "endDate": "01/22/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 9,
+      "room": "106",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5166",
+    "courseNumber": "742",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Preaching the Wisdom and Poetic Literature of the Old Testament",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365940",
+        "displayName": "Cash, Brandon",
+        "emailAddress": "brandon.cash@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5167",
+    "courseNumber": "747",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Role of Spiritual Warfare in Christian Life and Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366003",
+        "displayName": "Sappington, Thomas",
+        "emailAddress": "thomas.sappington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "06C",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5169",
+    "courseNumber": "765",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Seminar in Pastoral Counseling",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365877",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0900",
+      "endTime": "1530",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 6.5,
+      "room": "110",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5170",
+    "courseNumber": "792",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Internship",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": 2,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365949",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1900",
+      "endTime": "2030",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "109",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5171",
+    "courseNumber": "792",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Internship",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": 2,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365949",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1800",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "109",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5998",
+    "courseNumber": "200",
+    "subjectDescription": "SHNR Stewart Honors",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Stewart Sci Hnrs Sem I: TpcTBA",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 0.5,
+    "faculty": [
+      {
+        "bannerId": "365961",
+        "displayName": "Varamini, Behzad",
+        "emailAddress": "behzad.varamini@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": "1630",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0.5,
+      "hoursWeek": 0.83,
+      "room": "041",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5999",
+    "courseNumber": "400",
+    "subjectDescription": "SHNR Stewart Honors",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Stewrt Sci Hnrs Sem II: TpcTBA",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 0.5,
+    "faculty": [
+      {
+        "bannerId": "365961",
+        "displayName": "Varamini, Behzad",
+        "emailAddress": "behzad.varamini@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": "1630",
+      "endTime": "1720",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0.5,
+      "hoursWeek": 0.83,
+      "room": "103",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  }
+]

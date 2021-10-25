@@ -1,0 +1,887 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5747",
+    "courseNumber": "092",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Physics",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "002",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5748",
+    "courseNumber": "101",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Physical Science Survey: Lecture",
+    "creditHours": null,
+    "maximumEnrollment": 44,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "365987",
+        "displayName": "Pichaj, Mark",
+        "emailAddress": "mark.pichaj@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1220",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "351",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5750",
+    "courseNumber": "102",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physical Science Survey Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365987",
+        "displayName": "Pichaj, Mark",
+        "emailAddress": "mark.pichaj@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1400",
+      "endTime": "1655",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.91,
+      "room": "251",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5752",
+    "courseNumber": "102",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physical Science Survey Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365987",
+        "displayName": "Pichaj, Mark",
+        "emailAddress": "mark.pichaj@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1400",
+      "endTime": "1655",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.91,
+      "room": "251",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5753",
+    "courseNumber": "103",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Geology",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366186",
+        "displayName": "Schneeberger, Dale",
+        "emailAddress": "dale.schneeberger@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1830",
+      "endTime": "2130",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "042",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5754",
+    "courseNumber": "104",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Geology Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366186",
+        "displayName": "Schneeberger, Dale",
+        "emailAddress": "dale.schneeberger@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1830",
+      "endTime": "2130",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "042",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5758",
+    "courseNumber": "110",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Astronomy",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365922",
+        "displayName": "Bloom, John",
+        "emailAddress": "john.bloom@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1715",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 1.5,
+      "room": "105",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5760",
+    "courseNumber": "112",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Physics II",
+    "creditHours": 3,
+    "maximumEnrollment": 40,
+    "waitCapacity": 15,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 3.75,
+      "room": "206",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5761",
+    "courseNumber": "112",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Recitation",
+    "courseTitle": "Physics II Recitation",
+    "creditHours": 0,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "2105",
+      "endTime": "2230",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.41,
+      "room": "206",
+      "days": [
+        "U"
+      ],
+      "dayNames": [
+        "Sunday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5762",
+    "courseNumber": "112",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Recitation",
+    "courseTitle": "Physics II Recitation",
+    "creditHours": 0,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "2105",
+      "endTime": "2230",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.41,
+      "room": "351",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5764",
+    "courseNumber": "118",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physics II Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "253",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5765",
+    "courseNumber": "118",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physics II Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "253",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5767",
+    "courseNumber": "121",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Engineering",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366187",
+        "displayName": "Ng, Stanley",
+        "emailAddress": "stan.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1530",
+      "endTime": "1620",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "042",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5768",
+    "courseNumber": "233",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "General Physics II: Electricity and Magnetism",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366188",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "042",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5770",
+    "courseNumber": "233",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Recitation",
+    "courseTitle": "Gen Physics II: Recitation",
+    "creditHours": 0,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366188",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "042",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5773",
+    "courseNumber": "237",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "General Physics II Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366188",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "253",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5774",
+    "courseNumber": "237",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "General Physics II Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1630",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "253",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5777",
+    "courseNumber": "314",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Mechanics of Materials",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366083",
+        "displayName": "Wong, Elaine",
+        "emailAddress": "elaine.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "253",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5778",
+    "courseNumber": "316",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Dynamics",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366188",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "251",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5781",
+    "courseNumber": "321",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Circuits and Instrumentation I",
+    "creditHours": 5,
+    "maximumEnrollment": 24,
+    "waitCapacity": 8,
+    "creditHourHigh": 5,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366187",
+        "displayName": "Ng, Stanley",
+        "emailAddress": "stan.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 5,
+      "hoursWeek": 2.5,
+      "room": "207",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5782",
+    "courseNumber": "322",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Circuits and Instrumentation II",
+    "creditHours": 3,
+    "maximumEnrollment": 18,
+    "waitCapacity": 4,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366189",
+        "displayName": "Ulrich, Thomas",
+        "emailAddress": "thomas.ulrich@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "380",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5786",
+    "courseNumber": "420",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Directed Research",
+    "creditHours": 2,
+    "maximumEnrollment": 0,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366187",
+        "displayName": "Ng, Stanley",
+        "emailAddress": "stan.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1130",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "045",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5784",
+    "courseNumber": "460",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Capstone Seminar",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365922",
+        "displayName": "Bloom, John",
+        "emailAddress": "john.bloom@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2000",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2,
+      "room": "041",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5785",
+    "courseNumber": "480",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Advanced Physics Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366188",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1630",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 4.5,
+      "room": "084",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  }
+]

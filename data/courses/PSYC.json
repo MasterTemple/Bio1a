@@ -1,0 +1,1152 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5330",
+    "courseNumber": "200",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 234,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366206",
+        "displayName": "Grace, Christopher",
+        "emailAddress": "chris.grace@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "AUDITORIUM",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6498",
+    "courseNumber": "200",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Introduction to Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 40,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366206",
+        "displayName": "Grace, Christopher",
+        "emailAddress": "chris.grace@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "04/23/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5331",
+    "courseNumber": "206",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology and Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365905",
+        "displayName": "Draycott, Andrew",
+        "emailAddress": "andy.draycott@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366207",
+        "displayName": "Baldelomar, Oscar",
+        "emailAddress": "oscar.baldelomar@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "05A",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5332",
+    "courseNumber": "206",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology and Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366208",
+        "displayName": "Hall, Miriam",
+        "emailAddress": "liz.hall@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "365889",
+        "displayName": "Pickavance, Timothy",
+        "emailAddress": "tim.pickavance@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "04A",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5333",
+    "courseNumber": "206",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology and Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366208",
+        "displayName": "Hall, Miriam",
+        "emailAddress": "liz.hall@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "365923",
+        "displayName": "McMartin, Jason",
+        "emailAddress": "jason.mcmartin@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5334",
+    "courseNumber": "209",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Statistics with Computer Applications",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365875",
+        "displayName": "Brunt, Richard",
+        "emailAddress": "jason.brunt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/02/2022",
+      "endDate": "05/02/2022",
+      "beginTime": "1230",
+      "endTime": "1430",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "007",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5336",
+    "courseNumber": "209",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Statistics with Computer Applications",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366209",
+        "displayName": "Lee, Collin",
+        "emailAddress": "collin.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "107",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5337",
+    "courseNumber": "211",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Statistics with Computer Applications Lab",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365875",
+        "displayName": "Brunt, Richard",
+        "emailAddress": "jason.brunt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1100",
+      "endTime": "1150",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "141",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5339",
+    "courseNumber": "211",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Statistics with Computer Applications Lab",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366209",
+        "displayName": "Lee, Collin",
+        "emailAddress": "collin.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "1850",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "209",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5359",
+    "courseNumber": "303",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Human Sexuality",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366216",
+        "displayName": "Robins, Kendall",
+        "emailAddress": "kendall.d.robins@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "113",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5340",
+    "courseNumber": "305",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Experimental Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366210",
+        "displayName": "Williams, John",
+        "emailAddress": "john.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.5,
+      "room": "04B",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5341",
+    "courseNumber": "305",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Experimental Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "365875",
+        "displayName": "Brunt, Richard",
+        "emailAddress": "jason.brunt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.5,
+      "room": "06C",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5343",
+    "courseNumber": "309",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Abnormal Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366200",
+        "displayName": "Abouezzeddine, Tania",
+        "emailAddress": "tania.abouezzeddine@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5344",
+    "courseNumber": "309",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Abnormal Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366200",
+        "displayName": "Abouezzeddine, Tania",
+        "emailAddress": "tania.abouezzeddine@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "008",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5346",
+    "courseNumber": "317",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology of Marriage",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366211",
+        "displayName": "Goss, Brady",
+        "emailAddress": "brady.d.goss@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "125",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5347",
+    "courseNumber": "319",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cross-Cultural/Ethnic Issues in Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366207",
+        "displayName": "Baldelomar, Oscar",
+        "emailAddress": "oscar.baldelomar@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "06C",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5348",
+    "courseNumber": "320",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Developmental Psychology: Lifespan",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366207",
+        "displayName": "Baldelomar, Oscar",
+        "emailAddress": "oscar.baldelomar@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "207",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5349",
+    "courseNumber": "320",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Developmental Psychology: Lifespan",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365875",
+        "displayName": "Brunt, Richard",
+        "emailAddress": "jason.brunt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "107",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5350",
+    "courseNumber": "320",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Developmental Psychology: Lifespan",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365875",
+        "displayName": "Brunt, Richard",
+        "emailAddress": "jason.brunt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5351",
+    "courseNumber": "345",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology of Gender",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366212",
+        "displayName": "Owens, Bretlyn",
+        "emailAddress": "bretlyn.c.owens@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5352",
+    "courseNumber": "355",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology of Family",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366213",
+        "displayName": "Rios-Lam, Kimberly",
+        "emailAddress": "kimberly.rios-lam@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5353",
+    "courseNumber": "365",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cognitive Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366198",
+        "displayName": "Eltiti, Stacy",
+        "emailAddress": "stacy.eltiti@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5354",
+    "courseNumber": "365",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cognitive Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366210",
+        "displayName": "Williams, John",
+        "emailAddress": "john.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "209",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5355",
+    "courseNumber": "405",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Social Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366214",
+        "displayName": "Shepard, Elisa",
+        "emailAddress": "elisa.shepard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5356",
+    "courseNumber": "411",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theories of Personality",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366196",
+        "displayName": "Poston, John",
+        "emailAddress": "john.poston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "008",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5357",
+    "courseNumber": "411",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theories of Personality",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366196",
+        "displayName": "Poston, John",
+        "emailAddress": "john.poston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "008",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6077",
+    "courseNumber": "412",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Physiological Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366210",
+        "displayName": "Williams, John",
+        "emailAddress": "john.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "002",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5358",
+    "courseNumber": "418",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Seminar in Therapeutic Techniques",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366215",
+        "displayName": "Parker, Kelcey",
+        "emailAddress": "kelcey.m.parker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5360",
+    "courseNumber": "470",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CT:Chrst Persp on Marriage&amp;Rel",
+    "creditHours": 3,
+    "maximumEnrollment": 44,
+    "waitCapacity": 20,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366206",
+        "displayName": "Grace, Christopher",
+        "emailAddress": "chris.grace@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  }
+]

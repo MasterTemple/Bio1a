@@ -1,0 +1,301 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6090",
+    "courseNumber": "001",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Strategies for Academic and Personal Success",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366088",
+        "displayName": "Fanning, Jennifer",
+        "emailAddress": "jen.fanning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "105",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6091",
+    "courseNumber": "001",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Strategies for Academic and Personal Success",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366088",
+        "displayName": "Fanning, Jennifer",
+        "emailAddress": "jen.fanning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "105",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6092",
+    "courseNumber": "001",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Strategies for Academic and Personal Success",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366088",
+        "displayName": "Fanning, Jennifer",
+        "emailAddress": "jen.fanning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "203",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6093",
+    "courseNumber": "001",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Strategies for Academic and Personal Success",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366089",
+        "displayName": "Miller, Chad",
+        "emailAddress": "chad.miller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "203",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6094",
+    "courseNumber": "001",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Strategies for Academic and Personal Success",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366090",
+        "displayName": "Barragan, Christopher",
+        "emailAddress": "christopher.barragan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "201",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5000",
+    "courseNumber": "003",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "LEAD Scholars Program",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366086",
+        "displayName": "Andre, Alicia",
+        "emailAddress": "alicia.m.andre@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1150",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.33,
+      "room": "203",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5001",
+    "courseNumber": "004",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Ensemble",
+    "courseTitle": "Gospel Choir",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366087",
+        "displayName": "Grant, Aja",
+        "emailAddress": "aja.grant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2000",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "MAYERS",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5178",
+    "courseNumber": "102",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "First Year Seminar",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/11/2022",
+      "endDate": "03/08/2022",
+      "beginTime": "0930",
+      "endTime": "1020",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "201",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  }
+]

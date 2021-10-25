@@ -1,0 +1,782 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5815",
+    "courseNumber": "105",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Journalism",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366102",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "04B",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6758",
+    "courseNumber": "107",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Digital Skills for Media",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366103",
+        "displayName": "Kitada, Michael",
+        "emailAddress": "michael.kitada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5816",
+    "courseNumber": "120",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Writing Across Media",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365926",
+        "displayName": "Longinow, Michael",
+        "emailAddress": "michael.longinow@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "366015",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5823",
+    "courseNumber": "200",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Practicum Topic",
+    "courseTitle": "MCR Prac: TBA",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365926",
+        "displayName": "Longinow, Michael",
+        "emailAddress": "michael.longinow@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "366103",
+        "displayName": "Kitada, Michael",
+        "emailAddress": "michael.kitada@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5817",
+    "courseNumber": "241",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Audio Workshop",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366015",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5818",
+    "courseNumber": "243",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "TV Directing Workshop",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366015",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "04/23/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5819",
+    "courseNumber": "245",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Video Workshop",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366015",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "127",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5839",
+    "courseNumber": "247",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Photo Communication",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366103",
+        "displayName": "Kitada, Michael",
+        "emailAddress": "michael.kitada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6473",
+    "courseNumber": "267",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Media Career Readiness",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366102",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5826",
+    "courseNumber": "305",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Data Reporting and Visualization",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365926",
+        "displayName": "Longinow, Michael",
+        "emailAddress": "michael.longinow@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366102",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5824",
+    "courseNumber": "315",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Religion, Culture and Media",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365899",
+        "displayName": "McKinley, John",
+        "emailAddress": "john.mckinley@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "365926",
+        "displayName": "Longinow, Michael",
+        "emailAddress": "michael.longinow@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "203",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5820",
+    "courseNumber": "337",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Web Show Production",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366015",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6474",
+    "courseNumber": "344",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Media Internship",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366103",
+        "displayName": "Kitada, Michael",
+        "emailAddress": "michael.kitada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5827",
+    "courseNumber": "366",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Photojournalistic Storytelling and Visual Publication",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366102",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366103",
+        "displayName": "Kitada, Michael",
+        "emailAddress": "michael.kitada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5821",
+    "courseNumber": "390",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Media Law",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366015",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "043",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6765",
+    "courseNumber": "420",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Digital Skills for Media",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366102",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5829",
+    "courseNumber": "421",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Documentary and Investigative Journalism",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365926",
+        "displayName": "Longinow, Michael",
+        "emailAddress": "michael.longinow@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "366015",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5828",
+    "courseNumber": "442",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Visual Meaning",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366102",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "04A",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6475",
+    "courseNumber": "444",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Advanced Internship and Career Preparation in Media",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366103",
+        "displayName": "Kitada, Michael",
+        "emailAddress": "michael.kitada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6423",
+    "courseNumber": "495",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Senior Portfolio",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366102",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1300",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 4,
+      "room": "61",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  }
+]

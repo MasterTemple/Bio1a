@@ -1,0 +1,1202 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6456",
+    "courseNumber": "510",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Apologetics Research and Writing",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365935",
+        "displayName": "Smith, Ronald",
+        "emailAddress": "scott.smith@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6458",
+    "courseNumber": "510",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Apologetics Research and Writing",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365935",
+        "displayName": "Smith, Ronald",
+        "emailAddress": "scott.smith@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5960",
+    "courseNumber": "521",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament Survey",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365933",
+        "displayName": "Zehnder, Markus",
+        "emailAddress": "markus.zehnder@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "008",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6664",
+    "courseNumber": "521",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament Survey",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365941",
+        "displayName": "Way, Kenneth",
+        "emailAddress": "ken.way@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6667",
+    "courseNumber": "521",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament Survey",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365941",
+        "displayName": "Way, Kenneth",
+        "emailAddress": "ken.way@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5963",
+    "courseNumber": "522",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "New Testament Survey",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365934",
+        "displayName": "Manning Jr, Gary",
+        "emailAddress": "gary.manning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5966",
+    "courseNumber": "522",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "New Testament Survey",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365932",
+        "displayName": "Hultberg, Alan",
+        "emailAddress": "alan.hultberg@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "117",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6670",
+    "courseNumber": "522",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "New Testament Survey",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6673",
+    "courseNumber": "522",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "New Testament Survey",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365934",
+        "displayName": "Manning Jr, Gary",
+        "emailAddress": "gary.manning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "VIDEOCONF",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6677",
+    "courseNumber": "522",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "New Testament Survey",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365932",
+        "displayName": "Hultberg, Alan",
+        "emailAddress": "alan.hultberg@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5957",
+    "courseNumber": "527",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Hermeneutics",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365932",
+        "displayName": "Hultberg, Alan",
+        "emailAddress": "alan.hultberg@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6658",
+    "courseNumber": "527",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Hermeneutics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365940",
+        "displayName": "Cash, Brandon",
+        "emailAddress": "brandon.cash@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "02/07/2022",
+      "endDate": "02/07/2022",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6661",
+    "courseNumber": "527",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Hermeneutics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "02/08/2022",
+      "endDate": "02/08/2022",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "VIDEOCONF",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5789",
+    "courseNumber": "529",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Scripture: Authority, Canon, and Criticism",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365931",
+        "displayName": "Lewis, Kevin",
+        "emailAddress": "kevin.lewis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "117",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6460",
+    "courseNumber": "529",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Scripture: Authority, Canon, and Criticism",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365931",
+        "displayName": "Lewis, Kevin",
+        "emailAddress": "kevin.lewis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6462",
+    "courseNumber": "529",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Scripture: Authority, Canon, and Criticism",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365931",
+        "displayName": "Lewis, Kevin",
+        "emailAddress": "kevin.lewis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6537",
+    "courseNumber": "550",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Historical Theology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365939",
+        "displayName": "Naidu, Ashish",
+        "emailAddress": "ashish.naidu@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1800",
+      "endTime": "1930",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6064",
+    "courseNumber": "612",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Greek II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365934",
+        "displayName": "Manning Jr, Gary",
+        "emailAddress": "gary.manning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6067",
+    "courseNumber": "612",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Greek II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "207",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6684",
+    "courseNumber": "612",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Greek II",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1700",
+      "endTime": "1815",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "VIDEOCONF",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6687",
+    "courseNumber": "612",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Greek II",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365934",
+        "displayName": "Manning Jr, Gary",
+        "emailAddress": "gary.manning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1900",
+      "endTime": "2015",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "VIDEOCONF",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6464",
+    "courseNumber": "621",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Logic and Critical Thinking",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365936",
+        "displayName": "Samples, Kenneth",
+        "emailAddress": "kenneth.samples@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6466",
+    "courseNumber": "626",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ethics",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365935",
+        "displayName": "Smith, Ronald",
+        "emailAddress": "scott.smith@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5791",
+    "courseNumber": "628",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Why God Allows Evil",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365913",
+        "displayName": "McDowell, Sean",
+        "emailAddress": "sean.mcdowell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "220",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6467",
+    "courseNumber": "628",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Why God Allows Evil",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365913",
+        "displayName": "McDowell, Sean",
+        "emailAddress": "sean.mcdowell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6468",
+    "courseNumber": "628",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Why God Allows Evil",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365913",
+        "displayName": "McDowell, Sean",
+        "emailAddress": "sean.mcdowell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6469",
+    "courseNumber": "629",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Scientific Apologetics",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365922",
+        "displayName": "Bloom, John",
+        "emailAddress": "john.bloom@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6470",
+    "courseNumber": "643",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cultural Apologetics",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365937",
+        "displayName": "Harmon, Jana",
+        "emailAddress": "jana.s.harmon@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6455",
+    "courseNumber": "656",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Demonology and the Occult",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365931",
+        "displayName": "Lewis, Kevin",
+        "emailAddress": "kevin.lewis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6471",
+    "courseNumber": "680",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "ST:Defending the Faith-Cont St",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365938",
+        "displayName": "Hazen, Craig",
+        "emailAddress": "craig.hazen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6497",
+    "courseNumber": "680",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sp Tp in Christian Apologetics: Violence, Monotheism, Messiah",
+    "creditHours": 3,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365933",
+        "displayName": "Zehnder, Markus",
+        "emailAddress": "markus.zehnder@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6421",
+    "courseNumber": "694",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem: Hist &amp; Methods in Apolog",
+    "creditHours": 2,
+    "maximumEnrollment": 40,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365935",
+        "displayName": "Smith, Ronald",
+        "emailAddress": "scott.smith@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "02/19/2022",
+      "endDate": "02/19/2022",
+      "beginTime": "0900",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 8,
+      "room": "220",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6422",
+    "courseNumber": "694",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem: Topic TBA",
+    "creditHours": 2,
+    "maximumEnrollment": 40,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365913",
+        "displayName": "McDowell, Sean",
+        "emailAddress": "sean.mcdowell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0900",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 8,
+      "room": "206",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6472",
+    "courseNumber": "696",
+    "subjectDescription": "CSAP Christian Apologetics",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Apologetics Practicum",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365938",
+        "displayName": "Hazen, Craig",
+        "emailAddress": "craig.hazen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

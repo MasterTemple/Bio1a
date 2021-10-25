@@ -1,0 +1,303 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5015",
+    "courseNumber": "512",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intermediate Accounting II",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366195",
+        "displayName": "Woodward, Philip",
+        "emailAddress": "phil.woodward@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "206",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5017",
+    "courseNumber": "517",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Accounting Information Systems",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "209",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5031",
+    "courseNumber": "523",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Auditing",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365965",
+        "displayName": "Marrero, Andrea",
+        "emailAddress": "andrea.marrero@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "105",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6406",
+    "courseNumber": "621",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Accounting Research and Communication",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366194",
+        "displayName": "Massey, Philip",
+        "emailAddress": "philip.massey@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "02/14/2022",
+      "endDate": "02/14/2022",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "201",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5005",
+    "courseNumber": "626",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ethics in Accounting",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366092",
+        "displayName": "Kim, Daniel",
+        "emailAddress": "daniel.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "04/09/2022",
+      "endDate": "04/09/2022",
+      "beginTime": "0900",
+      "endTime": "1500",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 6,
+      "room": "201",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5004",
+    "courseNumber": "632",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "International Accounting",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366194",
+        "displayName": "Massey, Philip",
+        "emailAddress": "philip.massey@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/26/2022",
+      "endDate": "03/26/2022",
+      "beginTime": "0900",
+      "endTime": "1500",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 6,
+      "room": "201",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5002",
+    "courseNumber": "634",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Financial Statement Analysis and Valuation",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365972",
+        "displayName": "Markley, Randall",
+        "emailAddress": "randy.markley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "02/12/2022",
+      "endDate": "02/12/2022",
+      "beginTime": "0900",
+      "endTime": "1500",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 6,
+      "room": "201",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5003",
+    "courseNumber": "641",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Accounting Analytics",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366193",
+        "displayName": "Mancini, Robert",
+        "emailAddress": "bob.mancini@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/29/2022",
+      "endDate": "01/29/2022",
+      "beginTime": "0900",
+      "endTime": "1500",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 6,
+      "room": "201",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  }
+]

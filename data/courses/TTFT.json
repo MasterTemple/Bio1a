@@ -1,0 +1,202 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5172",
+    "courseNumber": "612",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Marriage and Family Therapy Theories II",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366133",
+        "displayName": "Quek, Karen",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "106",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5173",
+    "courseNumber": "641",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Clinical Issues in Human Diversity",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1930",
+      "endTime": "2220",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5176",
+    "courseNumber": "651",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Research Methods and Design in Marriage and Family Therapy",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5175",
+    "courseNumber": "655",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Assessment of Individuals and Families",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1930",
+      "endTime": "2220",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5174",
+    "courseNumber": "663",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Professional Development Seminar I",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366133",
+        "displayName": "Quek, Karen",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": "1630",
+      "endTime": "1820",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 1.83,
+      "room": "203",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5177",
+    "courseNumber": "671",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Crisis and Trauma Counseling",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "106",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  }
+]

@@ -1,0 +1,1405 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6095",
+    "courseNumber": "301",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Teaching (Elementary)",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0930",
+      "endTime": "1230",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "05B",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6096",
+    "courseNumber": "301",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Teaching (Elementary)",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0930",
+      "endTime": "1230",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "202",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6121",
+    "courseNumber": "301",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Teaching (Secondary)",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366053",
+        "displayName": "Yang, Joyce",
+        "emailAddress": "joyce.yang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/11/2022",
+      "endDate": "02/26/2022",
+      "beginTime": "1630",
+      "endTime": "2150",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.33,
+      "room": "128",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6819",
+    "courseNumber": "301",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Teaching",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6106",
+    "courseNumber": "309",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Math/Science Methods",
+    "creditHours": null,
+    "maximumEnrollment": 28,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366049",
+        "displayName": "Canillas, Jennifer",
+        "emailAddress": "jenna.canillas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/11/2022",
+      "endDate": "03/22/2022",
+      "beginTime": "1920",
+      "endTime": "2150",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "215",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6131",
+    "courseNumber": "324",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Performing Arts in Education",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366047",
+        "displayName": "Coddington, Lorelei",
+        "emailAddress": "lorelei.coddington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/12/2022",
+      "endDate": "02/09/2022",
+      "beginTime": "1920",
+      "endTime": "2150",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 2.5,
+      "room": "200",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6097",
+    "courseNumber": "330",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychological Foundations of Education (Combo Elem/Sec)",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366065",
+        "displayName": "Cid, Luciano",
+        "emailAddress": "luciano.cid@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "128",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6098",
+    "courseNumber": "330",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychological Foundations of Education (Elementary)",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366065",
+        "displayName": "Cid, Luciano",
+        "emailAddress": "luciano.cid@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "128",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6812",
+    "courseNumber": "330",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychological Foundations of Education",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6099",
+    "courseNumber": "335",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Child Development: Birth through Adolescence",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366046",
+        "displayName": "Serna, Carolina",
+        "emailAddress": "carolina.serna@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "215",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6589",
+    "courseNumber": "335",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Child Development: Birth through Adolescence",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366046",
+        "displayName": "Serna, Carolina",
+        "emailAddress": "carolina.serna@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6141",
+    "courseNumber": "336",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Health Curriculum and Methods",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366059",
+        "displayName": "O&#39;Dell, Deborah",
+        "emailAddress": "deborah.odell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/29/2022",
+      "endDate": "04/26/2022",
+      "beginTime": "1920",
+      "endTime": "2150",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.5,
+      "room": "043",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6143",
+    "courseNumber": "337",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary History-Social Science Curriculum and Methods",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366047",
+        "displayName": "Coddington, Lorelei",
+        "emailAddress": "lorelei.coddington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/15/2022",
+      "endDate": "01/15/2022",
+      "beginTime": "0900",
+      "endTime": "1700",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 8,
+      "room": "215",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6155",
+    "courseNumber": "341",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Methods of Teaching Linguistically Diverse Students (Elementary)",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366049",
+        "displayName": "Canillas, Jennifer",
+        "emailAddress": "jenna.canillas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "128",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6157",
+    "courseNumber": "341",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Methods of Teaching Linguistically Diverse Students (Secondary)",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366049",
+        "displayName": "Canillas, Jennifer",
+        "emailAddress": "jenna.canillas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1920",
+      "endTime": "2150",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "128",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6813",
+    "courseNumber": "341",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Methods of Teaching Linguistically Diverse Students",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366049",
+        "displayName": "Canillas, Jennifer",
+        "emailAddress": "jenna.canillas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6591",
+    "courseNumber": "356",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Early Childhood Curriculum",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366063",
+        "displayName": "Vidaurre, Lorena",
+        "emailAddress": "lorena.vidaurre@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6593",
+    "courseNumber": "357",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "School/Family/Community Partnerships in Early Childhood Urban Settings",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366063",
+        "displayName": "Vidaurre, Lorena",
+        "emailAddress": "lorena.vidaurre@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6595",
+    "courseNumber": "358",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Classroom Management in Early Childhood Settings",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366063",
+        "displayName": "Vidaurre, Lorena",
+        "emailAddress": "lorena.vidaurre@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6597",
+    "courseNumber": "359",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Observation and Assessment of Young Children",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6601",
+    "courseNumber": "361",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Issues in Special Education",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366061",
+        "displayName": "Wong-Lo, Mickie",
+        "emailAddress": "mickie.wong-lo@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6603",
+    "courseNumber": "362",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Assessment and Evaluation of Exceptional Learners",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366061",
+        "displayName": "Wong-Lo, Mickie",
+        "emailAddress": "mickie.wong-lo@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6605",
+    "courseNumber": "369",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Autism Spectrum Disorders",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366051",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6101",
+    "courseNumber": "380",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Children&#39;s Literature",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366046",
+        "displayName": "Serna, Carolina",
+        "emailAddress": "carolina.serna@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "215",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6123",
+    "courseNumber": "420",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Reading/Language Arts",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366046",
+        "displayName": "Serna, Carolina",
+        "emailAddress": "carolina.serna@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "215",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6128",
+    "courseNumber": "425",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Content Area Reading",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366047",
+        "displayName": "Coddington, Lorelei",
+        "emailAddress": "lorelei.coddington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "116",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6814",
+    "courseNumber": "425",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Content Area Reading",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366055",
+        "displayName": "Lewis, Dawn",
+        "emailAddress": "dawn.lewis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6150",
+    "courseNumber": "432",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Observation/Fieldwork",
+    "courseTitle": "Elementary Curriculum Fieldwork",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366053",
+        "displayName": "Yang, Joyce",
+        "emailAddress": "joyce.yang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "LOCATION",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6133",
+    "courseNumber": "433",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: English",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366055",
+        "displayName": "Lewis, Dawn",
+        "emailAddress": "dawn.lewis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6135",
+    "courseNumber": "433",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: History/Social Science",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366056",
+        "displayName": "Honeycutt, Daniel",
+        "emailAddress": "dan.honeycutt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6137",
+    "courseNumber": "433",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: Mathematics",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366057",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 2,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6139",
+    "courseNumber": "433",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: Science",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366058",
+        "displayName": "Mills, Michael",
+        "emailAddress": "michael.mills@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6147",
+    "courseNumber": "434",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Curriculum, Differentiation, and Assessment",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366053",
+        "displayName": "Yang, Joyce",
+        "emailAddress": "joyce.yang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "04/29/2022",
+      "endDate": "04/29/2022",
+      "beginTime": "1345",
+      "endTime": "1645",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "109",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6153",
+    "courseNumber": "437",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Observation/Fieldwork",
+    "courseTitle": "Secondary Curriculum Fieldwork",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366051",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "LOCATION",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6152",
+    "courseNumber": "438",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Curriculum, Differentiation, and Assessment",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366051",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "04/29/2022",
+      "endDate": "04/29/2022",
+      "beginTime": "1345",
+      "endTime": "1645",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "109",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6815",
+    "courseNumber": "438",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Curriculum, Differentiation, and Assessment",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366051",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6108",
+    "courseNumber": "440",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Student Teaching I",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "366050",
+        "displayName": "Bishop, Carolyn",
+        "emailAddress": "carolyn.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 6,
+      "hoursWeek": 2.75,
+      "room": "4",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6110",
+    "courseNumber": "442",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Student Teaching II",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "366050",
+        "displayName": "Bishop, Carolyn",
+        "emailAddress": "carolyn.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 6,
+      "hoursWeek": 6,
+      "room": "LOCATION",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6116",
+    "courseNumber": "450",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Student Teaching I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "366051",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 6,
+      "hoursWeek": 2.75,
+      "room": "115",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6118",
+    "courseNumber": "452",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Student Teaching II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "366051",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 6,
+      "hoursWeek": 6,
+      "room": "LOCATION",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5914",
+    "courseNumber": "507",
+    "subjectDescription": "ISAN Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cultural Anthropology",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365872",
+        "displayName": "Pittle, Kevin",
+        "emailAddress": "kevin.pittle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "207",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6566",
+    "courseNumber": "507",
+    "subjectDescription": "ISAN Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cultural Anthropology",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365872",
+        "displayName": "Pittle, Kevin",
+        "emailAddress": "kevin.pittle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6568",
+    "courseNumber": "529",
+    "subjectDescription": "ISAN Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Human Conflict: Theory and Resolution",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365873",
+        "displayName": "Meulenberg, Michal",
+        "emailAddress": "michal.meulenberg@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6550",
+    "courseNumber": "761",
+    "subjectDescription": "ISAN Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Culture and Transformation",
+    "creditHours": null,
+    "maximumEnrollment": 19,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365916",
+        "displayName": "Yeh, Allen",
+        "emailAddress": "allen.yeh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5190",
+    "courseNumber": "200",
+    "subjectDescription": "FREN French",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "French Language and Culture II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366085",
+        "displayName": "Velazquez, Victor",
+        "emailAddress": "victor.velazquez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1230",
+      "endTime": "1420",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "202",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  }
+]

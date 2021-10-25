@@ -1,0 +1,122 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5191",
+    "courseNumber": "100",
+    "subjectDescription": "ASLG American Sign Language",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary American Sign Language",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "365929",
+        "displayName": "Spand, Kayla",
+        "emailAddress": "kayla.m.nimigan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1600",
+      "endTime": "1750",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "125",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5192",
+    "courseNumber": "100",
+    "subjectDescription": "ASLG American Sign Language",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary American Sign Language",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "365930",
+        "displayName": "Husted, Koreen",
+        "emailAddress": "koreen.l.husted@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0830",
+      "endTime": "1020",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "125",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5193",
+    "courseNumber": "200",
+    "subjectDescription": "ASLG American Sign Language",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary American Sign Language II",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "365929",
+        "displayName": "Spand, Kayla",
+        "emailAddress": "kayla.m.nimigan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "1950",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "118",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  }
+]

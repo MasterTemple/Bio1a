@@ -1,0 +1,19 @@
+{
+    "Flag Football": {
+        "Co-ed League": "aa74c35e401e4eff82f2d5c31f9c2e02",
+        "Men's League": "efcc06c4438f4161afde8b607af82405"
+    },
+    "Soccer": {
+        "A League": "2951ceb66eb14eab8803f481c76540ee",
+        "B League": "7974b1649c5949109b3c5bf421045af6"
+    },
+    
+    "Spikeball": {
+        "A League": "bc756d49c18b4a488bed3f77b3fcb16e",
+        "B League": "aebca2748f524ca19b940509f13511c6"
+    },
+    "Volleyball": {
+        "A League": "2f0cc4d670d44966aa4f666e5e2ef57f",
+        "B League": "695228354d9c4647be9755fac57b1be6"
+    }
+}

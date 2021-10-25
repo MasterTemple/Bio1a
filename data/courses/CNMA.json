@@ -1,0 +1,1747 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5586",
+    "courseNumber": "101",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Visual Storytelling",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366006",
+        "displayName": "Tucker, Camille",
+        "emailAddress": "camille.tucker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5587",
+    "courseNumber": "101",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Visual Storytelling",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366007",
+        "displayName": "Hope, James",
+        "emailAddress": "james.hope@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "201",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5588",
+    "courseNumber": "101",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "03",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366007",
+        "displayName": "Hope, James",
+        "emailAddress": "james.hope@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "351",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5589",
+    "courseNumber": "102",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Visual Aesthetics",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366008",
+        "displayName": "Yamada, Dean",
+        "emailAddress": "dean.yamada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0730",
+      "endTime": "0845",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "55",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5590",
+    "courseNumber": "102",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Visual Aesthetics",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366008",
+        "displayName": "Yamada, Dean",
+        "emailAddress": "dean.yamada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "55",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5591",
+    "courseNumber": "102",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Visual Aesthetics",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "55",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5592",
+    "courseNumber": "103",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Digital Media Production",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366009",
+        "displayName": "Schmidt, John",
+        "emailAddress": "john.schmidt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1520",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 1.83,
+      "room": "127",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5593",
+    "courseNumber": "104",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History of Cinema",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1520",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 1.83,
+      "room": "55",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5594",
+    "courseNumber": "104",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History of Cinema",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1530",
+      "endTime": "1720",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 1.83,
+      "room": "55",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5595",
+    "courseNumber": "110",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Film Appreciation",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1220",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 1.83,
+      "room": "55",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5596",
+    "courseNumber": "203",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Screenwriting I",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366007",
+        "displayName": "Hope, James",
+        "emailAddress": "james.hope@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "127",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5597",
+    "courseNumber": "203",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Screenwriting I",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366006",
+        "displayName": "Tucker, Camille",
+        "emailAddress": "camille.tucker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5598",
+    "courseNumber": "204",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Entertainment Business",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5630",
+    "courseNumber": "240",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Production I: Directing in Narrative, Documentary and Serial Media",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366006",
+        "displayName": "Tucker, Camille",
+        "emailAddress": "camille.tucker@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "366012",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/14/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "55",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5631",
+    "courseNumber": "240",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Production I: Directing in Narrative, Documentary and Serial Media",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366006",
+        "displayName": "Tucker, Camille",
+        "emailAddress": "camille.tucker@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366012",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/14/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "043",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5632",
+    "courseNumber": "240",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Production I: Directing in Narrative, Documentary and Serial Media",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366006",
+        "displayName": "Tucker, Camille",
+        "emailAddress": "camille.tucker@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366012",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/14/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "127",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5633",
+    "courseNumber": "245",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Introduction to Production II: Media Lab",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/11/2022",
+      "endDate": "01/11/2022",
+      "beginTime": "1330",
+      "endTime": "1550",
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 3,
+      "hoursWeek": 2.33,
+      "room": null,
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5635",
+    "courseNumber": "245",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Introduction to Production II: Media Lab",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/11/2022",
+      "endDate": "01/11/2022",
+      "beginTime": "1330",
+      "endTime": "1520",
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 3,
+      "hoursWeek": 1.83,
+      "room": null,
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5636",
+    "courseNumber": "245",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Introduction to Production II: Media Lab",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/11/2022",
+      "endDate": "01/11/2022",
+      "beginTime": "1600",
+      "endTime": "1820",
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 3,
+      "hoursWeek": 2.33,
+      "room": null,
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5599",
+    "courseNumber": "307",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sound Design",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "56",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5600",
+    "courseNumber": "317",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Directing for TV and Film",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "55",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5601",
+    "courseNumber": "323",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Writing the One-Hour Drama Pilot",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366007",
+        "displayName": "Hope, James",
+        "emailAddress": "james.hope@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "127",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5602",
+    "courseNumber": "325",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Designing Game Narratives",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366010",
+        "displayName": "Steffen, Michael",
+        "emailAddress": "michael.steffen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "56",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5603",
+    "courseNumber": "353",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Media Literacy",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "041",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5604",
+    "courseNumber": "353",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Media Literacy",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5605",
+    "courseNumber": "358",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Motion Picture Pre-Production",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366008",
+        "displayName": "Yamada, Dean",
+        "emailAddress": "dean.yamada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "118",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5606",
+    "courseNumber": "359",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Motion Picture Production",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366008",
+        "displayName": "Yamada, Dean",
+        "emailAddress": "dean.yamada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "118",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5607",
+    "courseNumber": "368",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Film and Television Adaptation",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366006",
+        "displayName": "Tucker, Camille",
+        "emailAddress": "camille.tucker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5608",
+    "courseNumber": "370",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sundance Film Festival",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5822",
+    "courseNumber": "433",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Mass Media Law and Ethics",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366015",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "043",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5609",
+    "courseNumber": "440",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Cinema and Media Arts Internship",
+    "creditHours": 1,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366011",
+        "displayName": "Bell, Nathaniel",
+        "emailAddress": "nathaniel.s.bell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "55",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5610",
+    "courseNumber": "440",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Cinema and Media Arts Internship",
+    "creditHours": 2,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366011",
+        "displayName": "Bell, Nathaniel",
+        "emailAddress": "nathaniel.s.bell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0930",
+      "endTime": "1015",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 0.75,
+      "room": "55",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5611",
+    "courseNumber": "440",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Cinema and Media Arts Internship",
+    "creditHours": 3,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366011",
+        "displayName": "Bell, Nathaniel",
+        "emailAddress": "nathaniel.s.bell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0930",
+      "endTime": "1015",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 0.75,
+      "room": "55",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5612",
+    "courseNumber": "450",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Practicum Topic",
+    "courseTitle": "CNMA Prac: Cinematography",
+    "creditHours": 3,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366009",
+        "displayName": "Schmidt, John",
+        "emailAddress": "john.schmidt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1520",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 1.83,
+      "room": "55",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5613",
+    "courseNumber": "450",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Practicum Topic",
+    "courseTitle": "CNMA Prac: Editing for Film/TV",
+    "creditHours": 3,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366009",
+        "displayName": "Schmidt, John",
+        "emailAddress": "john.schmidt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1520",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 1.83,
+      "room": "56",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6823",
+    "courseNumber": "454",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Film, Television, and the Arts: Racial and Gender Issues",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366016",
+        "displayName": "Yuen, Nancy",
+        "emailAddress": "nancy.yuen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5614",
+    "courseNumber": "456",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Senior Portfolio",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366012",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "113",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5615",
+    "courseNumber": "456",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Senior Portfolio",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366012",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "127",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5616",
+    "courseNumber": "459",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Faith and Film",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "207",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5618",
+    "courseNumber": "460",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Cinematography",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "127",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5619",
+    "courseNumber": "470",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CNMA Sem: Navigating the Creative Project",
+    "creditHours": 3,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365942",
+        "displayName": "Zalk, Robert",
+        "emailAddress": "bob.zalk@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "220",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5622",
+    "courseNumber": "470",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CNMA Sem: The Role of the Production Assistant - How to Land &amp; Keep Your First Hollywood Job",
+    "creditHours": 1,
+    "maximumEnrollment": 24,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366013",
+        "displayName": "Patapoff, Sydney",
+        "emailAddress": "sydney.a.alford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0700",
+      "endTime": "1900",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 1,
+      "hoursWeek": 12,
+      "room": "130",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5623",
+    "courseNumber": "480",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366014",
+        "displayName": "Fisher, Gerald",
+        "emailAddress": "gerald.fisher@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5624",
+    "courseNumber": "480",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366012",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5625",
+    "courseNumber": "480",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366006",
+        "displayName": "Tucker, Camille",
+        "emailAddress": "camille.tucker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5626",
+    "courseNumber": "480",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366008",
+        "displayName": "Yamada, Dean",
+        "emailAddress": "dean.yamada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5627",
+    "courseNumber": "480",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366007",
+        "displayName": "Hope, James",
+        "emailAddress": "james.hope@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5628",
+    "courseNumber": "480",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366010",
+        "displayName": "Steffen, Michael",
+        "emailAddress": "michael.steffen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5629",
+    "courseNumber": "480",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366009",
+        "displayName": "Schmidt, John",
+        "emailAddress": "john.schmidt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

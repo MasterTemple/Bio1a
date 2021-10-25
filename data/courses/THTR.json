@@ -1,0 +1,659 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5872",
+    "courseNumber": "109",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Production Practicum",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366240",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "21",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5876",
+    "courseNumber": "112",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Production Lab I",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366027",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 9,
+      "room": "MAYERS",
+      "days": [
+        "M",
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5880",
+    "courseNumber": "160",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theatre Appreciation",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "61",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5881",
+    "courseNumber": "160",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theatre Appreciation",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "61",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5882",
+    "courseNumber": "160",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theatre Appreciation",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "203",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5873",
+    "courseNumber": "209",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Production Practicum II",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366240",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "21",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5877",
+    "courseNumber": "212",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Production Lab II",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366027",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 9,
+      "room": "MAYERS",
+      "days": [
+        "M",
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5883",
+    "courseNumber": "215",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Makeup for Stage and Screen",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366240",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "21",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5874",
+    "courseNumber": "309",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Production Practicum III",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366240",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "21",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5878",
+    "courseNumber": "312",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Production Lab III",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366027",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 9,
+      "room": "MAYERS",
+      "days": [
+        "M",
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5884",
+    "courseNumber": "350",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theatre History II",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366240",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "202",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5885",
+    "courseNumber": "369",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intermediate Acting",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366027",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "21",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5886",
+    "courseNumber": "391",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Stage Managing and Directing Theatre",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366027",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "21",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5887",
+    "courseNumber": "405",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Dramatic Theory and Criticism",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366240",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "202",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5875",
+    "courseNumber": "409",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Production Practicum IV",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366240",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "21",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5888",
+    "courseNumber": "410",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Adv Tp: Stage Combat",
+    "creditHours": 3,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366027",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "21",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5879",
+    "courseNumber": "412",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Production Lab IV",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366027",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 9,
+      "room": "MAYERS",
+      "days": [
+        "M",
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  }
+]

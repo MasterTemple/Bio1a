@@ -1,0 +1,773 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6833",
+    "courseNumber": "800",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Christ, Culture, and the Church I",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "365949",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/16/2022",
+      "endDate": "05/20/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": null,
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6379",
+    "courseNumber": "821",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Biblical Context of Discipleship and the Person I",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "365874",
+        "displayName": "Porter, Steven",
+        "emailAddress": "steve.porter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/30/2022",
+      "endDate": "06/03/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "207",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6380",
+    "courseNumber": "843",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Reclaiming Worldviews and Culture I",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "365912",
+        "displayName": "Ganssle, Gregory",
+        "emailAddress": "greg.ganssle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/16/2022",
+      "endDate": "05/20/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "207",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6832",
+    "courseNumber": "845",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Biblical Church Growth and Multiplication",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "365997",
+        "displayName": "McIntosh, Gary",
+        "emailAddress": "gary.mcintosh@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "366042",
+        "displayName": "McMahan, Martin",
+        "emailAddress": "alan.mcmahan@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "05/16/2022",
+      "endDate": "05/20/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": null,
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6381",
+    "courseNumber": "847",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Turnaround Strategies",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "365997",
+        "displayName": "McIntosh, Gary",
+        "emailAddress": "gary.mcintosh@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "366042",
+        "displayName": "McMahan, Martin",
+        "emailAddress": "alan.mcmahan@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "05/16/2022",
+      "endDate": "05/20/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "203",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6383",
+    "courseNumber": "855",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Preaching Biblical Narratives",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "365998",
+        "displayName": "Sunukjian, Donald",
+        "emailAddress": "don.sunukjian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/16/2022",
+      "endDate": "05/20/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "108",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6384",
+    "courseNumber": "859",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Leadership I",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "365949",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/30/2022",
+      "endDate": "06/03/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "113",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6388",
+    "courseNumber": "880",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Year Four Doctoral Project I",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365993",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6389",
+    "courseNumber": "881",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Year Four Doctoral Project II",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365993",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6390",
+    "courseNumber": "882",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Year Five Doctoral Project I",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365993",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6391",
+    "courseNumber": "883",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Year Five Doctoral Project II",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365993",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6392",
+    "courseNumber": "884",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Year Six Doctoral Project I",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365993",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6393",
+    "courseNumber": "885",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Year Six Doctoral Project II",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365993",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6831",
+    "courseNumber": "887",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Leave of Absence",
+    "courseTitle": "Leave of Absence",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365993",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6395",
+    "courseNumber": "892",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Doctoral Project Proposal Submission",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365993",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6394",
+    "courseNumber": "895",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Program Extension",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365993",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6385",
+    "courseNumber": "908",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Caring for the Soul I",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "365874",
+        "displayName": "Porter, Steven",
+        "emailAddress": "steve.porter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/16/2022",
+      "endDate": "05/20/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "206",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6382",
+    "courseNumber": "910",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Black Church Spirituality in the Urban Church I",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [],
+    "location": {
+      "startDate": "05/30/2022",
+      "endDate": "06/03/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "203",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6386",
+    "courseNumber": "918",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spirit, Prayer, and the Care of Souls I",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "366043",
+        "displayName": "Coe, John",
+        "emailAddress": "john.coe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/30/2022",
+      "endDate": "06/03/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "220",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  }
+]

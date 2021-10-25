@@ -1,0 +1,897 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5718",
+    "courseNumber": "100",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Chemistry of Everyday Life",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365987",
+        "displayName": "Pichaj, Mark",
+        "emailAddress": "mark.pichaj@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "251",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5719",
+    "courseNumber": "106",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "General Chemistry II",
+    "creditHours": 4,
+    "maximumEnrollment": 45,
+    "waitCapacity": 15,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365988",
+        "displayName": "Lu, Jessica",
+        "emailAddress": "jessica.lu@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.75,
+      "room": "103",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5720",
+    "courseNumber": "106",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "General Chemistry II",
+    "creditHours": 4,
+    "maximumEnrollment": 45,
+    "waitCapacity": 15,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365988",
+        "displayName": "Lu, Jessica",
+        "emailAddress": "jessica.lu@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.75,
+      "room": "103",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5721",
+    "courseNumber": "106",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Gen Chem II Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 18,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5724",
+    "courseNumber": "106",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Gen Chem II Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 18,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5722",
+    "courseNumber": "106",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Gen Chem II Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 18,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5725",
+    "courseNumber": "106",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Gen Chem II Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 18,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5723",
+    "courseNumber": "106",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Gen Chem II Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 18,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5726",
+    "courseNumber": "106",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Gen Chem II Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 18,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5727",
+    "courseNumber": "107",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Chemistry",
+    "creditHours": null,
+    "maximumEnrollment": 46,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 3.75,
+      "room": "351",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5728",
+    "courseNumber": "120",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Organic and Biochemistry",
+    "creditHours": 4,
+    "maximumEnrollment": 54,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.75,
+      "room": "4",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5729",
+    "courseNumber": "120",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Prin of Org &amp; Biochem Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 18,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5730",
+    "courseNumber": "120",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Prin of Org &amp; Biochem Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 18,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5731",
+    "courseNumber": "120",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Prin of Org &amp; Biochem Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 18,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1200",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5732",
+    "courseNumber": "302",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Organic Chemistry II",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365989",
+        "displayName": "Johnson, Dana",
+        "emailAddress": "dana.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "201",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5733",
+    "courseNumber": "302",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Organic Chemistry II",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365989",
+        "displayName": "Johnson, Dana",
+        "emailAddress": "dana.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "201",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5734",
+    "courseNumber": "312",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Laboratory in Organic Chemistry II",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365989",
+        "displayName": "Johnson, Dana",
+        "emailAddress": "dana.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "345",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5735",
+    "courseNumber": "312",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Laboratory in Organic Chemistry II",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365989",
+        "displayName": "Johnson, Dana",
+        "emailAddress": "dana.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "345",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5736",
+    "courseNumber": "312",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Laboratory in Organic Chemistry II",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365989",
+        "displayName": "Johnson, Dana",
+        "emailAddress": "dana.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "345",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6790",
+    "courseNumber": "402",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Physical Chemistry I",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365988",
+        "displayName": "Lu, Jessica",
+        "emailAddress": "jessica.lu@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "251",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5708",
+    "courseNumber": "412",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "General Biochemistry II",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365961",
+        "displayName": "Varamini, Behzad",
+        "emailAddress": "behzad.varamini@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "253",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5739",
+    "courseNumber": "413",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Laboratory in General Biochemistry",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 2,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365962",
+        "displayName": "Gunasekera, Richard",
+        "emailAddress": "richard.gunasekera@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1630",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 3,
+      "room": "353",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5740",
+    "courseNumber": "413",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Laboratory in General Biochemistry",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 2,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365964",
+        "displayName": "Bernstein, Ethan",
+        "emailAddress": "ethan.a.bernstein@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1630",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 3,
+      "room": "353",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5744",
+    "courseNumber": "480",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Directed Research",
+    "creditHours": 1,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365962",
+        "displayName": "Gunasekera, Richard",
+        "emailAddress": "richard.gunasekera@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5745",
+    "courseNumber": "480",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Directed Research",
+    "creditHours": 1,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365988",
+        "displayName": "Lu, Jessica",
+        "emailAddress": "jessica.lu@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "351",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  }
+]

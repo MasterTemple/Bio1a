@@ -1,0 +1,1515 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5423",
+    "courseNumber": "506",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Program Evaluation and Consultation",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1300",
+      "endTime": "1520",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.33,
+      "room": "101",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5424",
+    "courseNumber": "561",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History of Psychoanalytic Thought",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366196",
+        "displayName": "Poston, John",
+        "emailAddress": "john.poston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0845",
+      "endTime": "1015",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.5,
+      "room": "101",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5425",
+    "courseNumber": "601",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Research Design",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "101",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5426",
+    "courseNumber": "603",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cognitive-Affective Aspects of Behavior",
+    "creditHours": 2,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0930",
+      "endTime": "1110",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "101",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5427",
+    "courseNumber": "612",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Research Apprenticeship II",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366197",
+        "displayName": "Hall, Todd",
+        "emailAddress": "todd.hall@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0800",
+      "endTime": "0940",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "202",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5428",
+    "courseNumber": "613",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Research Design Lab",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366198",
+        "displayName": "Eltiti, Stacy",
+        "emailAddress": "stacy.eltiti@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5429",
+    "courseNumber": "613",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Research Design Lab",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366198",
+        "displayName": "Eltiti, Stacy",
+        "emailAddress": "stacy.eltiti@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5430",
+    "courseNumber": "624",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Seminar in Multicultural Issues II",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "101",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5431",
+    "courseNumber": "643",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Measurement and Assessment III: Performance-Based Measure (Rorschach)",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366196",
+        "displayName": "Poston, John",
+        "emailAddress": "john.poston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "101",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5432",
+    "courseNumber": "682",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Pre-practicum II",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366199",
+        "displayName": "Canada, Andrea",
+        "emailAddress": "andrea.canada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1210",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "VARIED",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5433",
+    "courseNumber": "682",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Pre-practicum II",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1210",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "VARIED",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5434",
+    "courseNumber": "682",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Pre-practicum II",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1210",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "VARIED",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5435",
+    "courseNumber": "682",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Pre-practicum II",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1210",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "VARIED",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5436",
+    "courseNumber": "688",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum Consultation",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366200",
+        "displayName": "Abouezzeddine, Tania",
+        "emailAddress": "tania.abouezzeddine@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1225",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.91,
+      "room": "108",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5437",
+    "courseNumber": "688",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum Consultation",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1225",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.91,
+      "room": "111",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5438",
+    "courseNumber": "688",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum Consultation",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366202",
+        "displayName": "Bland, Earl",
+        "emailAddress": "earl.bland@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1225",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.91,
+      "room": "202",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5439",
+    "courseNumber": "688",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum Consultation",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5440",
+    "courseNumber": "688",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum Consultation",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1900",
+      "endTime": "1950",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0.83,
+      "room": "101",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5441",
+    "courseNumber": "691",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum I",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5442",
+    "courseNumber": "692",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum II",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5443",
+    "courseNumber": "693",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum III",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5444",
+    "courseNumber": "694",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum IV",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5445",
+    "courseNumber": "695",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum V",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5446",
+    "courseNumber": "696",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum VI",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5447",
+    "courseNumber": "697",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum Elective",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5448",
+    "courseNumber": "698",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum Elective",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5449",
+    "courseNumber": "699",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum Topic",
+    "courseTitle": "Practicum Elective",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5450",
+    "courseNumber": "699",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Practicum Topic",
+    "courseTitle": "Practicum Elective",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5451",
+    "courseNumber": "708",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Structural Equation Modeling",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366203",
+        "displayName": "Wang, David",
+        "emailAddress": "david.wang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0800",
+      "endTime": "0925",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.41,
+      "room": "210",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5452",
+    "courseNumber": "709",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Cur Iss: Religion &amp; Health",
+    "creditHours": 2,
+    "maximumEnrollment": 18,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366199",
+        "displayName": "Canada, Andrea",
+        "emailAddress": "andrea.canada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "113",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5453",
+    "courseNumber": "709",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Cur Iss: Religion &amp; Health",
+    "creditHours": 3,
+    "maximumEnrollment": 18,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366199",
+        "displayName": "Canada, Andrea",
+        "emailAddress": "andrea.canada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "113",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5455",
+    "courseNumber": "709",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CI:Psychoanalytic&amp;ChrstnReflec",
+    "creditHours": 2,
+    "maximumEnrollment": 22,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366202",
+        "displayName": "Bland, Earl",
+        "emailAddress": "earl.bland@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "101",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5456",
+    "courseNumber": "709",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CI:Psychoanalytic&amp;ChrstnReflec",
+    "creditHours": 3,
+    "maximumEnrollment": 22,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366202",
+        "displayName": "Bland, Earl",
+        "emailAddress": "earl.bland@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "101",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5458",
+    "courseNumber": "709",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CI: Human Trafficking",
+    "creditHours": 2,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365880",
+        "displayName": "Dryjanska, Laura",
+        "emailAddress": "laura.dryjanska@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1530",
+      "endTime": "1710",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "002",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5459",
+    "courseNumber": "709",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CI: Human Trafficking",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365880",
+        "displayName": "Dryjanska, Laura",
+        "emailAddress": "laura.dryjanska@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1530",
+      "endTime": "1710",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 1.66,
+      "room": "002",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5461",
+    "courseNumber": "709",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CI: Trauma &amp; PTSD",
+    "creditHours": 2,
+    "maximumEnrollment": 40,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "007",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5462",
+    "courseNumber": "709",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CI: Trauma &amp; PTSD",
+    "creditHours": 3,
+    "maximumEnrollment": 40,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "007",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5464",
+    "courseNumber": "713",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles and Practices in Clinical Supervision",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1210",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "202",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5465",
+    "courseNumber": "715",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Training Therapy (Interpersonal)",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5466",
+    "courseNumber": "716",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Training Therapy (Individual)",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5467",
+    "courseNumber": "729",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Alcohol and Substance Abuse",
+    "creditHours": 1,
+    "maximumEnrollment": 35,
+    "waitCapacity": 0,
+    "creditHourHigh": 2,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366204",
+        "displayName": "Ward, Jody",
+        "emailAddress": "jody.ward@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0800",
+      "endTime": "1630",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 1,
+      "hoursWeek": 17,
+      "room": "008",
+      "days": [
+        "F",
+        "S"
+      ],
+      "dayNames": [
+        "Friday",
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5469",
+    "courseNumber": "740",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "ST: Intro to Play Therapy",
+    "creditHours": 1,
+    "maximumEnrollment": 40,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366205",
+        "displayName": "De Luna, Joseph",
+        "emailAddress": "joseph.deluna@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0900",
+      "endTime": "1630",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 1,
+      "hoursWeek": 15,
+      "room": "007",
+      "days": [
+        "F",
+        "S"
+      ],
+      "dayNames": [
+        "Friday",
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5470",
+    "courseNumber": "790",
+    "subjectDescription": "RSPY Psych: General",
+    "scheduleTypeDescription": "Leave of Absence",
+    "courseTitle": "Leave of Absence",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366205",
+        "displayName": "De Luna, Joseph",
+        "emailAddress": "joseph.deluna@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

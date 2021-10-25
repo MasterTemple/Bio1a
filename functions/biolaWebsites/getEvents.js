@@ -12,7 +12,13 @@ module.exports = async () => {
             let events = {
                 month: [...document.querySelectorAll("#events > div > div > div > div > div > a > div.date-list_date > div.callout_style-1")].map( el => el.textContent),
                 day: [...document.querySelectorAll("#events > div > div > div > div > div > a > div.date-list_date > div.date-list_number")].map( el => el.textContent),
-                href: [...document.querySelectorAll("#events > div > div > div > div > div > a")].map( el => `https://www.biola.edu${el.href}`),
+                href: [...document.querySelectorAll("#events > div > div > div > div > div > a")].map( el => {
+                    let url = el.href
+                    if(!url.includes("https://www.biola.edu")){
+                        url = `https://www.biola.edu${url}`
+                    }
+                    return url
+                }),
                 title: [...document.querySelectorAll("div > a > div.date-list_content > div")].map( el => el.textContent),
                 description: [...document.querySelectorAll("div > a > div.date-list_content > p")].map( el => el.textContent)
             }

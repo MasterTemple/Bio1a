@@ -1,0 +1,80 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5995",
+    "courseNumber": "102",
+    "subjectDescription": "BLHE Hebrew",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Hebrew Grammar II",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366092",
+        "displayName": "Kim, Daniel",
+        "emailAddress": "daniel.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "105",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5997",
+    "courseNumber": "202",
+    "subjectDescription": "BLHE Hebrew",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intermediate Hebrew Grammar II",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366092",
+        "displayName": "Kim, Daniel",
+        "emailAddress": "daniel.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  }
+]

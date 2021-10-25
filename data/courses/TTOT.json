@@ -1,0 +1,323 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6492",
+    "courseNumber": "603",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elements of Hebrew I",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366178",
+        "displayName": "Barrios, Eric",
+        "emailAddress": "eric.a.barrios@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1600",
+      "endTime": "1800",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "VIDEOCONF",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5994",
+    "courseNumber": "604",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elements of Hebrew II",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366092",
+        "displayName": "Kim, Daniel",
+        "emailAddress": "daniel.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "105",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6426",
+    "courseNumber": "604",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elements of Hebrew II",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366092",
+        "displayName": "Kim, Daniel",
+        "emailAddress": "daniel.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1530",
+      "endTime": "1730",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "108",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6493",
+    "courseNumber": "604",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elements of Hebrew II",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365893",
+        "displayName": "Hernandez, Dominick",
+        "emailAddress": "dominick.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1600",
+      "endTime": "1800",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5996",
+    "courseNumber": "722",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Hebrew Exegesis",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366092",
+        "displayName": "Kim, Daniel",
+        "emailAddress": "daniel.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6494",
+    "courseNumber": "722",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Hebrew Exegesis",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365933",
+        "displayName": "Zehnder, Markus",
+        "emailAddress": "markus.zehnder@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6495",
+    "courseNumber": "733",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem in Semitic Lang: Ugaritic",
+    "creditHours": 3,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365941",
+        "displayName": "Way, Kenneth",
+        "emailAddress": "ken.way@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6496",
+    "courseNumber": "791",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "OT Sem: Violence, Monotheism, Messiah",
+    "creditHours": 3,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365933",
+        "displayName": "Zehnder, Markus",
+        "emailAddress": "markus.zehnder@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6759",
+    "courseNumber": "799",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Old Testament Capstone",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

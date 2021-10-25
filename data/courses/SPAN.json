@@ -1,0 +1,424 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6578",
+    "courseNumber": "100",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Language and Culture I",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366229",
+        "displayName": "Reyes, Itzel",
+        "emailAddress": "itzel.reyes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 4,
+      "hoursWeek": 4,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5180",
+    "courseNumber": "100",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Language and Culture I",
+    "creditHours": null,
+    "maximumEnrollment": 23,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366227",
+        "displayName": "Grismer, Mallory",
+        "emailAddress": "mallory.grismer@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1800",
+      "endTime": "1950",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "102",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5182",
+    "courseNumber": "200",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Language and Culture II",
+    "creditHours": null,
+    "maximumEnrollment": 23,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366228",
+        "displayName": "Hernandez, Artemiza",
+        "emailAddress": "artemiza.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1230",
+      "endTime": "1420",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "125",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5183",
+    "courseNumber": "200",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Language and Culture II",
+    "creditHours": null,
+    "maximumEnrollment": 23,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366228",
+        "displayName": "Hernandez, Artemiza",
+        "emailAddress": "artemiza.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1220",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "214",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5184",
+    "courseNumber": "201",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Language and Culture III",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366228",
+        "displayName": "Hernandez, Artemiza",
+        "emailAddress": "artemiza.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0830",
+      "endTime": "1020",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "004",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6579",
+    "courseNumber": "215",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Basic Spanish for the Heritage Learner",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366230",
+        "displayName": "Bryant, Julianne",
+        "emailAddress": "julianne.bryant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5186",
+    "courseNumber": "301",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Spanish Communication II",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366228",
+        "displayName": "Hernandez, Artemiza",
+        "emailAddress": "artemiza.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1220",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 1.83,
+      "room": "128",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5187",
+    "courseNumber": "311",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Spanish for Heritage Learners II",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366229",
+        "displayName": "Reyes, Itzel",
+        "emailAddress": "itzel.reyes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1030",
+      "endTime": "1220",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 4,
+      "hoursWeek": 1.83,
+      "room": "109",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5188",
+    "courseNumber": "350",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Hispanic Civilization and Culture",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "366229",
+        "displayName": "Reyes, Itzel",
+        "emailAddress": "itzel.reyes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1230",
+      "endTime": "1420",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "114",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5189",
+    "courseNumber": "401",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Topics in Hispanic Culture",
+    "creditHours": 1,
+    "maximumEnrollment": 15,
+    "waitCapacity": 15,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366229",
+        "displayName": "Reyes, Itzel",
+        "emailAddress": "itzel.reyes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "0830",
+      "endTime": "0920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "005",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6585",
+    "courseNumber": "485",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Internship",
+    "creditHours": null,
+    "maximumEnrollment": 3,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366084",
+        "displayName": "Kleist, Aaron",
+        "emailAddress": "aaron.kleist@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

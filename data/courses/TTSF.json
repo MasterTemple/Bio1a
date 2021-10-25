@@ -1,0 +1,1067 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6370",
+    "courseNumber": "501",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Spiritual Theology and Formation",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366231",
+        "displayName": "Strobel, Kyle",
+        "emailAddress": "kyle.c.strobel@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "04A",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6371",
+    "courseNumber": "501",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Spiritual Theology and Formation",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365884",
+        "displayName": "Merrill, David",
+        "emailAddress": "david.l.merrill@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1930",
+      "endTime": "2220",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "04A",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6717",
+    "courseNumber": "501",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Spiritual Theology and Formation",
+    "creditHours": 3,
+    "maximumEnrollment": 45,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365884",
+        "displayName": "Merrill, David",
+        "emailAddress": "david.l.merrill@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6372",
+    "courseNumber": "503",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Personal Foundations for Spiritual Formation",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366232",
+        "displayName": "Bishop, Berry",
+        "emailAddress": "berry.j.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "05A",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6373",
+    "courseNumber": "503",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Personal Foundations for Spiritual Formation",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366232",
+        "displayName": "Bishop, Berry",
+        "emailAddress": "berry.j.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "04A",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6718",
+    "courseNumber": "503",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Personal Foundations for Spiritual Formation",
+    "creditHours": 3,
+    "maximumEnrollment": 60,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365884",
+        "displayName": "Merrill, David",
+        "emailAddress": "david.l.merrill@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6719",
+    "courseNumber": "504",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spiritual Formation, Vocation, and the Disciplines",
+    "creditHours": 1,
+    "maximumEnrollment": 45,
+    "waitCapacity": 10,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "365884",
+        "displayName": "Merrill, David",
+        "emailAddress": "david.l.merrill@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6374",
+    "courseNumber": "504",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spiritual Formation, Vocation, and the Disciplines",
+    "creditHours": 1,
+    "maximumEnrollment": 13,
+    "waitCapacity": 2,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366235",
+        "displayName": "Bishop, William",
+        "emailAddress": "william.g.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6375",
+    "courseNumber": "504",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spiritual Formation, Vocation, and the Disciplines",
+    "creditHours": 1,
+    "maximumEnrollment": 13,
+    "waitCapacity": 2,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366236",
+        "displayName": "Rimoldi, David",
+        "emailAddress": "david.c.rimoldi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6376",
+    "courseNumber": "504",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spiritual Formation, Vocation, and the Disciplines",
+    "creditHours": 1,
+    "maximumEnrollment": 13,
+    "waitCapacity": 2,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366237",
+        "displayName": "Goforth, Robert",
+        "emailAddress": "robert.l.goforth@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6377",
+    "courseNumber": "505",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Talbot Spiritual Direction I",
+    "creditHours": null,
+    "maximumEnrollment": 200,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366234",
+        "displayName": "Baker, Christopher",
+        "emailAddress": "christopher.j.baker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6378",
+    "courseNumber": "506",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Talbot Spiritual Direction II",
+    "creditHours": null,
+    "maximumEnrollment": 200,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366234",
+        "displayName": "Baker, Christopher",
+        "emailAddress": "christopher.j.baker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5638",
+    "courseNumber": "531",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History and Traditions of Christian Spirituality",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "365884",
+        "displayName": "Merrill, David",
+        "emailAddress": "david.l.merrill@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "05A",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5639",
+    "courseNumber": "532",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Developmental Spirituality and Contemplative Prayer",
+    "creditHours": 2,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366231",
+        "displayName": "Strobel, Kyle",
+        "emailAddress": "kyle.c.strobel@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366043",
+        "displayName": "Coe, John",
+        "emailAddress": "john.coe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1430",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 2,
+      "hoursWeek": 4,
+      "room": "02",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5640",
+    "courseNumber": "532",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Developmental Spirituality and Contemplative Prayer",
+    "creditHours": 3,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366231",
+        "displayName": "Strobel, Kyle",
+        "emailAddress": "kyle.c.strobel@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366043",
+        "displayName": "Coe, John",
+        "emailAddress": "john.coe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1430",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 2,
+      "hoursWeek": 4,
+      "room": "02",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5641",
+    "courseNumber": "544",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Personality Development and Psychopathology",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366232",
+        "displayName": "Bishop, Berry",
+        "emailAddress": "berry.j.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1500",
+      "endTime": "1730",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "02",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5642",
+    "courseNumber": "578",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Soul Care Pre-practicum II and Professional Referral",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366002",
+        "displayName": "TenElshof, Judith",
+        "emailAddress": "judy.tenelshof@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366233",
+        "displayName": "Barber, Betsy",
+        "emailAddress": "betsy.barber@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0750",
+      "endTime": "1020",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "02",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5643",
+    "courseNumber": "585",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Personal Spiritual Direction",
+    "creditHours": null,
+    "maximumEnrollment": 150,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366234",
+        "displayName": "Baker, Christopher",
+        "emailAddress": "christopher.j.baker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5164",
+    "courseNumber": "642",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Spir Disp Sem: Family",
+    "creditHours": 2,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366002",
+        "displayName": "TenElshof, Judith",
+        "emailAddress": "judy.tenelshof@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "02",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5168",
+    "courseNumber": "642",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SDSem: Spiritual Warfare",
+    "creditHours": 2,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366003",
+        "displayName": "Sappington, Thomas",
+        "emailAddress": "thomas.sappington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "06C",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5646",
+    "courseNumber": "670",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intensive Journey Inward and Retreat",
+    "creditHours": null,
+    "maximumEnrollment": 42,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366233",
+        "displayName": "Barber, Betsy",
+        "emailAddress": "betsy.barber@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "366043",
+        "displayName": "Coe, John",
+        "emailAddress": "john.coe@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "02",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5647",
+    "courseNumber": "670",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intensive Journey Inward and Retreat",
+    "creditHours": null,
+    "maximumEnrollment": 42,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366233",
+        "displayName": "Barber, Betsy",
+        "emailAddress": "betsy.barber@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "366043",
+        "displayName": "Coe, John",
+        "emailAddress": "john.coe@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "02",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5648",
+    "courseNumber": "672",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Personal Retreat and Formation",
+    "creditHours": null,
+    "maximumEnrollment": 42,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366043",
+        "displayName": "Coe, John",
+        "emailAddress": "john.coe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "02/26/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "02",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5649",
+    "courseNumber": "672",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Personal Retreat and Formation",
+    "creditHours": null,
+    "maximumEnrollment": 42,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366043",
+        "displayName": "Coe, John",
+        "emailAddress": "john.coe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "02",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5650",
+    "courseNumber": "678",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Soul Care Practicum II",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366002",
+        "displayName": "TenElshof, Judith",
+        "emailAddress": "judy.tenelshof@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366233",
+        "displayName": "Barber, Betsy",
+        "emailAddress": "betsy.barber@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1129",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 2,
+      "hoursWeek": 0.98,
+      "room": "05B",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5651",
+    "courseNumber": "678",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Soul Care Practicum II",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366002",
+        "displayName": "TenElshof, Judith",
+        "emailAddress": "judy.tenelshof@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366233",
+        "displayName": "Barber, Betsy",
+        "emailAddress": "betsy.barber@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1130",
+      "endTime": "1230",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 2,
+      "hoursWeek": 1,
+      "room": "05B",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5652",
+    "courseNumber": "678",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Soul Care Practicum II",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366002",
+        "displayName": "TenElshof, Judith",
+        "emailAddress": "judy.tenelshof@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "366233",
+        "displayName": "Barber, Betsy",
+        "emailAddress": "betsy.barber@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "1030",
+      "endTime": "1129",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 2,
+      "hoursWeek": 0.98,
+      "room": "05B",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5653",
+    "courseNumber": "750",
+    "subjectDescription": "TTSF Spiritual Formation",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Study",
+    "creditHours": null,
+    "maximumEnrollment": 0,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

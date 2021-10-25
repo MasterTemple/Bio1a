@@ -1,0 +1,386 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6397",
+    "courseNumber": "8010",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Philosophical Issues in Educational Studies",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366045",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "03/11/2022",
+      "beginTime": "0830",
+      "endTime": "1700",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 0,
+      "hoursWeek": 42.5,
+      "room": "114",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6396",
+    "courseNumber": "8040",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Research III: Quantitative Research and Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366044",
+        "displayName": "Lawson, Kevin",
+        "emailAddress": "kevin.lawson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/07/2022",
+      "endDate": "03/11/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "120",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6398",
+    "courseNumber": "8151",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Curriculum Materials Development and Implementation",
+    "creditHours": 3,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365992",
+        "displayName": "Cunningham, Michelle",
+        "emailAddress": "shelly.cunningham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/14/2022",
+      "endDate": "03/18/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "120",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6399",
+    "courseNumber": "8721",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Interview and Focus Group Research",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365995",
+        "displayName": "Eguizabal Escobar, Orbelina",
+        "emailAddress": "orbelina.eguizabal@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "03/05/2022",
+      "beginTime": "1500",
+      "endTime": "1800",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "120",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6401",
+    "courseNumber": "8800",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Internship in Higher Education",
+    "creditHours": 3,
+    "maximumEnrollment": 12,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365995",
+        "displayName": "Eguizabal Escobar, Orbelina",
+        "emailAddress": "orbelina.eguizabal@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6405",
+    "courseNumber": "8891",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Leave of Absence",
+    "courseTitle": "Leave of Absence",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366045",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6400",
+    "courseNumber": "8950",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Candidacy Exam Capstone",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366045",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/12/2022",
+      "endDate": "01/12/2022",
+      "beginTime": "1300",
+      "endTime": "1430",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6402",
+    "courseNumber": "8960",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366045",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6403",
+    "courseNumber": "8970",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Extension",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366045",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6404",
+    "courseNumber": "8980",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Final Editing",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366045",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

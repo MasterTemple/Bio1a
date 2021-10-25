@@ -1,0 +1,1200 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5892",
+    "courseNumber": "520",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Interpersonal and Intercultural Adjustment",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365925",
+        "displayName": "Decker, Murray",
+        "emailAddress": "murray.decker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "116",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5932",
+    "courseNumber": "531",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Peoples of Ethnic America",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "365916",
+        "displayName": "Yeh, Allen",
+        "emailAddress": "allen.yeh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "04/30/2022",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "4",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6561",
+    "courseNumber": "555",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to World Missions",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366003",
+        "displayName": "Sappington, Thomas",
+        "emailAddress": "thomas.sappington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6547",
+    "courseNumber": "650",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "TP:Tchng Eng to Young Learners",
+    "creditHours": 3,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6562",
+    "courseNumber": "690",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Practicum",
+    "creditHours": 3,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": 6,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366003",
+        "displayName": "Sappington, Thomas",
+        "emailAddress": "thomas.sappington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5923",
+    "courseNumber": "691",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Tutorial: Anthropology",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5924",
+    "courseNumber": "695",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Master of Arts Comprehensive Examination",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366098",
+        "displayName": "Sanchez, Jamie",
+        "emailAddress": "jamie.sanchez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6560",
+    "courseNumber": "700",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Orientation to Graduate Intercultural Studies",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366100",
+        "displayName": "Rhoades, Jane",
+        "emailAddress": "jane.e.rhoades@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6804",
+    "courseNumber": "709",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intercultural Communication",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366098",
+        "displayName": "Sanchez, Jamie",
+        "emailAddress": "jamie.sanchez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5897",
+    "courseNumber": "711",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Dynamics of the Religious Experience",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366097",
+        "displayName": "Huang, Lindsey",
+        "emailAddress": "lindsey.huang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/12/2022",
+      "endDate": "03/19/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 0,
+      "hoursWeek": 9,
+      "room": "109",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6563",
+    "courseNumber": "751",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology of Mission",
+    "creditHours": null,
+    "maximumEnrollment": 19,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366003",
+        "displayName": "Sappington, Thomas",
+        "emailAddress": "thomas.sappington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6551",
+    "courseNumber": "765",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cross-Cultural Leadership",
+    "creditHours": null,
+    "maximumEnrollment": 19,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366099",
+        "displayName": "Calley, Stephanie",
+        "emailAddress": "stephanie.a.calley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5921",
+    "courseNumber": "791",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Internship",
+    "creditHours": null,
+    "maximumEnrollment": 6,
+    "waitCapacity": 0,
+    "creditHourHigh": 2,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366003",
+        "displayName": "Sappington, Thomas",
+        "emailAddress": "thomas.sappington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5922",
+    "courseNumber": "792",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Internship",
+    "creditHours": null,
+    "maximumEnrollment": 6,
+    "waitCapacity": 0,
+    "creditHourHigh": 2,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366003",
+        "displayName": "Sappington, Thomas",
+        "emailAddress": "thomas.sappington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 2,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5926",
+    "courseNumber": "803",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Qualitative Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366099",
+        "displayName": "Calley, Stephanie",
+        "emailAddress": "stephanie.a.calley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "02/05/2022",
+      "endDate": "02/12/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 0,
+      "hoursWeek": 9,
+      "room": "111",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6761",
+    "courseNumber": "815",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Educational Philosophies of Global Religious Traditions",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366099",
+        "displayName": "Calley, Stephanie",
+        "emailAddress": "stephanie.a.calley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "03/12/2022",
+      "endDate": "03/19/2022",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 0,
+      "hoursWeek": 9,
+      "room": "111",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5916",
+    "courseNumber": "865",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Qualifying Examination",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366098",
+        "displayName": "Sanchez, Jamie",
+        "emailAddress": "jamie.sanchez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5894",
+    "courseNumber": "873",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Tutorial: Education",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366096",
+        "displayName": "Dzubinski, Leanne",
+        "emailAddress": "leanne.dzubinski@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5919",
+    "courseNumber": "873",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Tutorial: InterculturalStudies",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366098",
+        "displayName": "Sanchez, Jamie",
+        "emailAddress": "jamie.sanchez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5898",
+    "courseNumber": "873",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Tutorial: Missiology",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366097",
+        "displayName": "Huang, Lindsey",
+        "emailAddress": "lindsey.huang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5925",
+    "courseNumber": "873",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Tutorial: Anthropology",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366003",
+        "displayName": "Sappington, Thomas",
+        "emailAddress": "thomas.sappington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5895",
+    "courseNumber": "879",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Research Design",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366096",
+        "displayName": "Dzubinski, Leanne",
+        "emailAddress": "leanne.dzubinski@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/03/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5896",
+    "courseNumber": "880",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Doctoral Dissertation/Capstone Project",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366097",
+        "displayName": "Huang, Lindsey",
+        "emailAddress": "lindsey.huang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6805",
+    "courseNumber": "880",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Doctoral Dissertation/Capstone Project",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366096",
+        "displayName": "Dzubinski, Leanne",
+        "emailAddress": "leanne.dzubinski@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6808",
+    "courseNumber": "880",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Doctoral Dissertation/Capstone Project",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366042",
+        "displayName": "McMahan, Martin",
+        "emailAddress": "alan.mcmahan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6810",
+    "courseNumber": "880",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Doctoral Dissertation/Capstone Project",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366098",
+        "displayName": "Sanchez, Jamie",
+        "emailAddress": "jamie.sanchez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6548",
+    "courseNumber": "881",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Doctoral Dissertation/Capstone Project Proposal",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "366097",
+        "displayName": "Huang, Lindsey",
+        "emailAddress": "lindsey.huang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6086",
+    "courseNumber": "882",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Proposal Continuation",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366098",
+        "displayName": "Sanchez, Jamie",
+        "emailAddress": "jamie.sanchez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5920",
+    "courseNumber": "890",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Ph.D. Dissertation Field Research",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": 6,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366098",
+        "displayName": "Sanchez, Jamie",
+        "emailAddress": "jamie.sanchez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6806",
+    "courseNumber": "890",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Ph.D. Dissertation Field Research",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": 6,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366096",
+        "displayName": "Dzubinski, Leanne",
+        "emailAddress": "leanne.dzubinski@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6807",
+    "courseNumber": "890",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Ph.D. Dissertation Field Research",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": 6,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366097",
+        "displayName": "Huang, Lindsey",
+        "emailAddress": "lindsey.huang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6809",
+    "courseNumber": "890",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Ph.D. Dissertation Field Research",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": 6,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366042",
+        "displayName": "McMahan, Martin",
+        "emailAddress": "alan.mcmahan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6549",
+    "courseNumber": "891",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Ph.D. Dissertation Proposal",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "366097",
+        "displayName": "Huang, Lindsey",
+        "emailAddress": "lindsey.huang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6087",
+    "courseNumber": "892",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "PHD Dissertation Proposal Continuation",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366098",
+        "displayName": "Sanchez, Jamie",
+        "emailAddress": "jamie.sanchez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5917",
+    "courseNumber": "893",
+    "subjectDescription": "ISCL Intercultural Studies",
+    "scheduleTypeDescription": "Leave of Absence",
+    "courseTitle": "Leave of Absence",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "366098",
+        "displayName": "Sanchez, Jamie",
+        "emailAddress": "jamie.sanchez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

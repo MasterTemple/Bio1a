@@ -1,0 +1,754 @@
+[
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5395",
+    "courseNumber": "713",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Doctoral Research Seminar III",
+    "creditHours": 1,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": 2,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366198",
+        "displayName": "Eltiti, Stacy",
+        "emailAddress": "stacy.eltiti@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": "0900",
+      "endTime": "0950",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "106",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5396",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366200",
+        "displayName": "Abouezzeddine, Tania",
+        "emailAddress": "tania.abouezzeddine@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5397",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366217",
+        "displayName": "Anderson, Tamara",
+        "emailAddress": "tamara.anderson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5398",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366202",
+        "displayName": "Bland, Earl",
+        "emailAddress": "earl.bland@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5399",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365875",
+        "displayName": "Brunt, Richard",
+        "emailAddress": "jason.brunt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5400",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366199",
+        "displayName": "Canada, Andrea",
+        "emailAddress": "andrea.canada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5401",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366201",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5402",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366205",
+        "displayName": "De Luna, Joseph",
+        "emailAddress": "joseph.deluna@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5403",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365880",
+        "displayName": "Dryjanska, Laura",
+        "emailAddress": "laura.dryjanska@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5404",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366198",
+        "displayName": "Eltiti, Stacy",
+        "emailAddress": "stacy.eltiti@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5405",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366208",
+        "displayName": "Hall, Miriam",
+        "emailAddress": "liz.hall@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5406",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366197",
+        "displayName": "Hall, Todd",
+        "emailAddress": "todd.hall@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5407",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366218",
+        "displayName": "Kim, Christina",
+        "emailAddress": "christina.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5408",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365923",
+        "displayName": "McMartin, Jason",
+        "emailAddress": "jason.mcmartin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5409",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "365874",
+        "displayName": "Porter, Steven",
+        "emailAddress": "steve.porter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5410",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366196",
+        "displayName": "Poston, John",
+        "emailAddress": "john.poston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5411",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366203",
+        "displayName": "Wang, David",
+        "emailAddress": "david.wang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5412",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366210",
+        "displayName": "Williams, John",
+        "emailAddress": "john.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6779",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366207",
+        "displayName": "Baldelomar, Oscar",
+        "emailAddress": "oscar.baldelomar@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "6780",
+    "courseNumber": "721",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366219",
+        "displayName": "Chin, Eu",
+        "emailAddress": "eu.gene.chin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5413",
+    "courseNumber": "722",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Continuation",
+    "creditHours": 3,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366198",
+        "displayName": "Eltiti, Stacy",
+        "emailAddress": "stacy.eltiti@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Spring 2022",
+    "CRN": "5414",
+    "courseNumber": "723",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "ABD Dissertation Completion",
+    "creditHours": 3,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "366198",
+        "displayName": "Eltiti, Stacy",
+        "emailAddress": "stacy.eltiti@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "01/10/2022",
+      "endDate": "05/07/2022",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]
