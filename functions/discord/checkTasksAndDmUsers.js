@@ -23,7 +23,7 @@ module.exports = async (client, config) => {
                 data.forEach( (eachTask, c) => {
                     let dueDate = new Date(eachTask.plannable.due_at).toLocaleString()
                     let dueDateUnix = Math.floor(new Date(eachTask.plannable.due_at) / 1000)
-                    if(rightNowUnix + urgentTimePeriod > dueDateUnix){                    
+                    if(rightNowUnix + urgentTimePeriod > dueDateUnix && !eachTask.submissions?.submitted){
                         let taskType = eachTask.plannable_type
                         taskType = taskType.charAt(0).toUpperCase() + taskType.slice(1)
                         let title = `${c+1}. ${eachTask.plannable.title}`
