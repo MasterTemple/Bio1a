@@ -14,6 +14,10 @@ let updateMajorsList = require('./functions/discord/updateMajorsList')
 let updateRoleChannel = require('./functions/discord/updateRoleChannel')
 let updateLeagueChannels = require('./functions/discord/updateLeagueChannels')
 let updateSportsRoleChannel= require('./functions/discord/updateSportsRoleChannel')
+
+let submitAttendance = require('./functions/canvas/submitAttendance')
+
+
 const client = new Discord.Client({
     presence: {
         status: 'online',
@@ -28,6 +32,11 @@ const client = new Discord.Client({
     intents: ['GUILD_MESSAGES', 'DIRECT_MESSAGES', 'GUILDS', 'GUILD_MEMBERS']
 })
 
+
+cron.schedule('0 17 * * 2,4', async() => {
+    //every T, R at 5:00pm
+    await submitAttendance(config)
+})
 
 cron.schedule('0 0 */3 * * *', async() => {
     //every 3 hours
@@ -102,9 +111,9 @@ client.on("messageCreate", (message) => {
 client.on('interactionCreate', async (interaction) => {
     // console.log(interaction);
 
-    let apiKey = await getApiKeyForUser(config, interaction.user.id)
+    const apiKey = await getApiKeyForUser(config, interaction.user.id)
     // let allowedCommands = ["register", "help", "games", "addrole", "addMajorRole", "addYearRole"]
-    let canvasCommands = ["tasks", "unread", "grades"]
+    const canvasCommands = ["tasks", "unread", "grades"]
     // if(apiKey === undefined && (!allowedCommands.includes(interaction?.commandName) && !allowedCommands.includes(interaction?.customId?.replace(/\[[^\]]]/g, "")))){
     if(apiKey === undefined && (canvasCommands.includes(interaction?.commandName) || canvasCommands.includes(interaction?.customId?.replace(/\[[^\]]]/g, "")))){
         
