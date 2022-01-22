@@ -14,6 +14,7 @@ let updateMajorsList = require('./functions/discord/updateMajorsList')
 let updateRoleChannel = require('./functions/discord/updateRoleChannel')
 let updateLeagueChannels = require('./functions/discord/updateLeagueChannels')
 let updateSportsRoleChannel= require('./functions/discord/updateSportsRoleChannel')
+let updateCafe = require('./functions/discord/updateBiolaCafe')
 
 let submitAttendance = require('./functions/canvas/submitAttendance')
 
@@ -64,6 +65,7 @@ async function onStartUp(client, config) {
 client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
+    await updateCafe(client, config)
     // await updateMajorsList(client, config)
     // await updateRoleChannel(client, config)
 
