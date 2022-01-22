@@ -39,6 +39,11 @@ cron.schedule('0 17 * * 2,4', async() => {
     await submitAttendance(config)
 })
 
+// cron.schedule('0 7,11,15 * * *', async() => {
+//     //7am,11am,4pm
+//     await updateCafe(client, config)
+// })
+
 cron.schedule('0 0 */3 * * *', async() => {
     //every 3 hours
     await checkTasksAndDmUsers(client, config)
@@ -49,7 +54,7 @@ cron.schedule('*/30 * * * *', async() => {
     //every 30 minutes
     await checkUnreadAndDmUsers(client, config)
     await checkGradesAndDmUsers(client, config)
-
+    await updateCafe(client, config)
 })
 
 async function onStartUp(client, config) {
@@ -65,7 +70,6 @@ async function onStartUp(client, config) {
 client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
-    await updateCafe(client, config)
     // await updateMajorsList(client, config)
     // await updateRoleChannel(client, config)
 
