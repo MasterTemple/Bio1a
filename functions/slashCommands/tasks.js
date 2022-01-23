@@ -9,28 +9,31 @@ module.exports = async (interaction, config, accessToken) => {
     // embed.setAuthor(config.bot.name, config.bot.iconUrl)
     embed.setThumbnail(config.bot.iconUrl)
     // console.log(data);
-    data.forEach( (eachTask, c) => {
+    let c = 1
+    data.forEach( (eachTask) => {
         let dueDate = new Date(eachTask.plannable?.due_at || eachTask.plannable?.todo_date).toLocaleString()
         let taskType = eachTask.plannable_type
         let dueDateUnix = Math.floor(new Date(eachTask.plannable?.due_at || eachTask.plannable?.todo_date) / 1000)
         taskType = taskType.charAt(0).toUpperCase() + taskType.slice(1)
-        let title = `${c+1}. ${eachTask.plannable.title}`
+        let title = `${c}. ${eachTask.plannable.title}`
         if(eachTask.plannable.points_possible){
             title = `${title} - ${eachTask.plannable.points_possible} Points`
         }
-        // console.log({eachTask});
+        console.log(eachTask.plannable.title, eachTask.plannable_type);
         if(eachTask.plannable_type === "planner_note") {
             embed.addField(
                 `${title} - Due <t:${dueDateUnix}:R>!`,
                 `Due: **${dueDate.replace(",", "**,")}\nDescription: **${eachTask.plannable.details}**`,
                 false
-                )
+            )
+            c++
         }else if(eachTask.plannable_type !== "calendar_event") {
             embed.addField(
                 `${title} - Due <t:${dueDateUnix}:R>!`,
                 `Class: ${eachTask?.context_name?.replace(/\w+ \d+:/g, "")}\nDue: **${dueDate.replace(",", "**,")}\nAssignment Type: **${taskType}**`,
                 false
-                )
+            )
+            c++
         }
     })
 
