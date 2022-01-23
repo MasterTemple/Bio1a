@@ -52,9 +52,9 @@ cron.schedule('0 0 */3 * * *', async() => {
 
 cron.schedule('*/30 * * * *', async() => {
     //every 30 minutes
+    await updateCafe(client, config)
     await checkUnreadAndDmUsers(client, config)
     await checkGradesAndDmUsers(client, config)
-    await updateCafe(client, config)
 })
 
 async function onStartUp(client, config) {
@@ -70,6 +70,7 @@ async function onStartUp(client, config) {
 client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
+    await updateCafe(client, config)
     // await updateMajorsList(client, config)
     // await updateRoleChannel(client, config)
 

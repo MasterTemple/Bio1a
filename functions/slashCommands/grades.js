@@ -12,7 +12,8 @@ module.exports = async (interaction, config, accessToken) => {
         // console.log(eachGrade.original_name, studentData.computed_current_score, studentData.computed_final_score);
         embed.addField(
             eachGrade.original_name || eachGrade.name,
-            `Current Grade: **${studentData.computed_current_score}%**\nFinal Grade: **${studentData.computed_final_score}%**`,
+            // `Current Grade: **${studentData.computed_current_score}%**\nFinal Grade: **${studentData.computed_final_score}%**`,
+            `Current Grade: **${studentData.computed_current_score}%**`,
             false
         )
     })
