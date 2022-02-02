@@ -36,7 +36,7 @@ const client = new Discord.Client({
 
 cron.schedule('0 17 * * 2,4', async() => {
     //every T, R at 5:00pm
-    await submitAttendance(config)
+    await submitAttendance(client, config)
 })
 
 // cron.schedule('0 7,11,15 * * *', async() => {
@@ -71,6 +71,7 @@ client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
     await updateCafe(client, config)
+    await submitAttendance(client, config)
     // await updateMajorsList(client, config)
     // await updateRoleChannel(client, config)
 
