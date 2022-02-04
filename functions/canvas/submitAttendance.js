@@ -1,4 +1,5 @@
 const axios = require('axios')
+const { MessageEmbed, BaseMessageComponent } = require('discord.js')
 
 
 async function getAssignments(courseId, token) {
@@ -64,12 +65,34 @@ module.exports = async (client, config) => {
           let dueDate = new Date(assignment.due_at);
           // checks if assignment is open, it is not yet due, and has not yet been submitted
           // console.log(`assignment.name: ${assignment.name}, assignedDate: ${assignedDate}, assignedDate < rn: ${assignedDate < rn}, rn: ${rn}, rn < dueDate: ${rn < dueDate}, dueDate: ${dueDate}, assignment.has_submitted_submissions: ${assignment.has_submitted_submissions}`);
-          console.log(assignment.name, assignedDate < rn, rn < dueDate)
+          // console.log(assignment.name, assignedDate < rn, rn < dueDate)
           // if(assignment.name === "Attendance 02/03"){
           if(assignedDate < rn && rn < dueDate){
             let submissions = await getSubmmissions(courseId, assignment.id, "self", token)
-            if(submissions.workflow_state = "unsubmitted"){
-              await submitAssignmet(courseId, assignment.id, token)
+            if(submissions.workflow_state != "unsubmitted"){
+              // await submitAssignmet(courseId, assignment.id, token)
+              let embed = new MessageEmbed().setColor(config.bot.color)
+              embed.setTitle("Attendance Submitted!")
+              embed.addField(assignment.name, `Turned in <t:${Math.floor(rn/1000)}:R>`)
+              embed.setThumbnail(config.bot.iconUrl)
+              let components = [
+                {
+                  "type": 1,
+                  "components": [
+                    {
+                      "type": 2,
+                      "label": "View Assignment!",
+                      "style": 5,
+                      "url": submissions.preview_url.match(/[^\?]+/g)[0]
+                    }
+                  ]
+                }
+              ]
+              let user = await client.users.fetch(BLAKE_ID)
+              await user.send({
+                embeds: [embed],
+                components: components
+              })
             }
             // console.log(submissions);
           }
