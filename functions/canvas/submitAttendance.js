@@ -69,8 +69,8 @@ module.exports = async (client, config) => {
           // if(assignment.name === "Attendance 02/03"){
           if(assignedDate < rn && rn < dueDate){
             let submissions = await getSubmmissions(courseId, assignment.id, "self", token)
-            if(submissions.workflow_state != "unsubmitted"){
-              // await submitAssignmet(courseId, assignment.id, token)
+            if(submissions.workflow_state === "unsubmitted"){
+              await submitAssignmet(courseId, assignment.id, token)
               let embed = new MessageEmbed().setColor(config.bot.color)
               embed.setTitle("Attendance Submitted!")
               embed.addField(assignment.name, `Turned in <t:${Math.floor(rn/1000)}:R>`)
