@@ -36,6 +36,8 @@ const client = new Discord.Client({
 
 cron.schedule('0 17 * * 2,4', async() => {
     //every T, R at 5:00pm
+    let rn = new Date()
+    console.log("Cron just executed at: ", rn.toLocaleString())
     await submitAttendance(client, config)
 })
 
