@@ -72,8 +72,8 @@ async function onStartUp(client, config) {
 client.once('ready', async () => {
     config.bot.iconUrl = client.user.avatarURL()
     config.bot.name = client.user.username
-    await updateCafe(client, config)
-    await submitAttendance(client, config)
+    // await updateCafe(client, config)
+    // await submitAttendance(client, config)
     // await updateMajorsList(client, config)
     // await updateRoleChannel(client, config)
 
