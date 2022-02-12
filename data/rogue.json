@@ -1,0 +1,122 @@
+[
+  {
+      "name": "Anvil",
+      "class": "Defender",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/3/37/Anvil_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200723155414"
+  },
+  {
+      "name": "Cannon",
+      "class": "Defender",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/d/d9/Cannon_Portrait.png/revision/latest/scale-to-width-down/100?cb=20211006143400"
+  },
+  {
+      "name": "Chaac",
+      "class": "Duelist",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/6/61/Chaac_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200723155502"
+  },
+  {
+      "name": "Dahlia",
+      "class": "Support",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/a/af/Dahlia_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200930141346"
+  },
+  {
+      "name": "Dallas",
+      "class": "Intel",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/e/eb/Dallas_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200723155554"
+  },
+  {
+      "name": "Dima",
+      "class": "Breacher",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/b/bd/Dima_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200723155611"
+  },
+  {
+      "name": "Gl1tch",
+      "class": "Breacher",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/b/b0/Gl1tch_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200723155636"
+  },
+  {
+      "name": "Glimpse",
+      "class": "Intel",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/f/f7/Glimpse_Portrait.png/revision/latest/scale-to-width-down/100?cb=20220113235206"
+  },
+  {
+      "name": "Kestrel",
+      "class": "Duelist",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/9/99/Kestrel_Portrait.png/revision/latest/scale-to-width-down/100?cb=20210210121431"
+  },
+  {
+      "name": "Lancer",
+      "class": "Duelist",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/b/b4/Lancer_Portrait.png/revision/latest/scale-to-width-down/100?cb=20220126235525"
+  },
+  {
+      "name": "Mack",
+      "class": "Defender",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/0/00/Mack_Portrait.png/revision/latest/scale-to-width-down/100?cb=20210609070452"
+  },
+  {
+      "name": "Phantom",
+      "class": "Sniper",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/1/18/Phantom_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200723155720"
+  },
+  {
+      "name": "Ronin",
+      "class": "Duelist",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/0/0a/Ronin_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200723155739"
+  },
+  {
+      "name": "Runway",
+      "class": "Support",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/8/84/Runway_Portrait.png/revision/latest/scale-to-width-down/100?cb=20210908165317"
+  },
+  {
+      "name": "Saint",
+      "class": "Support",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/5/53/Saint_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200723155754"
+  },
+  {
+      "name": "Scorch",
+      "class": "Duelist",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/a/a3/Scorch_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200723155808"
+  },
+  {
+      "name": "Seeker",
+      "class": "Intel",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/4/40/Seeker_Portrait.png/revision/latest/scale-to-width-down/100?cb=20210315154137"
+  },
+  {
+      "name": "Sigrid",
+      "class": "Breacher",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/5/57/Sigrid_Portrait.png/revision/latest/scale-to-width-down/100?cb=20201218175238"
+  },
+  {
+      "name": "Switchblade",
+      "class": "Breacher",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/8/82/Switchblade_Portrait.png/revision/latest/scale-to-width-down/100?cb=20210628150220"
+  },
+  {
+      "name": "Talon",
+      "class": "Intel",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/e/eb/Talon_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200723155821"
+  },
+  {
+      "name": "The Fixer",
+      "class": "Sniper",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/1/1e/TheFixer_Portrait.png/revision/latest/scale-to-width-down/100?cb=20201104190807"
+  },
+  {
+      "name": "Trench",
+      "class": "Defender",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/4/46/Trench_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200723155837"
+  },
+  {
+      "name": "Umbra",
+      "class": "Duelist",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/e/ee/Umbra_Portrait.png/revision/latest/scale-to-width-down/100?cb=20211215183548"
+  },
+  {
+      "name": "Vy",
+      "class": "Defender",
+      "pfp": "https://static.wikia.nocookie.net/roguecompany/images/2/2d/Vy_Portrait.png/revision/latest/scale-to-width-down/100?cb=20200723155849"
+  }
+]
