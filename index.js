@@ -17,6 +17,7 @@ let updateSportsRoleChannel= require('./functions/discord/updateSportsRoleChanne
 let updateCafe = require('./functions/discord/updateBiolaCafe')
 
 let submitAttendance = require('./functions/canvas/submitAttendance')
+let sendProverbs = require('./functions/personal/proverbsReminder')
 
 
 const client = new Discord.Client({
@@ -33,12 +34,18 @@ const client = new Discord.Client({
     intents: ['GUILD_MESSAGES', 'DIRECT_MESSAGES', 'GUILDS', 'GUILD_MEMBERS']
 })
 
-
+// submit discrete structures attendance
 cron.schedule('0 17 * * 2,4', async() => {
     //every T, R at 5:00pm
     let rn = new Date()
     console.log("Cron just executed at: ", rn.toLocaleString())
     await submitAttendance(client, config)
+})
+
+// proverbs reminder
+cron.schedule('0 6 * * *', async() => {
+// cron.schedule('* * * * *', async() => {
+    await sendProverbs(client, config)
 })
 
 // cron.schedule('0 7,11,15 * * *', async() => {
