@@ -4,18 +4,29 @@ module.exports = async (client, config) => {
   let { MessageEmbed } = require("discord.js");
   let embed = new MessageEmbed()
     .setColor(config.bot.color)
-    .setTitle(`Read Proverbs ${day}!`);
-
-  let url = `https://www.bible.com/bible/59/PRO.${day}.ESV`;
+    .setTitle(`Read Proverbs ${day}!`)
+    .setImage("https://media.swncdn.com/via/12032-proverbs-summary-ccom.jpg");
   let components = [
     {
       type: 1,
       components: [
         {
           type: 2,
-          label: "Visit Passage!",
+          label: "Read ESV!",
           style: 5,
-          url: url,
+          url: `https://bible.com/bible/59/pro.${day}`,
+        },
+        {
+          type: 2,
+          label: "Read NKJV!",
+          style: 5,
+          url: `https://bible.com/bible/114/pro.${day}`,
+        },
+        {
+          type: 2,
+          label: "Read NIV!",
+          style: 5,
+          url: `https://proverbs.bible/proverbs-${day}`,
         },
       ],
     },
